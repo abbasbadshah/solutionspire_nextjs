@@ -38,7 +38,7 @@ export default function Services5() {
 				<div className="container position-relative z-2">
 					<div className="text-center">
 						<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-							<img src="assets/imgs/features-1/dots.png" alt="infinia" />
+							<img src="assets/imgs/features-1/dots.png" alt="Solution Spire" />
 							<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">What we offers</span>
 						</div>
 						<h3 className="ds-3 my-3">Explore Our Projects</h3>
@@ -64,7 +64,7 @@ export default function Services5() {
 						<div className="grid-sizer" />
 						<div className="filter-item col-12 col-md-4 seo marketing">
 							<div className="project-item zoom-img rounded-2 fix position-relative">
-								<img className="rounded-2" src="assets/imgs/project-1/img-1.png" alt="infinia" />
+								<img className="rounded-2" src="assets/imgs/project-1/img-1.png" alt="Solution Spire" />
 								<a href="#" className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 ">
 									<span className="shadow-sm d-flex align-items-center bg-white-keep d-inline-flex rounded-pill px-2 py-1 mb-3">
 										<span className="bg-primary fs-9 fw-bold rounded-pill px-2 py-1 text-white">Get</span>
@@ -81,7 +81,7 @@ export default function Services5() {
 						</div>
 						<div className="filter-item col-12 col-md-4 webdesign dataanalysis seo">
 							<div className="project-item zoom-img rounded-2 fix position-relative">
-								<img className="rounded-2" src="assets/imgs/project-1/img-2.png" alt="infinia" />
+								<img className="rounded-2" src="assets/imgs/project-1/img-2.png" alt="Solution Spire" />
 								<a href="#" className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 ">
 									<span className="shadow-sm d-flex align-items-center bg-white-keep d-inline-flex rounded-pill px-2 py-1 mb-3">
 										<span className="bg-primary fs-9 fw-bold rounded-pill px-2 py-1 text-white">Get</span>
@@ -98,7 +98,7 @@ export default function Services5() {
 						</div>
 						<div className="filter-item col-12 col-md-4 social marketing">
 							<div className="project-item zoom-img rounded-2 fix position-relative">
-								<img className="rounded-2" src="assets/imgs/project-1/img-3.png" alt="infinia" />
+								<img className="rounded-2" src="assets/imgs/project-1/img-3.png" alt="Solution Spire" />
 								<a href="#" className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 ">
 									<span className="shadow-sm d-flex align-items-center bg-white-keep d-inline-flex rounded-pill px-2 py-1 mb-3">
 										<span className="bg-primary fs-9 fw-bold rounded-pill px-2 py-1 text-white">Get</span>
@@ -115,7 +115,7 @@ export default function Services5() {
 						</div>
 						<div className="filter-item col-12 col-md-4 marketing app dataanalysis seo">
 							<div className="project-item zoom-img rounded-2 fix position-relative">
-								<img className="rounded-2" src="assets/imgs/project-1/img-4.png" alt="infinia" />
+								<img className="rounded-2" src="assets/imgs/project-1/img-4.png" alt="Solution Spire" />
 								<a href="#" className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 ">
 									<span className="shadow-sm d-flex align-items-center bg-white-keep d-inline-flex rounded-pill px-2 py-1 mb-3">
 										<span className="bg-primary fs-9 fw-bold rounded-pill px-2 py-1 text-white">Get</span>
@@ -132,7 +132,7 @@ export default function Services5() {
 						</div>
 						<div className="filter-item col-12 col-md-4 grid-item--height2 app dataanalysis">
 							<div className="project-item zoom-img rounded-2 fix position-relative">
-								<img className="rounded-2" src="assets/imgs/project-1/img-5.png" alt="infinia" />
+								<img className="rounded-2" src="assets/imgs/project-1/img-5.png" alt="Solution Spire" />
 								<a href="#" className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 ">
 									<span className="shadow-sm d-flex align-items-center bg-white-keep d-inline-flex rounded-pill px-2 py-1 mb-3">
 										<span className="bg-primary fs-9 fw-bold rounded-pill px-2 py-1 text-white">Get</span>
@@ -149,7 +149,7 @@ export default function Services5() {
 						</div>
 						<div className="filter-item col-12 col-md-4 social grid-item--width2">
 							<div className="project-item zoom-img rounded-2 fix position-relative">
-								<img className="rounded-2" src="assets/imgs/project-1/img-6.png" alt="infinia" />
+								<img className="rounded-2" src="assets/imgs/project-1/img-6.png" alt="Solution Spire" />
 								<a href="#" className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 ">
 									<span className="shadow-sm d-flex align-items-center bg-white-keep d-inline-flex rounded-pill px-2 py-1 mb-3">
 										<span className="bg-primary fs-9 fw-bold rounded-pill px-2 py-1 text-white">Get</span>
@@ -183,7 +183,7 @@ export default function Services5() {
 					</div>
 				</div>
 				<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-					<img src="assets/imgs/service-2/bg-line.png" alt="infinia" />
+					<img src="assets/imgs/service-2/bg-line.png" alt="Solution Spire" />
 				</div>
 				<div className="rotate-center ellipse-rotate-success position-absolute z-1" />
 				<div className="rotate-center-rev ellipse-rotate-primary position-absolute z-1" />

@@ -18,7 +18,7 @@ export default function Faqs2() {
 				<div className="container position-relative z-2">
 					<div className="text-center mb-8">
 						<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-							<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+							<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 							<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Pricing FAQs</span>
 						</div>
 						<h3 className="ds-3 my-3 fw-bold">Ask us anything</h3>
@@ -30,7 +30,7 @@ export default function Faqs2() {
 								<div className="mb-3 card p-3 border bg-white rounded-3">
 									<div className="px-0 card-header border-0 bg-gradient-1">
 										<a className={` ${activeItem} == 1 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(1)} data-bs-toggle="collapse" >
-											<h6 className="m-0">What are the key benefits of using <span className="text-primary">Infinia System</span></h6>
+											<h6 className="m-0">What are the key benefits of using <span className="text-primary">Solution Spire System</span></h6>
 											<span className="ms-auto arrow me-2">
 												<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 													<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -47,7 +47,7 @@ export default function Faqs2() {
 								<div className="mb-3 card p-3 border bg-white rounded-3">
 									<div className="px-0 card-header border-0 bg-gradient-1">
 										<a className={` ${activeItem} == 2 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(2)} data-bs-toggle="collapse" >
-											<h6 className="m-0">What features does <span className="text-primary">Infinia</span> offer?</h6>
+											<h6 className="m-0">What features does <span className="text-primary">Solution Spire</span> offer?</h6>
 											<span className="ms-auto arrow me-2">
 												<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 													<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />

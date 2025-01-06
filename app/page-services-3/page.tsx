@@ -77,7 +77,7 @@ export default function PageServices3() {
 							</div>
 						</div>
 					</div>
-					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="infinia" />
+					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="Solution Spire" />
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />
 						<div className="bouncing-blobs">
@@ -97,7 +97,7 @@ export default function PageServices3() {
 								<div className="row align-items-center">
 									<div className="col-lg-6 text-lg-start text-center">
 										<div className="position-relative z-1 d-inline-block mb-lg-0 mb-8">
-											<img className="rounded-4 position-relative z-1" src="/assets/imgs/cta-7/img-1.png" alt="infinia" />
+											<img className="rounded-4 position-relative z-1" src="/assets/imgs/cta-7/img-1.png" alt="Solution Spire" />
 											<div className="alltuchtopdown position-absolute top-50 start-50 ms-md-10 mt-md-10 backdrop-filter bg-primary rounded-4 px-6 py-4 text-center z-1">
 												<span className="h2 count fw-black mb-0 lh-1 text-white text-nowrap">+<span className="odometer" /><CountUp end={23} enableScrollSpy={true} />k</span>
 												<p className="text-white text-nowrap border-bottom border-opacity-50 border-white pb-3 mb-3">Projects Completed</p>
@@ -122,25 +122,25 @@ export default function PageServices3() {
 										</nav>
 										<div className="tab-content" id="nav-tabContent">
 											<div className={`${isTab == 1 ? "tab-pane fade show active" : "tab-pane fade"}`} role="tabpanel" >
-												<p className="text-900 mb-3">Founded in 1998, <span className="fw-black">Infinia</span> started as a small consulting firm with a big vision: to provide unparalleled strategic and operational expertise to businesses of all sizes.</p>
+												<p className="text-900 mb-3">Founded in 1998, <span className="fw-black">Solution Spire</span> started as a small consulting firm with a big vision: to provide unparalleled strategic and operational expertise to businesses of all sizes.</p>
 												<div className="row">
 													<div className="col-12 col-md-6 mb-3 mb-md-0">
 														<p className="text-900">Over the years, we have expanded our services and grown our team of skilled professionals, building a reputation for delivering results-driven solutions. From our humble beginnings to becoming a trusted partner for clients across diverse industries</p>
 														<ul className="list-unstyled phase-items mb-0">
 															<li className="d-flex align-items-center mt-3">
-																<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+																<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 																<p className="ms-2 mb-0 text-900 fs-6">Best For IT Consulting</p>
 															</li>
 															<li className="d-flex align-items-center mt-3">
-																<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+																<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 																<p className="ms-2 mb-0 text-900 fs-6">Tailored Solutions</p>
 															</li>
 															<li className="d-flex align-items-center mt-3">
-																<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+																<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 																<p className="ms-2 mb-0 text-900 fs-6">Save Money  Time</p>
 															</li>
 															<li className="d-flex align-items-center mt-3">
-																<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+																<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 																<p className="ms-2 mb-0 text-900 fs-6">Expert Team</p>
 															</li>
 														</ul>
@@ -149,7 +149,7 @@ export default function PageServices3() {
 														<img className="rounded-3" src="/assets/imgs/cta-7/img-2.png" alt="" />
 														<Link href="#" className="position-md-absolute d-block translate-middle-md  w-50 start-0 ms-md-0 ms-10 mt-3 mt-md-0 p-3 rounded-3 bg-linear-1">
 															<span className="rounded-circle">
-																<img className="rounded-circle border border-5 border-primary-light" src=" assets/imgs/cta-2/avatar-1.png" alt="infinia" />
+																<img className="rounded-circle border border-5 border-primary-light" src=" assets/imgs/cta-2/avatar-1.png" alt="Solution Spire" />
 															</span>
 															<h6 className="mt-1">Kensei <span className="text-500 fs-6">, CEO</span></h6>
 														</Link>
@@ -173,25 +173,25 @@ export default function PageServices3() {
 												</div>
 											</div>
 											<div className={`${isTab == 3 ? "tab-pane fade show active" : "tab-pane fade"}`} role="tabpanel">
-												<p className="text-900 mb-4">At Infinia, our vision is to empower businesses to reach their full potential through innovative strategies and expert operational support. </p>
+												<p className="text-900 mb-4">At Solution Spire, our vision is to empower businesses to reach their full potential through innovative strategies and expert operational support. </p>
 												<div className="row">
 													<div className="col-12 col-md-6">
 														<p className="text-900">We strive to be the leading consulting firm known for our unwavering commitment to excellence, integrity, and client success. By continuously evolving and adapting to the ever-changing business landscape, we aim to provide solutions that not only meet the needs of today but also anticipate the challenges of tomorrow.</p>
 														<ul className="list-unstyled phase-items mb-0">
 															<li className="d-flex align-items-center mt-3">
-																<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+																<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 																<p className="ms-2 mb-0 text-900 fs-6">Empower Businesses</p>
 															</li>
 															<li className="d-flex align-items-center mt-3">
-																<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+																<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 																<p className="ms-2 mb-0 text-900 fs-6">Commitment to Excellence</p>
 															</li>
 															<li className="d-flex align-items-center mt-3">
-																<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+																<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 																<p className="ms-2 mb-0 text-900 fs-6">Continuous Evolution</p>
 															</li>
 															<li className="d-flex align-items-center mt-3">
-																<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+																<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 																<p className="ms-2 mb-0 text-900 fs-6">Client-Centric Solutions</p>
 															</li>
 														</ul>
@@ -215,7 +215,7 @@ export default function PageServices3() {
 								</div>
 							</div>
 							<div className="position-absolute top-0 end-0 z-1 flickering p-10 m-10 d-none d-lg-block">
-								<img src="/assets/imgs/cta-7/star-1.svg" alt="infinia" />
+								<img src="/assets/imgs/cta-7/star-1.svg" alt="Solution Spire" />
 							</div>
 						</div>
 					</div>
@@ -225,7 +225,7 @@ export default function PageServices3() {
 					<div className="container position-relative z-2">
 						<div className="text-center">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">What we offers</span>
 							</div>
 							<h3 className="ds-3 my-3 fw-regular">Building <span className=" fw-bold">enduring value <br className="d-none d-md-inline" /> </span>through <span className="fw-bold">bold</span> strategies</h3>
@@ -287,7 +287,7 @@ export default function PageServices3() {
 													<div className="d-flex pt-5">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-1.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-1.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -298,7 +298,7 @@ export default function PageServices3() {
 													<div className="d-flex">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-2.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-2.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -322,7 +322,7 @@ export default function PageServices3() {
 													<div className="d-flex pt-5">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-1.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-1.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -333,7 +333,7 @@ export default function PageServices3() {
 													<div className="d-flex">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-2.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-2.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -357,7 +357,7 @@ export default function PageServices3() {
 													<div className="d-flex pt-5">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-1.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-1.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -368,7 +368,7 @@ export default function PageServices3() {
 													<div className="d-flex">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-2.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-2.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -392,7 +392,7 @@ export default function PageServices3() {
 													<div className="d-flex pt-5">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-1.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-1.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -403,7 +403,7 @@ export default function PageServices3() {
 													<div className="d-flex">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-2.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-2.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -427,7 +427,7 @@ export default function PageServices3() {
 													<div className="d-flex pt-5">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-1.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-1.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -438,7 +438,7 @@ export default function PageServices3() {
 													<div className="d-flex">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-2.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-2.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -462,7 +462,7 @@ export default function PageServices3() {
 													<div className="d-flex pt-5">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-1.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-1.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -473,7 +473,7 @@ export default function PageServices3() {
 													<div className="d-flex">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-2.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-2.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -505,7 +505,7 @@ export default function PageServices3() {
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/blog-2/img-bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/blog-2/img-bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />
@@ -566,11 +566,11 @@ export default function PageServices3() {
 						<div className="row mb-8 mb-lg-6">
 							<div className="col-lg-6">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Why us ?</span>
 								</div>
 								<h3 className="ds-3 mt-3 mb-3">Reach out to <br /> the world’s most</h3>
-								<p className="fs-5 fw-medium">⚡Here are a few reasons why our customers choose Infinia.</p>
+								<p className="fs-5 fw-medium">⚡Here are a few reasons why our customers choose Solution Spire.</p>
 							</div>
 							<div className="col-lg-2 col-md-3 col-5 ms-auto align-self-end mb-lg-7">
 								<div className="position-relative z-0">
@@ -592,7 +592,7 @@ export default function PageServices3() {
 									{/* prettier-ignore */}
 									<SwiperSlide className="swiper-slide">
 										<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover">
-											<img className="rounded-top-3" src="/assets/imgs/features-7/img-1.png" alt="infinia" />
+											<img className="rounded-top-3" src="/assets/imgs/features-7/img-1.png" alt="Solution Spire" />
 											<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 												<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">business</span>
 											</Link>
@@ -610,7 +610,7 @@ export default function PageServices3() {
 									</SwiperSlide>
 									<SwiperSlide className="swiper-slide">
 										<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover">
-											<img className="rounded-top-3" src="/assets/imgs/features-7/img-2.png" alt="infinia" />
+											<img className="rounded-top-3" src="/assets/imgs/features-7/img-2.png" alt="Solution Spire" />
 											<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 												<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Research</span>
 											</Link>
@@ -628,7 +628,7 @@ export default function PageServices3() {
 									</SwiperSlide>
 									<SwiperSlide className="swiper-slide">
 										<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover">
-											<img className="rounded-top-3" src="/assets/imgs/features-7/img-3.png" alt="infinia" />
+											<img className="rounded-top-3" src="/assets/imgs/features-7/img-3.png" alt="Solution Spire" />
 											<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 												<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Social Media</span>
 											</Link>
@@ -646,7 +646,7 @@ export default function PageServices3() {
 									</SwiperSlide>
 									<SwiperSlide className="swiper-slide">
 										<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover">
-											<img className="rounded-top-3" src="/assets/imgs/features-7/img-1.png" alt="infinia" />
+											<img className="rounded-top-3" src="/assets/imgs/features-7/img-1.png" alt="Solution Spire" />
 											<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 												<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">business</span>
 											</Link>
@@ -664,7 +664,7 @@ export default function PageServices3() {
 									</SwiperSlide>
 									<SwiperSlide className="swiper-slide">
 										<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover">
-											<img className="rounded-top-3" src="/assets/imgs/features-7/img-2.png" alt="infinia" />
+											<img className="rounded-top-3" src="/assets/imgs/features-7/img-2.png" alt="Solution Spire" />
 											<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 												<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Research</span>
 											</Link>
@@ -682,7 +682,7 @@ export default function PageServices3() {
 									</SwiperSlide>
 									<SwiperSlide className="swiper-slide">
 										<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover">
-											<img className="rounded-top-3" src="/assets/imgs/features-7/img-3.png" alt="infinia" />
+											<img className="rounded-top-3" src="/assets/imgs/features-7/img-3.png" alt="Solution Spire" />
 											<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 												<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Social Media</span>
 											</Link>

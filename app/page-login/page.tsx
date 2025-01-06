@@ -16,15 +16,15 @@ export default function PageLogin() {
 								<h3>Welcome back!</h3>
 								<p className="text-500">Create an account today and start using our platform</p>
 								<Link href="#" className="btn rounded-3 bg-white border w-100 mb-3">
-									<img src="/assets/imgs/other/icon-gg.svg" alt="infinia" />
+									<img src="/assets/imgs/other/icon-gg.svg" alt="Solution Spire" />
 									<span className="fs-7 text-900 fw-bold ms-1">Sign up with Google</span>
 								</Link>
 								<Link href="#" className="btn rounded-3 bg-white border w-100 mb-3">
-									<img src="/assets/imgs/other/icon-apid.svg" alt="infinia" />
+									<img src="/assets/imgs/other/icon-apid.svg" alt="Solution Spire" />
 									<span className="fs-7 text-900 fw-bold ms-1">Sign up with Google</span>
 								</Link>
 								<Link href="#" className="btn rounded-3 bg-white border w-100 mb-3">
-									<img src="/assets/imgs/other/icon-twt.svg" alt="infinia" />
+									<img src="/assets/imgs/other/icon-twt.svg" alt="Solution Spire" />
 									<span className="fs-7 text-900 fw-bold ms-1">Sign up with Google</span>
 								</Link>
 								<div className="border-top mt-3 mb-2 position-relative">
@@ -83,16 +83,16 @@ export default function PageLogin() {
 						</div>
 					</div>
 					<div className="position-lg-absolute start-0 bottom-0 top-0">
-						<img className="h-100 w-100 object-fit-cover" src="/assets/imgs/other/img-8.png" alt="infinia" />
+						<img className="h-100 w-100 object-fit-cover" src="/assets/imgs/other/img-8.png" alt="Solution Spire" />
 						<div className="position-absolute bottom-0 end-0 m-8 backdrop-filter rounded-4 px-7 py-4 text-center z-1">
 							<p className="pt-2 text-white fs-5">
 								Loved by over 4k <br />
 								happy clients
 							</p>
 							<div className="d-flex align-items-center justify-content-center py-4">
-								<img src="/assets/imgs/features-3/avatar-1.png" alt="infinia" />
-								<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="infinia" />
-								<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="infinia" />
+								<img src="/assets/imgs/features-3/avatar-1.png" alt="Solution Spire" />
+								<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="Solution Spire" />
+								<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="Solution Spire" />
 							</div>
 							<div className="d-flex align-items-center justify-content-center">
 								<svg xmlns="http://www.w3.org/2000/svg" width={26} height={26} viewBox="0 0 26 26" fill="none">
@@ -135,7 +135,7 @@ export default function PageLogin() {
 								<div className="bg-primary rounded-circle d-inline-flex icon-sm icon-shape p-4">
 									<h5 className="m-0 text-white">3</h5>
 								</div>
-								<h6 className="mt-3">Connect Infinia</h6>
+								<h6 className="mt-3">Connect Solution Spire</h6>
 								<p className="text-500">Create a real or demo trading account on our platform. No credit card required.</p>
 							</div>
 							<div className="col-lg-3 col-md-6 pe-6">

@@ -7,7 +7,7 @@ export default function PageContact1() {
 	return (
 		<>
 
-			<Layout >
+			<Layout headerStyle={4}>
 
 				{/* Contact 4*/}
 				<section className="section-contact-4 bg-4 section-padding">
@@ -22,31 +22,31 @@ export default function PageContact1() {
 							</div>
 							<div className="col-lg-6">
 								<div className="rounded-4 border border-5 border-white zoom-img mb-5">
-									<img className="rounded-4 w-100" src="/assets/imgs/contact-4/img-1.png" alt="infinia" />
+									<img className="rounded-4 w-100" src="/assets/imgs/contact-4/img-1.png" alt="Solution Spire" />
 								</div>
 							</div>
 							<div className="col-lg-4">
 								<div className="rounded-4 border border-5 border-white zoom-img mb-5 mb-lg-0">
-									<img className="rounded-4 w-100" src="/assets/imgs/contact-4/img-2.png" alt="infinia" />
+									<img className="rounded-4 w-100" src="/assets/imgs/contact-4/img-2.png" alt="Solution Spire" />
 								</div>
 							</div>
 							<div className="col-lg-4">
 								<div className="h-100 bg-primary rounded-4 d-flex align-items-center justify-content-center border position-relative border-5 fix border-white py-5">
 									<div className="position-relative z-1 fix">
 										<div className="d-flex justify-content-center">
-											<img src="/assets/imgs/hero-1/avatar-1.png" alt="infinia" />
-											<img className="avt-hero" src="/assets/imgs/hero-1/avatar-2.png" alt="infinia" />
-											<img className="avt-hero" src=" assets/imgs/hero-1/avatar-3.png" alt="infinia" />
+											<img src="/assets/imgs/hero-1/avatar-1.png" alt="Solution Spire" />
+											<img className="avt-hero" src="/assets/imgs/hero-1/avatar-2.png" alt="Solution Spire" />
+											<img className="avt-hero" src=" assets/imgs/hero-1/avatar-3.png" alt="Solution Spire" />
 										</div>
 										<h1 className="count fw-black text-white my-0">+<span className="odometer" /><CountUp end={500} enableScrollSpy={true} />k</h1>
 										<p className="fs-5 text-100-keep mb-0">Users Active / Month</p>
 									</div>
-									<img className="position-absolute top-50 start-50 translate-middle z-0" src="/assets/imgs/contact-4/img-bg-1.png" alt="infinia" />
+									<img className="position-absolute top-50 start-50 translate-middle z-0" src="/assets/imgs/contact-4/img-bg-1.png" alt="Solution Spire" />
 								</div>
 							</div>
 							<div className="col-lg-4">
 								<div className="rounded-4 border border-5 border-white zoom-img mt-5 mt-lg-0">
-									<img className="rounded-4 w-100" src="/assets/imgs/contact-4/img-3.png" alt="infinia" />
+									<img className="rounded-4 w-100" src="/assets/imgs/contact-4/img-3.png" alt="Solution Spire" />
 								</div>
 							</div>
 						</div>
@@ -60,7 +60,7 @@ export default function PageContact1() {
 								<div className="feature-item mb-5 mb-lg-0 pe-5 hover-up">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/contact-5/icon-1.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-5/icon-1.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h6>Help  support</h6>
@@ -75,7 +75,7 @@ export default function PageContact1() {
 								<div className="feature-item mb-5 mb-lg-0 pe-5 hover-up">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/contact-5/icon-2.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-5/icon-2.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h6>Call Us</h6>
@@ -90,7 +90,7 @@ export default function PageContact1() {
 								<div className="feature-item mb-5 mb-lg-0 pe-5 hover-up">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/contact-5/icon-3.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-5/icon-3.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h6>Business Department</h6>
@@ -104,7 +104,7 @@ export default function PageContact1() {
 								<div className="feature-item mb-5 mb-lg-0 pe-5 hover-up">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/contact-5/icon-4.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-5/icon-4.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h6>Global branch</h6>
@@ -124,17 +124,17 @@ export default function PageContact1() {
 						<div className="row">
 							<div className="col-lg-6">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft-keep border border-2 border-white-keep d-inline-flex rounded-pill px-4 py-2">
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Contact Us</span>
 								</div>
 								<h5 className="ds-5 mt-3 mb-3 text-white">Thinking about a project? Get in touch with us.</h5>
 								<span className="fs-5 fw-medium text-white">Please let us know if you have a question, want to leave <br className="d-none d-lg-block" />
 									a comment, or would like further information about <br className="d-none d-lg-block" />
-									Infinia System</span>
+									Solution Spire System</span>
 								<div className="d-flex pt-6 pb-3 align-items-center">
 									<div className="bg-white-keep icon-flip position-relative icon-shape icon-xxl rounded-3">
 										<div className="icon">
-											<img src="/assets/imgs/contact-1/icon-1.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-1/icon-1.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<div className="ps-5">
@@ -145,7 +145,7 @@ export default function PageContact1() {
 								<div className="d-flex pt-3 pb-3 align-items-center">
 									<div className="bg-white-keep icon-flip position-relative icon-shape icon-xxl rounded-3">
 										<div className="icon">
-											<img src="/assets/imgs/contact-1/icon-2.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-1/icon-2.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<div className="ps-5">
@@ -159,7 +159,7 @@ export default function PageContact1() {
 								<div className="d-flex pt-3 pb-3 align-items-center">
 									<div className="bg-white-keep icon-flip position-relative icon-shape icon-xxl rounded-3">
 										<div className="icon">
-											<img src="/assets/imgs/contact-1/icon-3.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-1/icon-3.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<div className="ps-5">

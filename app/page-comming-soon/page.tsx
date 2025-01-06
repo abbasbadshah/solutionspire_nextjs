@@ -14,7 +14,7 @@ export default function PageComingSoon() {
 							<div className="col-lg-6">
 								<div className="text-start mb-lg-0 mb-5">
 									<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Under Construction</span>
 									</div>
 									<h3 className="ds-3 my-3">
@@ -31,7 +31,7 @@ export default function PageComingSoon() {
 								</div>
 							</div>
 							<div className="col-lg-6 text-lg-end text-center">
-								<img src="/assets/imgs/cta-1/img-1.png" alt="infinia" />
+								<img src="/assets/imgs/cta-1/img-1.png" alt="Solution Spire" />
 							</div>
 						</div>
 					</div>

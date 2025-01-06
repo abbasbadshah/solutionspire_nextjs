@@ -13,7 +13,7 @@ export default function PageIntegration() {
 					<div className="container">
 						<div className="text-center mb-8">
 							<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">working process</span>
 							</div>
 							<h3 className="ds-3 my-3">Access and integrate with 150+ of your preferred tools</h3>
@@ -23,7 +23,7 @@ export default function PageIntegration() {
 							<div className="col-lg-4 col-md-6">
 								<div className="border rounded-4 p-2 mb-4">
 									<div className="p-6 rounded-3 border">
-										<img className="filter-invert" src="/assets/imgs/other/icon-1.svg" alt="infinia" />
+										<img className="filter-invert" src="/assets/imgs/other/icon-1.svg" alt="Solution Spire" />
 										<p className="pt-4 mt-4 mb-4 border-top">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 										<Link href="#">
 											<span className="fw-bold text-primary">Install now</span>
@@ -37,7 +37,7 @@ export default function PageIntegration() {
 							<div className="col-lg-4 col-md-6">
 								<div className="border rounded-4 p-2 mb-4">
 									<div className="p-6 rounded-3 border">
-										<img className="@@filter" src="/assets/imgs/other/icon-2.svg" alt="infinia" />
+										<img className="@@filter" src="/assets/imgs/other/icon-2.svg" alt="Solution Spire" />
 										<p className="pt-4 mt-4 mb-4 border-top">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 										<Link href="#">
 											<span className="fw-bold text-primary">Install now</span>
@@ -51,7 +51,7 @@ export default function PageIntegration() {
 							<div className="col-lg-4 col-md-6">
 								<div className="border rounded-4 p-2 mb-4">
 									<div className="p-6 rounded-3 border">
-										<img className="@@filter" src="/assets/imgs/other/icon-3.svg" alt="infinia" />
+										<img className="@@filter" src="/assets/imgs/other/icon-3.svg" alt="Solution Spire" />
 										<p className="pt-4 mt-4 mb-4 border-top">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 										<Link href="#">
 											<span className="fw-bold text-primary">Install now</span>
@@ -65,7 +65,7 @@ export default function PageIntegration() {
 							<div className="col-lg-4 col-md-6">
 								<div className="border rounded-4 p-2 mb-4">
 									<div className="p-6 rounded-3 border">
-										<img className="filter-invert" src="/assets/imgs/other/icon-4.svg" alt="infinia" />
+										<img className="filter-invert" src="/assets/imgs/other/icon-4.svg" alt="Solution Spire" />
 										<p className="pt-4 mt-4 mb-4 border-top">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 										<Link href="#">
 											<span className="fw-bold text-primary">Install now</span>
@@ -79,7 +79,7 @@ export default function PageIntegration() {
 							<div className="col-lg-4 col-md-6">
 								<div className="border rounded-4 p-2 mb-4">
 									<div className="p-6 rounded-3 border">
-										<img className="@@filter" src="/assets/imgs/other/icon-5.svg" alt="infinia" />
+										<img className="@@filter" src="/assets/imgs/other/icon-5.svg" alt="Solution Spire" />
 										<p className="pt-4 mt-4 mb-4 border-top">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 										<Link href="#">
 											<span className="fw-bold text-primary">Install now</span>
@@ -93,7 +93,7 @@ export default function PageIntegration() {
 							<div className="col-lg-4 col-md-6">
 								<div className="border rounded-4 p-2 mb-4">
 									<div className="p-6 rounded-3 border">
-										<img className="filter-invert" src="/assets/imgs/other/icon-6.svg" alt="infinia" />
+										<img className="filter-invert" src="/assets/imgs/other/icon-6.svg" alt="Solution Spire" />
 										<p className="pt-4 mt-4 mb-4 border-top">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 										<Link href="#">
 											<span className="fw-bold text-primary">Install now</span>
@@ -107,7 +107,7 @@ export default function PageIntegration() {
 							<div className="col-lg-4 col-md-6">
 								<div className="border rounded-4 p-2 mb-4">
 									<div className="p-6 rounded-3 border">
-										<img className="@@filter" src="/assets/imgs/other/icon-7.svg" alt="infinia" />
+										<img className="@@filter" src="/assets/imgs/other/icon-7.svg" alt="Solution Spire" />
 										<p className="pt-4 mt-4 mb-4 border-top">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 										<Link href="#">
 											<span className="fw-bold text-primary">Install now</span>
@@ -121,7 +121,7 @@ export default function PageIntegration() {
 							<div className="col-lg-4 col-md-6">
 								<div className="border rounded-4 p-2 mb-4">
 									<div className="p-6 rounded-3 border">
-										<img className="filter-invert" src="/assets/imgs/other/icon-8.svg" alt="infinia" />
+										<img className="filter-invert" src="/assets/imgs/other/icon-8.svg" alt="Solution Spire" />
 										<p className="pt-4 mt-4 mb-4 border-top">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 										<Link href="#">
 											<span className="fw-bold text-primary">Install now</span>
@@ -135,7 +135,7 @@ export default function PageIntegration() {
 							<div className="col-lg-4 col-md-6">
 								<div className="border rounded-4 p-2 mb-4">
 									<div className="p-6 rounded-3 border">
-										<img className="@@filter" src="/assets/imgs/other/icon-9.svg" alt="infinia" />
+										<img className="@@filter" src="/assets/imgs/other/icon-9.svg" alt="Solution Spire" />
 										<p className="pt-4 mt-4 mb-4 border-top">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 										<Link href="#">
 											<span className="fw-bold text-primary">Install now</span>
@@ -192,7 +192,7 @@ export default function PageIntegration() {
 					<div className="container position-relative z-1">
 						<div className="text-center mb-8">
 							<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">working process</span>
 							</div>
 							<h3 className="ds-3 my-3 fw-black">How It Works</h3>
@@ -200,7 +200,7 @@ export default function PageIntegration() {
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/howitwork-2/img-bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/howitwork-2/img-bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="container">
 						<div className="row position-relative justify-content-center">
@@ -208,7 +208,7 @@ export default function PageIntegration() {
 								<div className="card-service-4 text-center mt-2">
 									<div className="bg-white icon-flip position-relative icon-shape icon-xxl rounded-3">
 										<div className="icon">
-											<img src="/assets/imgs/howitwork-2/icon-1.svg" alt="infinia" />
+											<img src="/assets/imgs/howitwork-2/icon-1.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h5 className="my-3">Choose Services</h5>
@@ -219,7 +219,7 @@ export default function PageIntegration() {
 								<div className="card-service-4 text-center mt-2">
 									<div className="bg-white icon-flip position-relative icon-shape icon-xxl rounded-3">
 										<div className="icon">
-											<img src="/assets/imgs/howitwork-2/icon-2.svg" alt="infinia" />
+											<img src="/assets/imgs/howitwork-2/icon-2.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h5 className="my-3">Project Analysis</h5>
@@ -230,7 +230,7 @@ export default function PageIntegration() {
 								<div className="card-service-4 text-center mt-2">
 									<div className="bg-white icon-flip position-relative icon-shape icon-xxl rounded-3">
 										<div className="icon">
-											<img src="/assets/imgs/howitwork-2/icon-3.svg" alt="infinia" />
+											<img src="/assets/imgs/howitwork-2/icon-3.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h5 className="my-3">Got Final Result</h5>
@@ -239,10 +239,10 @@ export default function PageIntegration() {
 							</div>
 						</div>
 						<div className="navigation-arrow-1 d-none d-lg-block position-absolute top-50">
-							<img src="/assets/imgs/howitwork-2/arrow-1.png" alt="infinia" />
+							<img src="/assets/imgs/howitwork-2/arrow-1.png" alt="Solution Spire" />
 						</div>
 						<div className="navigation-arrow-2 d-none d-lg-block position-absolute">
-							<img src="/assets/imgs/howitwork-2/arrow-2.png" alt="infinia" />
+							<img src="/assets/imgs/howitwork-2/arrow-2.png" alt="Solution Spire" />
 						</div>
 						<div className="row">
 							<div className="text-center mt-6">
@@ -266,7 +266,7 @@ export default function PageIntegration() {
 								<div className="text-center mb-lg-0 mb-5">
 									<h4 className="ds-4 my-3">
 										+100k users <span className="fw-regular">have loved </span><br />
-										Infinia Conference <span className="fw-regular">System</span>
+										Solution Spire Conference <span className="fw-regular">System</span>
 									</h4>
 									<p className="fs-5 mb-0">
 										Provide your team with top-tier group mentoring <br className="d-none d-lg-block" />
@@ -280,11 +280,11 @@ export default function PageIntegration() {
 								<div className="bg-neutral-100 p-5 rounded-3" data-aos="fade-zoom-in" data-aos-delay={0}>
 									<p className="text-900">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 									<div className="d-flex align-items-center mt-5">
-										<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-1.png" alt="infinia" />
+										<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-1.png" alt="Solution Spire" />
 										<div className="d-flex flex-column">
 											<h6 className="ms-3 fs-6 mb-0">Kathryn Murphy</h6>
 											<div className="flag ms-3">
-												<img src="/assets/imgs/testimonial-1/flag-1.png" alt="infinia" />
+												<img src="/assets/imgs/testimonial-1/flag-1.png" alt="Solution Spire" />
 												<span className="fs-8">CEO of Tech Innovators Inc</span>
 											</div>
 										</div>
@@ -293,11 +293,11 @@ export default function PageIntegration() {
 								<div className="bg-neutral-100 p-5 mt-5 rounded-3" data-aos="fade-zoom-in" data-aos-delay={100}>
 									<p className="text-900">Our experience with this team has surpassed our expectations on every front. <span className="fw-bold">The comprehensive suite of over 1200 UI blocks has enabled us to craft highly functional</span> and aesthetically pleasing user interfaces that resonate with our target audience. Equally impressive is the premium support team's proactive approach.</p>
 									<div className="d-flex align-items-center mt-5">
-										<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-4.png" alt="infinia" />
+										<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-4.png" alt="Solution Spire" />
 										<div className="d-flex flex-column">
 											<h6 className="ms-3 fs-6 mb-0">Emily Adams</h6>
 											<div className="flag ms-3">
-												<img src="/assets/imgs/testimonial-1/flag-4.png" alt="infinia" />
+												<img src="/assets/imgs/testimonial-1/flag-4.png" alt="Solution Spire" />
 												<span className="fs-8">Software Engineer</span>
 											</div>
 										</div>
@@ -308,11 +308,11 @@ export default function PageIntegration() {
 								<div className="bg-neutral-100 p-5 mt-5 mt-lg-0 rounded-3" data-aos="fade-zoom-in" data-aos-delay={200}>
 									<p className="text-900">The individual email account feature has improved internal communication clarity and professionalism. Moreover, the premium support team's responsiveness and expertise have ensured minimal <span className="fw-bold">disruptions and quick resolutions</span> to any technical challenges we've faced. I highly recommend their services for any enterprise seeking robust SaaS solutions,</p>
 									<div className="d-flex align-items-center mt-5">
-										<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-3.png" alt="infinia" />
+										<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-3.png" alt="Solution Spire" />
 										<div className="d-flex flex-column">
 											<h6 className="ms-3 fs-6 mb-0">Sarah Thompson</h6>
 											<div className="flag ms-3">
-												<img src="/assets/imgs/testimonial-1/flag-3.png" alt="infinia" />
+												<img src="/assets/imgs/testimonial-1/flag-3.png" alt="Solution Spire" />
 												<span className="fs-8">Marketing Director</span>
 											</div>
 										</div>
@@ -321,11 +321,11 @@ export default function PageIntegration() {
 								<div className="bg-neutral-100 p-5 mt-5 rounded-3" data-aos="fade-zoom-in" data-aos-delay={0}>
 									<p className="text-900">The individual email account feature has improved internal communication clarity and professionalism. Moreover, the premium support team's responsiveness and expertise have ensured minimal <span className="fw-bold">disruptions and quick resolutions</span> to any technical challenges we've faced. I highly recommend their services for any enterprise seeking robust SaaS solutions,</p>
 									<div className="d-flex align-items-center mt-5">
-										<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-3.png" alt="infinia" />
+										<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-3.png" alt="Solution Spire" />
 										<div className="d-flex flex-column">
 											<h6 className="ms-3 fs-6 mb-0">Sarah Thompson</h6>
 											<div className="flag ms-3">
-												<img src="/assets/imgs/testimonial-1/flag-3.png" alt="infinia" />
+												<img src="/assets/imgs/testimonial-1/flag-3.png" alt="Solution Spire" />
 												<span className="fs-8">Marketing Director</span>
 											</div>
 										</div>
@@ -336,11 +336,11 @@ export default function PageIntegration() {
 								<div className="bg-neutral-100 p-5 mt-5 mt-lg-0 rounded-3" data-aos="fade-zoom-in" data-aos-delay={100}>
 									<p className="text-900">Our collaboration with the team has been instrumental in optimizing our project management processes. <span className="fw-bold">The extensive selection of over 1200 UI blocks has allowed us to customize our project interfaces to meet specific client needs effectively.</span> The generous 10 GB of cloud storage has provided ample space for storing project files securely, enabling seamless collaboration across distributed teams.</p>
 									<div className="d-flex align-items-center mt-5">
-										<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-2.png" alt="infinia" />
+										<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-2.png" alt="Solution Spire" />
 										<div className="d-flex flex-column">
 											<h6 className="ms-3 fs-6 mb-0">Emily Davis</h6>
 											<div className="flag ms-3">
-												<img src="/assets/imgs/testimonial-1/flag-2.png" alt="infinia" />
+												<img src="/assets/imgs/testimonial-1/flag-2.png" alt="Solution Spire" />
 												<span className="fs-8">Software Engineer</span>
 											</div>
 										</div>
@@ -349,11 +349,11 @@ export default function PageIntegration() {
 								<div className="bg-neutral-100 p-5 mt-5 rounded-3" data-aos="fade-zoom-in" data-aos-delay={200}>
 									<p className="text-900">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 									<div className="d-flex align-items-center mt-5">
-										<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-1.png" alt="infinia" />
+										<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-1.png" alt="Solution Spire" />
 										<div className="d-flex flex-column">
 											<h6 className="ms-3 fs-6 mb-0">Kathryn Murphy</h6>
 											<div className="flag ms-3">
-												<img src="/assets/imgs/testimonial-1/flag-1.png" alt="infinia" />
+												<img src="/assets/imgs/testimonial-1/flag-1.png" alt="Solution Spire" />
 												<span className="fs-8">CEO of Tech Innovators Inc</span>
 											</div>
 										</div>

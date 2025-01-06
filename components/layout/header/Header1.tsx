@@ -12,7 +12,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
 				<nav className={`navbar navbar-expand-lg navbar-light w-100 z-999 ${scroll ? 'navbar-stick' : ''}`} style={{ position: `${scroll? "fixed" : "relative"}`, top: `${scroll? "0" : "auto"}` }}>
 					<div className="container">
 						<Link className="navbar-brand d-flex main-logo align-items-center" href="/">
-							<img src="/assets/imgs/template/favicon.svg" alt="infinia" />
+							<img src="/assets/imgs/template/favicon.svg" alt="Solution Spire" />
 							<span>Solution Spire</span>
 						</Link>
 						<Menu/>

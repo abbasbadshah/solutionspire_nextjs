@@ -56,7 +56,7 @@ export default function PageWorkProcess() {
 					<div className="container position-relative z-2">
 						<div className="text-center">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">How It Work</span>
 							</div>
 							<h5 className="ds-5 my-3 fw-regular">What are the <span className="fw-bold">Steps Involved</span> in <br /> Our <span className="fw-bold">Process?</span></h5>
@@ -65,7 +65,7 @@ export default function PageWorkProcess() {
 							<div className="col-10 mx-auto">
 								<div className="position-relative">
 									<div className="zoom-img rounded-4 border-5 border-white border position-relative z-2">
-										<img className="rounded-3" src="/assets/imgs/cta-14/img-1.png" alt="infinia" />
+										<img className="rounded-3" src="/assets/imgs/cta-14/img-1.png" alt="Solution Spire" />
 										<div className="position-absolute top-50 start-50 translate-middle z-2">
 											<Link href="#" onClick={() => setOpen(true)} scroll={false} className="d-inline-flex align-items-center rounded-4 text-nowrap backdrop-filter px-3 py-2 popup-video hover-up me-3 shadow-1">
 												<span className="backdrop-filter me-2 icon-shape icon-md rounded-circle">
@@ -80,17 +80,17 @@ export default function PageWorkProcess() {
 										</div>
 									</div>
 									<div className="position-absolute top-100 start-0 translate-middle z-1">
-										<img className="alltuchtopdown" src="/assets/imgs/cta-14/vector.svg" alt="infinia" />
+										<img className="alltuchtopdown" src="/assets/imgs/cta-14/vector.svg" alt="Solution Spire" />
 									</div>
 									<div className="vector-2 position-absolute z-2">
-										<img className="alltuchtopdown" src="/assets/imgs/cta-14/vector-2.svg" alt="infinia" />
+										<img className="alltuchtopdown" src="/assets/imgs/cta-14/vector-2.svg" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/service-2/bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/service-2/bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="rotate-center ellipse-rotate-success position-absolute z-1" />
 					<div className="rotate-center-rev ellipse-rotate-primary position-absolute z-1" />
@@ -137,7 +137,7 @@ export default function PageWorkProcess() {
 								<div className="col-lg-6">
 									<div className="position-relative d-inline-block mt-lg-0 mt-8">
 										<div className="position-relative z-1 d-inline-block zoom-img rounded-4 border-5 border-white border">
-											<img src="/assets/imgs/other/img-3.png" alt="infinia" />
+											<img src="/assets/imgs/other/img-3.png" alt="Solution Spire" />
 										</div>
 										<div className="square position-absolute rounded-4 bg-linear-1 w-100 h-100 z-0" />
 									</div>
@@ -150,7 +150,7 @@ export default function PageWorkProcess() {
 							<div className="col-lg-6">
 								<div className="position-relative d-inline-block mb-lg-0 mb-8">
 									<div className="position-relative z-1 d-inline-block zoom-img rounded-4 border-5 border-white border">
-										<img src="/assets/imgs/other/img-4.png" alt="infinia" />
+										<img src="/assets/imgs/other/img-4.png" alt="Solution Spire" />
 									</div>
 									<div className="square-2 position-absolute rounded-4 bg-linear-1 w-100 h-100 z-0" />
 								</div>
@@ -224,7 +224,7 @@ export default function PageWorkProcess() {
 							<div className="col-lg-6">
 								<div className="position-relative d-inline-block mt-lg-0 mt-8">
 									<div className="position-relative z-1 d-inline-block zoom-img rounded-4 border-5 border-white border">
-										<img src="/assets/imgs/other/img-5.png" alt="infinia" />
+										<img src="/assets/imgs/other/img-5.png" alt="Solution Spire" />
 									</div>
 									<div className="square position-absolute rounded-4 bg-linear-1 w-100 h-100 z-0" />
 								</div>
@@ -236,7 +236,7 @@ export default function PageWorkProcess() {
 							<div className="col-lg-6">
 								<div className="position-relative d-inline-block mb-lg-0 mb-8">
 									<div className="position-relative z-1 d-inline-block zoom-img rounded-4 border-5 border-white border">
-										<img src="/assets/imgs/other/img-6.png" alt="infinia" />
+										<img src="/assets/imgs/other/img-6.png" alt="Solution Spire" />
 									</div>
 									<div className="square-2 position-absolute rounded-4 bg-linear-1 w-100 h-100 z-0" />
 								</div>
@@ -288,7 +288,7 @@ export default function PageWorkProcess() {
 											in Financial Services
 										</h3>
 										<Link href="/page-contact-1" className="d-flex align-items-center mt-8 mb-9">
-											<img src="/assets/imgs/cta-3/icon-contact.svg" alt="infinia" />
+											<img src="/assets/imgs/cta-3/icon-contact.svg" alt="Solution Spire" />
 											<span className="ms-3">
 												<span className="text-white mb-0 fs-4">Contact Us</span>
 												<span className="text-white fs-4 d-block">+01 (24) 568 900</span>
@@ -313,7 +313,7 @@ export default function PageWorkProcess() {
 							<div className="col-lg-auto me-lg-auto">
 								<div className="text-start mb-lg-0 mb-5">
 									<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">our plans</span>
 									</div>
 									<h3 className="ds-3 my-3" data-aos="fade-zoom-in" data-aos-delay={200}>Pricing Plans</h3>
@@ -344,23 +344,23 @@ export default function PageWorkProcess() {
 									</button>
 									<ul className="list-unstyled mb-0">
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Single Team Member</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Over 1200 UI Blocks</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">10 GB of Cloud Storage</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2 text-400">Personal Email Account</h6>
 										</li>
 										<li className="d-flex align-items-center">
-											<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2 text-400">Priority Support</h6>
 										</li>
 									</ul>
@@ -384,23 +384,23 @@ export default function PageWorkProcess() {
 									</button>
 									<ul className="list-unstyled mb-0">
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">05 Team Member</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">All multimedia channels</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">All advanced CRM features</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Up to 15,000 contacts</h6>
 										</li>
 										<li className="d-flex align-items-center">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">24/7 Support (Email, Chat)</h6>
 										</li>
 									</ul>
@@ -424,23 +424,23 @@ export default function PageWorkProcess() {
 									</button>
 									<ul className="list-unstyled mb-0">
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">50 Team Member</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Over 1500 UI Blocks</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">100 GB of Cloud Storage</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Personal Email Account</h6>
 										</li>
 										<li className="d-flex align-items-center">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Priority Support</h6>
 										</li>
 									</ul>
@@ -464,23 +464,23 @@ export default function PageWorkProcess() {
 									</button>
 									<ul className="list-unstyled mb-0">
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Customized features</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Scalability  security</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Account manager</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Unlimited chat history</h6>
 										</li>
 										<li className="d-flex align-items-center">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">50 Integrations</h6>
 										</li>
 									</ul>
@@ -496,7 +496,7 @@ export default function PageWorkProcess() {
 					<div className="container position-relative z-2">
 						<div className="text-center mb-8">
 							<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Pricing FAQs</span>
 							</div>
 							<h3 className="ds-3 my-3 fw-bold">Ask us anything</h3>
@@ -508,7 +508,7 @@ export default function PageWorkProcess() {
 									<div className="mb-3 card p-3 border bg-white rounded-3">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={` ${activeItem} == 1 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(1)} data-bs-toggle="collapse" >
-												<h6 className="m-0">What are the key benefits of using <span className="text-primary">Infinia System</span></h6>
+												<h6 className="m-0">What are the key benefits of using <span className="text-primary">Solution Spire System</span></h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -525,7 +525,7 @@ export default function PageWorkProcess() {
 									<div className="mb-3 card p-3 border bg-white rounded-3">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={` ${activeItem} == 2 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(2)} data-bs-toggle="collapse" >
-												<h6 className="m-0">What features does <span className="text-primary">Infinia</span> offer?</h6>
+												<h6 className="m-0">What features does <span className="text-primary">Solution Spire</span> offer?</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />

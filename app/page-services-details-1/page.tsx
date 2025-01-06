@@ -45,7 +45,7 @@ export default function PageServicesDetails1() {
           <img
             className="position-absolute bottom-0 start-0 end-0 top-0 z-0"
             src="/assets/imgs/page-header/bg-line.png"
-            alt="infinia"
+            alt="Solution Spire"
           />
           <div className="bouncing-blobs-container">
             <div className="bouncing-blobs-glass" />
@@ -61,7 +61,7 @@ export default function PageServicesDetails1() {
             <img
               className="rounded-3"
               src="/assets/imgs/services-details/img-1.png"
-              alt="infinia"
+              alt="Solution Spire"
             />
             <div className="row">
               <div className="col-lg-4 col-md-3" />
@@ -190,7 +190,7 @@ export default function PageServicesDetails1() {
                   >
                     <img
                       src="/assets/imgs/services-details/icon-1.svg"
-                      alt="infinia"
+                      alt="Solution Spire"
                     />
                     <p className="text-900 fs-7 mb-0 ms-3">
                       PDF. Download (25 Mb)
@@ -202,7 +202,7 @@ export default function PageServicesDetails1() {
                   >
                     <img
                       src="/assets/imgs/services-details/icon-2.svg"
-                      alt="infinia"
+                      alt="Solution Spire"
                     />
                     <p className="text-900 fs-7 mb-0 ms-3">
                       DOC. Download (28 Mb)
@@ -214,7 +214,7 @@ export default function PageServicesDetails1() {
                   >
                     <img
                       src="/assets/imgs/services-details/icon-3.svg"
-                      alt="infinia"
+                      alt="Solution Spire"
                     />
                     <p className="text-900 fs-7 mb-0 ms-3">
                       Open on Google Driver
@@ -226,7 +226,7 @@ export default function PageServicesDetails1() {
                   >
                     <img
                       src="/assets/imgs/services-details/icon-4.svg"
-                      alt="infinia"
+                      alt="Solution Spire"
                     />
                     <p className="text-900 fs-7 mb-0 ms-3">
                       Open on Google Driver
@@ -246,7 +246,7 @@ export default function PageServicesDetails1() {
                     >
                       <img
                         src="/assets/imgs/services-details/icon-contact.svg"
-                        alt="infinia"
+                        alt="Solution Spire"
                       />
                       <div className="ms-3">
                         <span className="text-white mb-0 fs-4">Contact Us</span>
@@ -275,7 +275,7 @@ export default function PageServicesDetails1() {
                   <img
                     className="position-absolute top-0 end-0"
                     src="/assets/imgs/services-details/bg-line-3.png"
-                    alt="infinia"
+                    alt="Solution Spire"
                   />
                 </div>
                 <div className="bg-neutral-100 p-5 mt-5 rounded-4 border">
@@ -448,7 +448,7 @@ export default function PageServicesDetails1() {
                 <p className="mb-0">
                   In today's fast-paced and competitive business environment,
                   staying ahead requires more than just traditional methods. At
-                  Infinia, we understand the necessity of innovation in driving
+                  Solution Spire, we understand the necessity of innovation in driving
                   business growth and success.{" "}
                   <span className="text-900 fw-bold">
                     Our innovative business
@@ -464,7 +464,7 @@ export default function PageServicesDetails1() {
                     <li className="d-flex align-items-center mt-3">
                       <img
                         src="/assets/imgs/services-details/check.svg"
-                        alt="infinia"
+                        alt="Solution Spire"
                       />
                       <span className="ms-2 text-900 fw-medium fs-6">
                         Customer Journey Mapping
@@ -473,7 +473,7 @@ export default function PageServicesDetails1() {
                     <li className="d-flex align-items-center mt-3">
                       <img
                         src="/assets/imgs/services-details/check.svg"
-                        alt="infinia"
+                        alt="Solution Spire"
                       />
                       <span className="ms-2 text-900 fw-medium fs-6">
                         Customer Feedback Systems
@@ -484,7 +484,7 @@ export default function PageServicesDetails1() {
                     <li className="d-flex align-items-center mt-3">
                       <img
                         src="/assets/imgs/services-details/check.svg"
-                        alt="infinia"
+                        alt="Solution Spire"
                       />
                       <span className="ms-2 text-900 fw-medium fs-6">
                         Sustainable Business Practices
@@ -493,7 +493,7 @@ export default function PageServicesDetails1() {
                     <li className="d-flex align-items-center mt-3">
                       <img
                         src="/assets/imgs/services-details/check.svg"
-                        alt="infinia"
+                        alt="Solution Spire"
                       />
                       <span className="ms-2 text-900 fw-medium fs-6">
                         Corporate Social Responsibility
@@ -504,7 +504,7 @@ export default function PageServicesDetails1() {
                     <li className="d-flex align-items-center mt-3">
                       <img
                         src="/assets/imgs/services-details/check.svg"
-                        alt="infinia"
+                        alt="Solution Spire"
                       />
                       <span className="ms-2 text-900 fw-medium fs-6">
                         Ideation and Concept
@@ -513,7 +513,7 @@ export default function PageServicesDetails1() {
                     <li className="d-flex align-items-center mt-3">
                       <img
                         src="/assets/imgs/services-details/check.svg"
-                        alt="infinia"
+                        alt="Solution Spire"
                       />
                       <span className="ms-2 text-900 fw-medium fs-6">
                         Intellectual Property
@@ -525,7 +525,7 @@ export default function PageServicesDetails1() {
                   Digital Transformation
                 </h5>
                 <p className="mb-4">
-                  At Infinia, we are committed to delivering innovative
+                  At Solution Spire, we are committed to delivering innovative
                   solutions that drive real results. Our team of experts
                   combines industry knowledge with technological expertise to
                   provide services that are both practical and visionary. We
@@ -539,7 +539,7 @@ export default function PageServicesDetails1() {
                         <div className="icon">
                           <img
                             src="/assets/imgs/services-details/icon-5.svg"
-                            alt="infinia"
+                            alt="Solution Spire"
                           />
                         </div>
                       </div>
@@ -557,7 +557,7 @@ export default function PageServicesDetails1() {
                         <div className="icon">
                           <img
                             src="/assets/imgs/services-details/icon-6.svg"
-                            alt="infinia"
+                            alt="Solution Spire"
                           />
                         </div>
                       </div>
@@ -575,7 +575,7 @@ export default function PageServicesDetails1() {
                         <div className="icon">
                           <img
                             src="/assets/imgs/services-details/icon-7.svg"
-                            alt="infinia"
+                            alt="Solution Spire"
                           />
                         </div>
                       </div>
@@ -593,7 +593,7 @@ export default function PageServicesDetails1() {
                     <img
                       className="rounded-3"
                       src="/assets/imgs/services-details/img-2.png"
-                      alt="infinia"
+                      alt="Solution Spire"
                     />
                   </div>
                 </div>
@@ -601,7 +601,7 @@ export default function PageServicesDetails1() {
                   Sustainability and CSR
                 </h4>
                 <p className="mb-3">
-                  Embrace the future of business with Infinia's innovative
+                  Embrace the future of business with Solution Spire's innovative
                   services. Let us help you transform your organization and
                   achieve unprecedented success. Contact us today to learn more
                   about how we can support your journey towards innovation and
@@ -908,7 +908,7 @@ export default function PageServicesDetails1() {
                 </span>
                 with
                 <span className="fw-bold">
-                  Infinia's <br />
+                  Solution Spire's <br />
                   Innovative
                 </span>
                 Services
@@ -922,17 +922,17 @@ export default function PageServicesDetails1() {
                     <div className="d-flex">
                       <img
                         src="/assets/imgs/hero-1/avatar-1.png"
-                        alt="infinia"
+                        alt="Solution Spire"
                       />
                       <img
                         className="avt-hero"
                         src="/assets/imgs/hero-1/avatar-2.png"
-                        alt="infinia"
+                        alt="Solution Spire"
                       />
                       <img
                         className="avt-hero"
                         src=" assets/imgs/hero-1/avatar-3.png"
-                        alt="infinia"
+                        alt="Solution Spire"
                       />
                     </div>
                     <span className="fs-6 fw-bold text-900">
@@ -945,13 +945,13 @@ export default function PageServicesDetails1() {
                   <div className="ms-3 mt-md-0 mt-3">
                     <img
                       src="/assets/imgs/services-details/brand-1.svg"
-                      alt="infinia"
+                      alt="Solution Spire"
                     />
                   </div>
                   <div className="ms-3 mt-md-0 mt-3">
                     <img
                       src="/assets/imgs/services-details/brand-2.svg"
-                      alt="infinia"
+                      alt="Solution Spire"
                     />
                   </div>
                 </div>
@@ -960,12 +960,12 @@ export default function PageServicesDetails1() {
             <img
               className="position-absolute top-0 end-0"
               src="/assets/imgs/services-details/bg-line-1.png"
-              alt="infinia"
+              alt="Solution Spire"
             />
             <img
               className="position-absolute bottom-0 start-0"
               src="/assets/imgs/services-details/bg-line-2.png"
-              alt="infinia"
+              alt="Solution Spire"
             />
           </div>
         </div>
@@ -978,7 +978,7 @@ export default function PageServicesDetails1() {
                   <h4 className="ds-4 my-3">
                     +100k users <span className="fw-regular">have loved </span>
                     <br />
-                    Infinia Conference{" "}
+                    Solution Spire Conference{" "}
                     <span className="fw-regular">System</span>
                   </h4>
                   <p className="fs-5 mb-0">
@@ -1010,14 +1010,14 @@ export default function PageServicesDetails1() {
                     <img
                       className="avatar-lg"
                       src="/assets/imgs/testimonial-1/avatar-1.png"
-                      alt="infinia"
+                      alt="Solution Spire"
                     />
                     <div className="d-flex flex-column">
                       <h6 className="ms-3 fs-6 mb-0">Kathryn Murphy</h6>
                       <div className="flag ms-3">
                         <img
                           src="/assets/imgs/testimonial-1/flag-1.png"
-                          alt="infinia"
+                          alt="Solution Spire"
                         />
                         <span className="fs-8">CEO of Tech Innovators Inc</span>
                       </div>
@@ -1044,14 +1044,14 @@ export default function PageServicesDetails1() {
                     <img
                       className="avatar-lg"
                       src="/assets/imgs/testimonial-1/avatar-4.png"
-                      alt="infinia"
+                      alt="Solution Spire"
                     />
                     <div className="d-flex flex-column">
                       <h6 className="ms-3 fs-6 mb-0">Emily Adams</h6>
                       <div className="flag ms-3">
                         <img
                           src="/assets/imgs/testimonial-1/flag-4.png"
-                          alt="infinia"
+                          alt="Solution Spire"
                         />
                         <span className="fs-8">Software Engineer</span>
                       </div>
@@ -1081,14 +1081,14 @@ export default function PageServicesDetails1() {
                     <img
                       className="avatar-lg"
                       src="/assets/imgs/testimonial-1/avatar-3.png"
-                      alt="infinia"
+                      alt="Solution Spire"
                     />
                     <div className="d-flex flex-column">
                       <h6 className="ms-3 fs-6 mb-0">Sarah Thompson</h6>
                       <div className="flag ms-3">
                         <img
                           src="/assets/imgs/testimonial-1/flag-3.png"
-                          alt="infinia"
+                          alt="Solution Spire"
                         />
                         <span className="fs-8">Marketing Director</span>
                       </div>
@@ -1116,14 +1116,14 @@ export default function PageServicesDetails1() {
                     <img
                       className="avatar-lg"
                       src="/assets/imgs/testimonial-1/avatar-3.png"
-                      alt="infinia"
+                      alt="Solution Spire"
                     />
                     <div className="d-flex flex-column">
                       <h6 className="ms-3 fs-6 mb-0">Sarah Thompson</h6>
                       <div className="flag ms-3">
                         <img
                           src="/assets/imgs/testimonial-1/flag-3.png"
-                          alt="infinia"
+                          alt="Solution Spire"
                         />
                         <span className="fs-8">Marketing Director</span>
                       </div>
@@ -1153,14 +1153,14 @@ export default function PageServicesDetails1() {
                     <img
                       className="avatar-lg"
                       src="/assets/imgs/testimonial-1/avatar-2.png"
-                      alt="infinia"
+                      alt="Solution Spire"
                     />
                     <div className="d-flex flex-column">
                       <h6 className="ms-3 fs-6 mb-0">Emily Davis</h6>
                       <div className="flag ms-3">
                         <img
                           src="/assets/imgs/testimonial-1/flag-2.png"
-                          alt="infinia"
+                          alt="Solution Spire"
                         />
                         <span className="fs-8">Software Engineer</span>
                       </div>
@@ -1186,14 +1186,14 @@ export default function PageServicesDetails1() {
                     <img
                       className="avatar-lg"
                       src="/assets/imgs/testimonial-1/avatar-1.png"
-                      alt="infinia"
+                      alt="Solution Spire"
                     />
                     <div className="d-flex flex-column">
                       <h6 className="ms-3 fs-6 mb-0">Kathryn Murphy</h6>
                       <div className="flag ms-3">
                         <img
                           src="/assets/imgs/testimonial-1/flag-1.png"
-                          alt="infinia"
+                          alt="Solution Spire"
                         />
                         <span className="fs-8">CEO of Tech Innovators Inc</span>
                       </div>

@@ -19,15 +19,15 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }: any) {
 							available 24/7
 						</p>
 						<div className="d-flex mb-2">
-							<img src="/assets/imgs/contact-2/icon-1.svg" alt="infinia" />
+							<img src="/assets/imgs/contact-2/icon-1.svg" alt="Solution Spire" />
 							<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Whatsapp</Link>
 						</div>
 						<div className="d-flex mb-2">
-							<img src="/assets/imgs/contact-2/icon-2.svg" alt="infinia" />
+							<img src="/assets/imgs/contact-2/icon-2.svg" alt="Solution Spire" />
 							<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Viber</Link>
 						</div>
 						<div className="d-flex mb-2 mb-5">
-							<img src="/assets/imgs/contact-2/icon-3.svg" alt="infinia" />
+							<img src="/assets/imgs/contact-2/icon-3.svg" alt="Solution Spire" />
 							<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Messager</Link>
 						</div>
 					</div>

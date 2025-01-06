@@ -25,7 +25,7 @@ export default function PageTeamDetail1() {
 							</div>
 						</div>
 					</div>
-					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="infinia" />
+					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="Solution Spire" />
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />
 						<div className="bouncing-blobs">
@@ -40,24 +40,24 @@ export default function PageTeamDetail1() {
 						<div className="row">
 							<div className="col">
 								<div className="d-flex flex-lg-row flex-column align-items-center p-5 rounded-4 bg-white shadow-2">
-									<img className="rounded-3 mb-lg-0 mb-5" src="/assets/imgs/team-detail-1/img-1.png" alt="infinia" />
+									<img className="rounded-3 mb-lg-0 mb-5" src="/assets/imgs/team-detail-1/img-1.png" alt="Solution Spire" />
 									<div className="mx-lg-8">
 										<h3>Esther Howard</h3>
 										<p className="fs-5 mb-4">Co-Founder</p>
-										<p className="fs-5 text-900 mb-5">"True innovation comes from a deep understanding of our clients' needs and a relentless pursuit of excellence. At Infinia, we are dedicated to transforming challenges into opportunities and creating lasting impact through our work."z</p>
-										<img src="/assets/imgs/team-detail-1/name-author.svg" alt="infinia" />
+										<p className="fs-5 text-900 mb-5">"True innovation comes from a deep understanding of our clients' needs and a relentless pursuit of excellence. At Solution Spire, we are dedicated to transforming challenges into opportunities and creating lasting impact through our work."z</p>
+										<img src="/assets/imgs/team-detail-1/name-author.svg" alt="Solution Spire" />
 										<div className="pt-5 mt-4 border-top d-flex flex-md-row flex-column align-items-center">
 											<div className="p">
 												<div className="d-flex mb-3">
-													<img src="/assets/imgs/contact-2/icon-5.svg" alt="infinia" />
+													<img src="/assets/imgs/contact-2/icon-5.svg" alt="Solution Spire" />
 													<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">+01 (24) 568 900</Link>
 												</div>
 												<div className="d-flex mb-3">
-													<img src="/assets/imgs/contact-2/icon-4.svg" alt="infinia" />
-													<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@infinia.com</Link>
+													<img src="/assets/imgs/contact-2/icon-4.svg" alt="Solution Spire" />
+													<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@Solution Spire.com</Link>
 												</div>
 												<div className="d-flex">
-													<img src="/assets/imgs/contact-2/icon-1.svg" alt="infinia" />
+													<img src="/assets/imgs/contact-2/icon-1.svg" alt="Solution Spire" />
 													<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Whatsapp</Link>
 												</div>
 											</div>
@@ -87,9 +87,9 @@ export default function PageTeamDetail1() {
 						</div>
 						<div className="row pt-8">
 							<div className="col-lg-7 pe-lg-5 mt-lg-0 mt-8 content-left">
-								<p className="mb-4 pb-4 border-bottom">As Co-Founder of Infinia Agency, Daniel Martinez brings a wealth of knowledge, experience, and visionary leadership to the team. With a career spanning over two decades in the industry, <span className="fw-bold">Daniel</span> has been instrumental in driving the strategic direction and growth of Infinia. His passion for innovation and excellence is evident in every project and initiative he undertakes.</p>
+								<p className="mb-4 pb-4 border-bottom">As Co-Founder of Solution Spire Agency, Daniel Martinez brings a wealth of knowledge, experience, and visionary leadership to the team. With a career spanning over two decades in the industry, <span className="fw-bold">Daniel</span> has been instrumental in driving the strategic direction and growth of Solution Spire. His passion for innovation and excellence is evident in every project and initiative he undertakes.</p>
 								<h5 className="mb-3">Educational Qualifications</h5>
-								<p>Daniel's strong educational foundation has equipped his with the strategic acumen and marketing expertise necessary to lead Infinia Agency to success.</p>
+								<p>Daniel's strong educational foundation has equipped his with the strategic acumen and marketing expertise necessary to lead Solution Spire Agency to success.</p>
 								<ul className="ps-3">
 									<li>
 										<p className="text-900 fw-bold">
@@ -154,7 +154,7 @@ export default function PageTeamDetail1() {
 									<div className="d-flex">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 											<div className="icon">
-												<img src="/assets/imgs/team-detail-1/icon-1.svg" alt="infinia" />
+												<img src="/assets/imgs/team-detail-1/icon-1.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<div className="ps-5">
@@ -169,7 +169,7 @@ export default function PageTeamDetail1() {
 									<div className="d-flex pt-3">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 											<div className="icon">
-												<img src="/assets/imgs/team-detail-1/icon-2.svg" alt="infinia" />
+												<img src="/assets/imgs/team-detail-1/icon-2.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<div className="ps-5">
@@ -184,7 +184,7 @@ export default function PageTeamDetail1() {
 									<div className="d-flex pt-3">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 											<div className="icon">
-												<img src="/assets/imgs/team-detail-1/icon-3.svg" alt="infinia" />
+												<img src="/assets/imgs/team-detail-1/icon-3.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<div className="ps-5">
@@ -199,7 +199,7 @@ export default function PageTeamDetail1() {
 									<div className="d-flex pt-3">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 											<div className="icon">
-												<img src="/assets/imgs/team-detail-1/icon-4.svg" alt="infinia" />
+												<img src="/assets/imgs/team-detail-1/icon-4.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<div className="ps-5">
@@ -214,7 +214,7 @@ export default function PageTeamDetail1() {
 									<div className="d-flex pt-3">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 											<div className="icon">
-												<img src="/assets/imgs/team-detail-1/icon-5.svg" alt="infinia" />
+												<img src="/assets/imgs/team-detail-1/icon-5.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<div className="ps-5">
@@ -238,7 +238,7 @@ export default function PageTeamDetail1() {
 							<div className="row align-items-center">
 								<div className="col-lg-5">
 									<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Recent work</span>
 									</div>
 									<h5 className="ds-5 mt-2">Doing the successful thing, at the right time.</h5>
@@ -246,7 +246,7 @@ export default function PageTeamDetail1() {
 									<div className="d-flex pt-3 align-items-center">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 											<div className="icon">
-												<img src="/assets/imgs/service-4/icon-1.svg" alt="infinia" />
+												<img src="/assets/imgs/service-4/icon-1.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<div className="ps-5">
@@ -257,7 +257,7 @@ export default function PageTeamDetail1() {
 									<div className="d-flex pt-3 align-items-center">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 											<div className="icon">
-												<img src="/assets/imgs/service-4/icon-2.svg" alt="infinia" />
+												<img src="/assets/imgs/service-4/icon-2.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<div className="ps-5">
@@ -268,13 +268,13 @@ export default function PageTeamDetail1() {
 								</div>
 								<div className="col-lg-6 offset-lg-1 text-center mt-lg-0 mt-8">
 									<div className="position-relative z-1 d-inline-block mb-lg-0 mb-8">
-										<img className="rounded-4 position-relative z-1" src="/assets/imgs/cta-5/img-1.png" alt="infinia" />
+										<img className="rounded-4 position-relative z-1" src="/assets/imgs/cta-5/img-1.png" alt="Solution Spire" />
 										<div className="alltuchtopdown tag-year position-absolute backdrop-filter bg-primary rounded-4 px-4 py-5 text-center z-1">
 											<span className="h2 count fw-black my-0 lh-1 text-white text-nowrap"><span className="odometer" /> <CountUp end={25} enableScrollSpy={true} />+</span>
 											<p className="text-white text-nowrap mb-0">Years of Experience</p>
 										</div>
 										<div className="position-absolute tag-dots z-0 pt-5">
-											<img className="alltuchtopdown" src="/assets/imgs/cta-4/vector.svg" alt="infinia" />
+											<img className="alltuchtopdown" src="/assets/imgs/cta-4/vector.svg" alt="Solution Spire" />
 										</div>
 									</div>
 								</div>

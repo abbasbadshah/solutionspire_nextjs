@@ -11,7 +11,7 @@ export default function Page404() {
 				<section>
 					<div className="container pb-120">
 						<div className="text-center section-padding">
-							<img src="/assets/imgs/other/404.png" alt="infinia" />
+							<img src="/assets/imgs/other/404.png" alt="Solution Spire" />
 							<h5 className="ds-5 pt-8">
 								We Can't Find What <br />
 								You're Looking For

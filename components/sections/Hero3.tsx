@@ -17,17 +17,17 @@ export default function Hero3() {
 									<h1 className="ds-1 my-3 me-4 lh-1">Elevate your</h1>
 									<div className="mt-3 d-none d-md-flex">
 										<div className="avt-hero">
-											<img className=" icon-shape icon-xxl border border-5 border-white-keep bg-primary-soft rounded-circle" src="/assets/imgs/hero-3/avatar-1.png" alt="infinia" />
+											<img className=" icon-shape icon-xxl border border-5 border-white-keep bg-primary-soft rounded-circle" src="/assets/imgs/hero-3/avatar-1.png" alt="Solution Spire" />
 										</div>
 										<div className="avt-hero">
-											<img className=" icon-shape icon-xxl border border-5 border-white-keep bg-primary-soft rounded-circle" src="/assets/imgs/hero-3/avatar-2.png" alt="infinia" />
+											<img className=" icon-shape icon-xxl border border-5 border-white-keep bg-primary-soft rounded-circle" src="/assets/imgs/hero-3/avatar-2.png" alt="Solution Spire" />
 										</div>
 										<div className="avt-hero icon-shape icon-xxl border border-5 border-white-keep bg-primary-soft rounded-circle">
-											<img src=" assets/imgs/hero-3/icon.svg" alt="infinia" />
+											<img src=" assets/imgs/hero-3/icon.svg" alt="Solution Spire" />
 										</div>
 									</div>
 								</div>
-								<h1 className="ds-1 lh-1 m-0">brand with Infinia.</h1>
+								<h1 className="ds-1 lh-1 m-0">brand with Solution Spire.</h1>
 								<p className="fs-5 text-900 my-6">
 									Access top-tier group mentoring plans and <br />
 									exclusive professional benefits for your team.
@@ -45,13 +45,13 @@ export default function Hero3() {
 										<ul className="carouselTicker__list">
 											<Marquee direction="right">
 												<li className="carouselTicker__item mx-2">
-													<img className="filter-invert rounded-4" src="/assets/imgs/hero-3/logo-1.png" alt="infinia" />
+													<img className="filter-invert rounded-4" src="/assets/imgs/hero-3/logo-1.png" alt="Solution Spire" />
 												</li>
 												<li className="carouselTicker__item mx-2">
-													<img className="rounded-4" src="/assets/imgs/hero-3/logo-2.png" alt="infinia" />
+													<img className="rounded-4" src="/assets/imgs/hero-3/logo-2.png" alt="Solution Spire" />
 												</li>
 												<li className="carouselTicker__item mx-2">
-													<img className="rounded-4" src="/assets/imgs/hero-3/logo-3.png" alt="infinia" />
+													<img className="rounded-4" src="/assets/imgs/hero-3/logo-3.png" alt="Solution Spire" />
 												</li>
 											</Marquee>
 										</ul>
@@ -63,23 +63,23 @@ export default function Hero3() {
 							<div className="row">
 								<div className="col-6 align-self-end">
 									<div className="border-5 border-white border rounded-4  mb-4 d-block d-xl-none">
-										<img className="rounded-4" src="/assets/imgs/hero-3/img-4.png" alt="infinia" />
+										<img className="rounded-4" src="/assets/imgs/hero-3/img-4.png" alt="Solution Spire" />
 									</div>
 									<div className="border-5 border-white border rounded-4">
-										<img className="rounded-4" src="/assets/imgs/hero-3/img-3.png" alt="infinia" />
+										<img className="rounded-4" src="/assets/imgs/hero-3/img-3.png" alt="Solution Spire" />
 									</div>
 								</div>
 								<div className="col-6 align-self-end">
 									<div className="border-5 border-white border rounded-4 mb-4">
-										<img className="rounded-4" src="/assets/imgs/hero-3/img-1.png" alt="infinia" />
+										<img className="rounded-4" src="/assets/imgs/hero-3/img-1.png" alt="Solution Spire" />
 									</div>
 									<div className="border-5 border-white border rounded-4">
-										<img className="rounded-4" src="/assets/imgs/hero-3/img-2.png" alt="infinia" />
+										<img className="rounded-4" src="/assets/imgs/hero-3/img-2.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
 							<div className="position-absolute top-50 start-50 translate-middle pb-10 pe-10">
-								<img className="rotateme" src="/assets/imgs/hero-3/star-rotate.png" alt="infinia" />
+								<img className="rotateme" src="/assets/imgs/hero-3/star-rotate.png" alt="Solution Spire" />
 							</div>
 							<div className="position-absolute top-50 start-50 translate-middle">
 								<div className="ellipse-primary" />

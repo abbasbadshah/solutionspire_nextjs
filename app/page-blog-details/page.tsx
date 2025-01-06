@@ -9,7 +9,7 @@ export default function PageBlogDetails() {
 			<Layout >
 
 				<section>
-					<img className="w-100" src="/assets/imgs/blog-details/img-1.png" alt="infinia" />
+					<img className="w-100" src="/assets/imgs/blog-details/img-1.png" alt="Solution Spire" />
 					<div className="container mt-10">
 						<div className="row">
 							<div className="col-md-8 mx-auto">
@@ -22,7 +22,7 @@ export default function PageBlogDetails() {
 								<div className="d-flex align-items-center justify-content-between mt-7 py-3 border-top border-bottom">
 									<div className="d-flex align-items-center position-relative z-1">
 										<div className="icon-shape rounded-circle border border-2 border-white">
-											<img className="rounded-circle" src="/assets/imgs/blog-4/avatar-1.png" alt="infinia" />
+											<img className="rounded-circle" src="/assets/imgs/blog-4/avatar-1.png" alt="Solution Spire" />
 										</div>
 										<div className="ms-3">
 											<h6 className="fs-7 m-0">Evara Rose</h6>
@@ -40,7 +40,7 @@ export default function PageBlogDetails() {
 								</div>
 							</div>
 							<div className="col-md-10 mx-auto my-7">
-								<img className="rounded-4" src="/assets/imgs/blog-details/img-2.png" alt="infinia" />
+								<img className="rounded-4" src="/assets/imgs/blog-details/img-2.png" alt="Solution Spire" />
 							</div>
 							<div className="col-md-8 mx-auto">
 								<h5 className="mb-3">Artificial Intelligence and Machine Learning</h5>
@@ -52,12 +52,12 @@ export default function PageBlogDetails() {
 							</div>
 							<div className="col-md-10 mx-auto my-7">
 								<div className="d-flex flex-lg-row flex-column gap-4 mb-4">
-									<img className="rounded-4" src="/assets/imgs/blog-details/img-3.png" alt="infinia" />
-									<img className="rounded-4" src="/assets/imgs/blog-details/img-4.png" alt="infinia" />
+									<img className="rounded-4" src="/assets/imgs/blog-details/img-3.png" alt="Solution Spire" />
+									<img className="rounded-4" src="/assets/imgs/blog-details/img-4.png" alt="Solution Spire" />
 								</div>
 								<div className="d-flex flex-lg-row flex-column gap-4">
-									<img className="rounded-4" src="/assets/imgs/blog-details/img-5.png" alt="infinia" />
-									<img className="rounded-4" src="/assets/imgs/blog-details/img-6.png" alt="infinia" />
+									<img className="rounded-4" src="/assets/imgs/blog-details/img-5.png" alt="Solution Spire" />
+									<img className="rounded-4" src="/assets/imgs/blog-details/img-6.png" alt="Solution Spire" />
 								</div>
 							</div>
 							<div className="col-md-8 mx-auto">
@@ -90,24 +90,24 @@ export default function PageBlogDetails() {
 										want them to know about us.
 									</blockquote>
 									<div className="d-inline-flex align-items-center mt-5 mb-8">
-										<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-3.png" alt="infinia" />
+										<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-3.png" alt="Solution Spire" />
 										<div className="d-flex flex-column">
 											<h6 className="ms-3 fs-6 mb-0 text-white">Sarah Thompson</h6>
 											<div className="flag ms-3">
-												<img src="/assets/imgs/testimonial-1/flag-3.png" alt="infinia" />
+												<img src="/assets/imgs/testimonial-1/flag-3.png" alt="Solution Spire" />
 												<span className="fs-8 text-white">Marketing Director</span>
 											</div>
 										</div>
 									</div>
-									<img className="position-absolute top-0 end-0 z-0" src="/assets/imgs/blog-details/bg-line.png" alt="infinia" />
+									<img className="position-absolute top-0 end-0 z-0" src="/assets/imgs/blog-details/bg-line.png" alt="Solution Spire" />
 								</div>
 								<h5 className="mt-7 mb-3">Conclusion</h5>
-								<p>"Staying ahead of digital marketing trends is not just about keeping up with the latest technologies; it's about understanding your customers' evolving needs and finding innovative ways to meet them," says Jane Doe, Chief Marketing Officer at Infinia.</p>
+								<p>"Staying ahead of digital marketing trends is not just about keeping up with the latest technologies; it's about understanding your customers' evolving needs and finding innovative ways to meet them," says Jane Doe, Chief Marketing Officer at Solution Spire.</p>
 								<p>Adapting to these top digital marketing trends can significantly impact your business by enhancing customer engagement, improving conversion rates, and driving growth. Staying ahead of the curve requires continuous learning, experimentation, and a willingness to embrace new technologies and strategies. By doing so, your business can thrive in the dynamic digital landscape and achieve long-term success.</p>
 								<div className="d-flex align-items-center justify-content-between mt-5 py-3 border-top border-bottom">
 									<div className="d-flex align-items-center position-relative z-1">
 										<div className="icon-shape rounded-circle border border-2 border-white">
-											<img className="rounded-circle" src="/assets/imgs/blog-4/avatar-1.png" alt="infinia" />
+											<img className="rounded-circle" src="/assets/imgs/blog-4/avatar-1.png" alt="Solution Spire" />
 										</div>
 										<div className="ms-3">
 											<h6 className="fs-7 m-0">Evara Rose</h6>
@@ -191,7 +191,7 @@ export default function PageBlogDetails() {
 								</div>
 								<h3 className="mt-8 pb-4 wow img-custom-anim-left">Comments</h3>
 								<div className="d-flex align-items-start border-top pt-6 wow img-custom-anim-top">
-									<img className="rounded-4 me-4" src="/assets/imgs/blog-details/avatar-2.png" alt="infinia" />
+									<img className="rounded-4 me-4" src="/assets/imgs/blog-details/avatar-2.png" alt="Solution Spire" />
 									<div>
 										<div className="d-flex align-items-center">
 											<h6 className="mb-0 fs-6 text-900 fw-">Tromas H. Hendson</h6>
@@ -211,7 +211,7 @@ export default function PageBlogDetails() {
 									</div>
 								</div>
 								<div className="d-flex align-items-start border-top pt-6 ms-10 wow img-custom-anim-top">
-									<img className="rounded-4 me-4" src="/assets/imgs/blog-details/avatar-3.png" alt="infinia" />
+									<img className="rounded-4 me-4" src="/assets/imgs/blog-details/avatar-3.png" alt="Solution Spire" />
 									<div>
 										<div className="d-flex align-items-center">
 											<h6 className="mb-0 fs-6 text-900 fw-">Rosalina D.</h6>
@@ -231,7 +231,7 @@ export default function PageBlogDetails() {
 									</div>
 								</div>
 								<div className="d-flex align-items-start border-top pt-6 wow img-custom-anim-top">
-									<img className="rounded-4 me-4" src="/assets/imgs/blog-details/avatar-4.png" alt="infinia" />
+									<img className="rounded-4 me-4" src="/assets/imgs/blog-details/avatar-4.png" alt="Solution Spire" />
 									<div>
 										<div className="d-flex align-items-center">
 											<h6 className="mb-0 fs-6 text-900 fw-">Miranda H. Halim</h6>
@@ -264,7 +264,7 @@ export default function PageBlogDetails() {
 							{/* prettier-ignore */}
 							<div className="col-lg-4 text-start">
 								<div className="card border-0 rounded-3 mt-8 position-relative d-inline-flex">
-									<img className="rounded-top-3" src="/assets/imgs/blog-1/card-img-1.png" alt="infinia" />
+									<img className="rounded-top-3" src="/assets/imgs/blog-1/card-img-1.png" alt="Solution Spire" />
 									<div className="card-body bg-white p-0">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">Business</span>
@@ -277,7 +277,7 @@ export default function PageBlogDetails() {
 							</div>
 							<div className="col-lg-4 text-start">
 								<div className="card border-0 rounded-3 mt-8 position-relative d-inline-flex">
-									<img className="rounded-top-3" src="/assets/imgs/blog-1/card-img-2.png" alt="infinia" />
+									<img className="rounded-top-3" src="/assets/imgs/blog-1/card-img-2.png" alt="Solution Spire" />
 									<div className="card-body bg-white p-0">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">Technology</span>
@@ -290,7 +290,7 @@ export default function PageBlogDetails() {
 							</div>
 							<div className="col-lg-4 text-start">
 								<div className="card border-0 rounded-3 mt-8 position-relative d-inline-flex">
-									<img className="rounded-top-3" src="/assets/imgs/blog-1/card-img-3.png" alt="infinia" />
+									<img className="rounded-top-3" src="/assets/imgs/blog-1/card-img-3.png" alt="Solution Spire" />
 									<div className="card-body bg-white p-0">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">security</span>
@@ -304,7 +304,7 @@ export default function PageBlogDetails() {
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/team-1/bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/team-1/bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="rotate-center ellipse-rotate-success position-absolute z-0" />
 					<div className="rotate-center-rev ellipse-rotate-primary position-absolute z-0" />

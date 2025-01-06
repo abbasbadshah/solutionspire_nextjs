@@ -28,7 +28,7 @@ export default function SectionHowItWork() {
 							</div>
 						</div>
 					</div>
-					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="infinia" />
+					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="Solution Spire" />
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />
 						<div className="bouncing-blobs">
@@ -42,7 +42,7 @@ export default function SectionHowItWork() {
 					<div className="container position-relative z-1">
 						<div className="text-center mb-8">
 							<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1" data-aos="zoom-in" data-aos-delay={200}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">What we offers</span>
 							</div>
 							<h3 className="ds-3 my-3 fw-regular" data-aos="fade-zoom-in" data-aos-delay={100}>We make <span className="fw-bold">things easy <br /> for</span> your business</h3>
@@ -50,7 +50,7 @@ export default function SectionHowItWork() {
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/howitwork-1/img-bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/howitwork-1/img-bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="container position-relative z-1">
 						<div className="position-relative">
@@ -58,7 +58,7 @@ export default function SectionHowItWork() {
 								<div className="d-flex feature-item">
 									<div className="bg-primary-soft-keep icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 										<div className="icon">
-											<img src="/assets/imgs/howitwork-1/icon-1.svg" alt="infinia" />
+											<img src="/assets/imgs/howitwork-1/icon-1.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<div data-aos="fade-zoom-in" data-aos-delay={100}>
@@ -69,7 +69,7 @@ export default function SectionHowItWork() {
 								<div className="d-flex feature-item position-relative z-1">
 									<div className="bg-primary-soft-keep icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 										<div className="icon">
-											<img src="/assets/imgs/howitwork-1/icon-2.svg" alt="infinia" />
+											<img src="/assets/imgs/howitwork-1/icon-2.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<div data-aos="fade-zoom-in" data-aos-delay={200}>
@@ -80,7 +80,7 @@ export default function SectionHowItWork() {
 								<div className="d-flex feature-item">
 									<div className="bg-primary-soft-keep icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 										<div className="icon">
-											<img src="/assets/imgs/howitwork-1/icon-3.svg" alt="infinia" />
+											<img src="/assets/imgs/howitwork-1/icon-3.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<div data-aos="fade-zoom-in" data-aos-delay={300}>
@@ -92,7 +92,7 @@ export default function SectionHowItWork() {
 								<div className="dashed-line-2 d-none d-lg-block" />
 							</div>
 							<div className="position-relative d-inline-block">
-								<img className="rounded-3 w-100 img-fluid" src="/assets/imgs/howitwork-1/img-bg.png" alt="infinia" />
+								<img className="rounded-3 w-100 img-fluid" src="/assets/imgs/howitwork-1/img-bg.png" alt="Solution Spire" />
 								<div className="bg-linear-primary rounded-3 position-absolute top-0 start-0 w-75 h-100" />
 								<div className="position-absolute bottom-0 end-0 m-md-8 m-4">
 									<div className="d-flex align-items-center justify-content-center">
@@ -128,7 +128,7 @@ export default function SectionHowItWork() {
 					<div className="container position-relative z-1">
 						<div className="text-center mb-8">
 							<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">working process</span>
 							</div>
 							<h3 className="ds-3 my-3 fw-black">How It Works</h3>
@@ -136,7 +136,7 @@ export default function SectionHowItWork() {
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/howitwork-2/img-bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/howitwork-2/img-bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="container">
 						<div className="row position-relative justify-content-center">
@@ -144,7 +144,7 @@ export default function SectionHowItWork() {
 								<div className="card-service-4 text-center mt-2">
 									<div className="bg-white icon-flip position-relative icon-shape icon-xxl rounded-3">
 										<div className="icon">
-											<img src="/assets/imgs/howitwork-2/icon-1.svg" alt="infinia" />
+											<img src="/assets/imgs/howitwork-2/icon-1.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h5 className="my-3">Choose Services</h5>
@@ -155,7 +155,7 @@ export default function SectionHowItWork() {
 								<div className="card-service-4 text-center mt-2">
 									<div className="bg-white icon-flip position-relative icon-shape icon-xxl rounded-3">
 										<div className="icon">
-											<img src="/assets/imgs/howitwork-2/icon-2.svg" alt="infinia" />
+											<img src="/assets/imgs/howitwork-2/icon-2.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h5 className="my-3">Project Analysis</h5>
@@ -166,7 +166,7 @@ export default function SectionHowItWork() {
 								<div className="card-service-4 text-center mt-2">
 									<div className="bg-white icon-flip position-relative icon-shape icon-xxl rounded-3">
 										<div className="icon">
-											<img src="/assets/imgs/howitwork-2/icon-3.svg" alt="infinia" />
+											<img src="/assets/imgs/howitwork-2/icon-3.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h5 className="my-3">Got Final Result</h5>
@@ -175,10 +175,10 @@ export default function SectionHowItWork() {
 							</div>
 						</div>
 						<div className="navigation-arrow-1 d-none d-lg-block position-absolute top-50">
-							<img src="/assets/imgs/howitwork-2/arrow-1.png" alt="infinia" />
+							<img src="/assets/imgs/howitwork-2/arrow-1.png" alt="Solution Spire" />
 						</div>
 						<div className="navigation-arrow-2 d-none d-lg-block position-absolute">
-							<img src="/assets/imgs/howitwork-2/arrow-2.png" alt="infinia" />
+							<img src="/assets/imgs/howitwork-2/arrow-2.png" alt="Solution Spire" />
 						</div>
 						<div className="row">
 							<div className="text-center mt-6">

@@ -56,7 +56,7 @@ export default function PageAbout2() {
 							<div className="col-lg-7 mx-lg-auto">
 								<div className="text-center mb-lg-0 mb-5">
 									<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">About our company</span>
 									</div>
 									<h5 className="ds-5 my-3 fw-regular">Uncover <span className="fw-bold">Our Journey: <br className="d-none d-md-inline" /> </span> Uniting Through <span className="fw-bold">Creativity</span></h5>
@@ -68,14 +68,14 @@ export default function PageAbout2() {
 							<div className="col-lg-8">
 								<div className="position-relative mb-lg-0 mb-8 fix">
 									<div className="zoom-img rounded-4 fix">
-										<img src="/assets/imgs/cta-13/img-1.png" alt="infinia" />
+										<img src="/assets/imgs/cta-13/img-1.png" alt="Solution Spire" />
 									</div>
 									<div className="position-absolute alltuchtopdown bottom-0 start-0 m-md-5 backdrop-filter rounded-4 px-7 py-4 text-center z-1">
 										<p className="pt-2">Loved by over 4k <br /> happy clients</p>
 										<div className="d-flex align-items-center justify-content-center py-4">
-											<img src="/assets/imgs/features-3/avatar-1.png" alt="infinia" />
-											<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="infinia" />
-											<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="infinia" />
+											<img src="/assets/imgs/features-3/avatar-1.png" alt="Solution Spire" />
+											<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="Solution Spire" />
+											<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="Solution Spire" />
 										</div>
 										<div className="d-flex align-items-center justify-content-center">
 											<svg xmlns="http://www.w3.org/2000/svg" width={26} height={26} viewBox="0 0 26 26" fill="none">
@@ -119,7 +119,7 @@ export default function PageAbout2() {
 									</div>
 									<div className="col-md-6 col-lg-12">
 										<div className="zoom-img rounded-4 fix d-inline-block mt-4 mt-lg-4 mt-md-0 h-100">
-											<img className="h-100" src="/assets/imgs/cta-13/img-2.png" alt="infinia" />
+											<img className="h-100" src="/assets/imgs/cta-13/img-2.png" alt="Solution Spire" />
 										</div>
 									</div>
 								</div>
@@ -127,7 +127,7 @@ export default function PageAbout2() {
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/service-2/bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/service-2/bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="rotate-center ellipse-rotate-success position-absolute z-0" />
 					<div className="rotate-center-rev ellipse-rotate-primary position-absolute z-1" />
@@ -140,16 +140,16 @@ export default function PageAbout2() {
 							<ul className="carouselTicker__list pb-4">
 								<Marquee direction='right'>
 									<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-1.svg" alt="infinia" />
+										<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-1.svg" alt="Solution Spire" />
 									</li>
 									<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img src="/assets/imgs/logo-cloud-3/logo-2.svg" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud-3/logo-2.svg" alt="Solution Spire" />
 									</li>
 									<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img src="/assets/imgs/logo-cloud-3/logo-3.svg" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud-3/logo-3.svg" alt="Solution Spire" />
 									</li>
 									<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img src="/assets/imgs/logo-cloud-3/logo-4.svg" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud-3/logo-4.svg" alt="Solution Spire" />
 									</li>
 									<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
 										<svg className="mt-3" xmlns="http://www.w3.org/2000/svg" width={95} height={16} viewBox="0 0 95 16" fill="none">
@@ -164,10 +164,10 @@ export default function PageAbout2() {
 										</svg>
 									</li>
 									<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img src="/assets/imgs/logo-cloud-3/logo-6.svg" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud-3/logo-6.svg" alt="Solution Spire" />
 									</li>
 									<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img src="/assets/imgs/logo-cloud-3/logo-7.svg" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud-3/logo-7.svg" alt="Solution Spire" />
 									</li>
 								</Marquee>
 							</ul>
@@ -178,22 +178,22 @@ export default function PageAbout2() {
 									<ul className="carouselTicker__list pb-4">
 										<Marquee>
 											<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-												<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-8.svg" alt="infinia" />
+												<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-8.svg" alt="Solution Spire" />
 											</li>
 											<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-												<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-9.svg" alt="infinia" />
+												<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-9.svg" alt="Solution Spire" />
 											</li>
 											<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-												<img src="/assets/imgs/logo-cloud-3/logo-3.svg" alt="infinia" />
+												<img src="/assets/imgs/logo-cloud-3/logo-3.svg" alt="Solution Spire" />
 											</li>
 											<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-												<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-10.svg" alt="infinia" />
+												<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-10.svg" alt="Solution Spire" />
 											</li>
 											<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-												<img src="/assets/imgs/logo-cloud-3/logo-11.svg" alt="infinia" />
+												<img src="/assets/imgs/logo-cloud-3/logo-11.svg" alt="Solution Spire" />
 											</li>
 											<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-												<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-12.svg" alt="infinia" />
+												<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-12.svg" alt="Solution Spire" />
 											</li>
 										</Marquee>
 									</ul>
@@ -208,7 +208,7 @@ export default function PageAbout2() {
 						<div className="row position-relative z-1">
 							<div className="text-center">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">OUR TEAM MEMBERS</span>
 								</div>
 								<h3 className="ds-3 my-3">Meet Our Team</h3>
@@ -237,7 +237,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-1.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-1.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
@@ -258,7 +258,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-2.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-2.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
@@ -279,7 +279,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-3.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-3.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
@@ -300,7 +300,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-4.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-4.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
@@ -321,7 +321,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-5.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-5.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
@@ -342,7 +342,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-6.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-6.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
@@ -363,7 +363,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-7.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-7.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
@@ -384,7 +384,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-8.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-8.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
@@ -417,7 +417,7 @@ export default function PageAbout2() {
 								<div className="feature-item mb-5 position-relative mb-lg-0 bg-white p-5 rounded-4 hover-up">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/features-1/icon-1.svg" alt="infinia" />
+											<img src="/assets/imgs/features-1/icon-1.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h6>Best Solutions</h6>
@@ -444,7 +444,7 @@ export default function PageAbout2() {
 								<div className="feature-item mb-5 position-relative mb-lg-0 bg-white p-5 rounded-4 hover-up">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/features-1/icon-2.svg" alt="infinia" />
+											<img src="/assets/imgs/features-1/icon-2.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h6>Secure payment</h6>
@@ -471,7 +471,7 @@ export default function PageAbout2() {
 								<div className="feature-item mb-5 position-relative mb-lg-0 bg-white p-5 rounded-4 hover-up">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/features-1/icon-3.svg" alt="infinia" />
+											<img src="/assets/imgs/features-1/icon-3.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h6>Save Money</h6>
@@ -498,7 +498,7 @@ export default function PageAbout2() {
 								<div className="feature-item mb-5 position-relative mb-lg-0 bg-white p-5 rounded-4 hover-up">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/features-1/icon-4.svg" alt="infinia" />
+											<img src="/assets/imgs/features-1/icon-4.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h6>Quick Support</h6>
@@ -531,14 +531,14 @@ export default function PageAbout2() {
 							<div className="row">
 								<div className="col-lg-5 position-relative">
 									<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Our Features</span>
 									</div>
 									<h5 className="ds-5 mt-2">Optimize Your <br /> Finances with Ease.</h5>
 									<div className="d-flex pt-3 align-items-center">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 											<div className="icon">
-												<img src="/assets/imgs/features-11/icon-1.svg" alt="infinia" />
+												<img src="/assets/imgs/features-11/icon-1.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<div className="ps-5">
@@ -549,7 +549,7 @@ export default function PageAbout2() {
 									<div className="d-flex pt-3 align-items-center">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 											<div className="icon">
-												<img src="/assets/imgs/features-11/icon-2.svg" alt="infinia" />
+												<img src="/assets/imgs/features-11/icon-2.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<div className="ps-5">
@@ -560,7 +560,7 @@ export default function PageAbout2() {
 									<div className="d-flex pt-3 align-items-center">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 											<div className="icon">
-												<img src="/assets/imgs/features-11/icon-3.svg" alt="infinia" />
+												<img src="/assets/imgs/features-11/icon-3.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<div className="ps-5">
@@ -574,10 +574,10 @@ export default function PageAbout2() {
 								</div>
 								<div className="col-lg-7 text-center mt-lg-0 mt-8 d-flex">
 									<div className="zoom-img rounded-3 mt-8 me-3">
-										<img src="/assets/imgs/features-11/img-1.png" alt="infinia" />
+										<img src="/assets/imgs/features-11/img-1.png" alt="Solution Spire" />
 									</div>
 									<div className="zoom-img rounded-3">
-										<img className="rounded-3" src="/assets/imgs/features-11/img-2.png" alt="infinia" />
+										<img className="rounded-3" src="/assets/imgs/features-11/img-2.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
@@ -590,7 +590,7 @@ export default function PageAbout2() {
 						<div className="row mb-8">
 							<div className="col-lg-6">
 								<div className="d-flex align-items-center justify-text-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Recent work</span>
 								</div>
 								<h3 className="ds-3 mt-3 mb-3">Our feared projects</h3>
@@ -619,7 +619,7 @@ export default function PageAbout2() {
 										<div className="text-center">
 											<div className="zoom-img position-relative d-inline-block z-1">
 												<div className="rounded-3 fix">
-													<img className="img-fluid w-100" src="/assets/imgs/project-2/img-1.png" alt="infinia" />
+													<img className="img-fluid w-100" src="/assets/imgs/project-2/img-1.png" alt="Solution Spire" />
 												</div>
 												<Link href="#" className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-4 hover-up">
 													<p className="fs-7 text-primary mb-1">InnovateTech Inc.</p>
@@ -634,7 +634,7 @@ export default function PageAbout2() {
 										<div className="text-center">
 											<div className="zoom-img position-relative d-inline-block z-1">
 												<div className="rounded-3 fix">
-													<img className="img-fluid w-100" src="/assets/imgs/project-2/img-2.png" alt="infinia" />
+													<img className="img-fluid w-100" src="/assets/imgs/project-2/img-2.png" alt="Solution Spire" />
 												</div>
 												<Link href="#" className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-4 hover-up">
 													<p className="fs-7 text-primary mb-1">Pioneer Enterprises</p>
@@ -649,7 +649,7 @@ export default function PageAbout2() {
 										<div className="text-center">
 											<div className="zoom-img position-relative d-inline-block z-1">
 												<div className="rounded-3 fix">
-													<img className="img-fluid w-100" src="/assets/imgs/project-2/img-3.png" alt="infinia" />
+													<img className="img-fluid w-100" src="/assets/imgs/project-2/img-3.png" alt="Solution Spire" />
 												</div>
 												<Link href="#" className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-4 hover-up">
 													<p className="fs-7 text-primary mb-1">Summit Corp</p>
@@ -664,7 +664,7 @@ export default function PageAbout2() {
 										<div className="text-center">
 											<div className="zoom-img position-relative d-inline-block z-1">
 												<div className="rounded-3 fix">
-													<img className="img-fluid w-100" src="/assets/imgs/project-2/img-1.png" alt="infinia" />
+													<img className="img-fluid w-100" src="/assets/imgs/project-2/img-1.png" alt="Solution Spire" />
 												</div>
 												<Link href="#" className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-4 hover-up">
 													<p className="fs-7 text-primary mb-1">InnovateTech Inc.</p>
@@ -679,7 +679,7 @@ export default function PageAbout2() {
 										<div className="text-center">
 											<div className="zoom-img position-relative d-inline-block z-1">
 												<div className="rounded-3 fix">
-													<img className="img-fluid w-100" src="/assets/imgs/project-2/img-2.png" alt="infinia" />
+													<img className="img-fluid w-100" src="/assets/imgs/project-2/img-2.png" alt="Solution Spire" />
 												</div>
 												<Link href="#" className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-4 hover-up">
 													<p className="fs-7 text-primary mb-1">Pioneer Enterprises</p>
@@ -694,7 +694,7 @@ export default function PageAbout2() {
 										<div className="text-center">
 											<div className="zoom-img position-relative d-inline-block z-1">
 												<div className="rounded-3 fix">
-													<img className="img-fluid w-100" src="/assets/imgs/project-2/img-3.png" alt="infinia" />
+													<img className="img-fluid w-100" src="/assets/imgs/project-2/img-3.png" alt="Solution Spire" />
 												</div>
 												<Link href="#" className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-4 hover-up">
 													<p className="fs-7 text-primary mb-1">Summit Corp</p>
@@ -716,11 +716,11 @@ export default function PageAbout2() {
 						<div className="row mb-8 mb-lg-6">
 							<div className="col-lg-6">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Why us ?</span>
 								</div>
 								<h3 className="ds-3 mt-3 mb-3">Reach out to <br /> the world’s most</h3>
-								<p className="fs-5 fw-medium">⚡Here are a few reasons why our customers choose Infinia.</p>
+								<p className="fs-5 fw-medium">⚡Here are a few reasons why our customers choose Solution Spire.</p>
 							</div>
 							<div className="col-lg-2 col-md-3 col-5 ms-auto align-self-end mb-lg-7">
 								<div className="position-relative z-0">
@@ -742,7 +742,7 @@ export default function PageAbout2() {
 									{/* prettier-ignore */}
 									<SwiperSlide className="swiper-slide">
 										<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover">
-											<img className="rounded-top-3" src="/assets/imgs/features-7/img-1.png" alt="infinia" />
+											<img className="rounded-top-3" src="/assets/imgs/features-7/img-1.png" alt="Solution Spire" />
 											<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 												<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">business</span>
 											</Link>
@@ -760,7 +760,7 @@ export default function PageAbout2() {
 									</SwiperSlide>
 									<SwiperSlide className="swiper-slide">
 										<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover">
-											<img className="rounded-top-3" src="/assets/imgs/features-7/img-2.png" alt="infinia" />
+											<img className="rounded-top-3" src="/assets/imgs/features-7/img-2.png" alt="Solution Spire" />
 											<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 												<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Research</span>
 											</Link>
@@ -778,7 +778,7 @@ export default function PageAbout2() {
 									</SwiperSlide>
 									<SwiperSlide className="swiper-slide">
 										<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover">
-											<img className="rounded-top-3" src="/assets/imgs/features-7/img-3.png" alt="infinia" />
+											<img className="rounded-top-3" src="/assets/imgs/features-7/img-3.png" alt="Solution Spire" />
 											<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 												<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Social Media</span>
 											</Link>
@@ -796,7 +796,7 @@ export default function PageAbout2() {
 									</SwiperSlide>
 									<SwiperSlide className="swiper-slide">
 										<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover">
-											<img className="rounded-top-3" src="/assets/imgs/features-7/img-1.png" alt="infinia" />
+											<img className="rounded-top-3" src="/assets/imgs/features-7/img-1.png" alt="Solution Spire" />
 											<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 												<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">business</span>
 											</Link>
@@ -814,7 +814,7 @@ export default function PageAbout2() {
 									</SwiperSlide>
 									<SwiperSlide className="swiper-slide">
 										<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover">
-											<img className="rounded-top-3" src="/assets/imgs/features-7/img-2.png" alt="infinia" />
+											<img className="rounded-top-3" src="/assets/imgs/features-7/img-2.png" alt="Solution Spire" />
 											<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 												<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Research</span>
 											</Link>
@@ -832,7 +832,7 @@ export default function PageAbout2() {
 									</SwiperSlide>
 									<SwiperSlide className="swiper-slide">
 										<div className="card border-0 position-relative rounded-3 d-inline-flex card-hover">
-											<img className="rounded-top-3" src="/assets/imgs/features-7/img-3.png" alt="infinia" />
+											<img className="rounded-top-3" src="/assets/imgs/features-7/img-3.png" alt="Solution Spire" />
 											<Link href="#" className="position-absolute z-1 m-3 bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
 												<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Social Media</span>
 											</Link>
@@ -860,31 +860,31 @@ export default function PageAbout2() {
 							<div className="col-lg-6 my-4">
 								<div className="row">
 									<div className="ms-lg-4">
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-1.png" alt="infinia" />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-2.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={50} />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3 d-none d-md-inline" src="/assets/imgs/newsletter-1/img-3.png" alt="infinia" />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-1.png" alt="Solution Spire" />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-2.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={50} />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3 d-none d-md-inline" src="/assets/imgs/newsletter-1/img-3.png" alt="Solution Spire" />
 									</div>
 								</div>
 								<div className="row">
 									<div>
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-4.png" alt="infinia" />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-5.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={100} />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-6.png" alt="infinia" />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-7.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={100} />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-4.png" alt="Solution Spire" />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-5.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={100} />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-6.png" alt="Solution Spire" />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-7.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={100} />
 									</div>
 								</div>
 								<div className="row d-none d-lg-flex">
 									<div className="me-lg-0">
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-8.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={50} />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-9.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={100} />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3 d-none d-md-inline" src="/assets/imgs/newsletter-1/img-10.png" alt="infinia" />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-8.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={50} />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-9.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={100} />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3 d-none d-md-inline" src="/assets/imgs/newsletter-1/img-10.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
 							<div className="col-lg-6 mt-lg-0 mt-5">
 								<div className="px-lg-5 text-lg-start text-center">
 									<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Stay Updated</span>
 									</div>
 									<h4 className="mt-3 mb-3" data-aos="fade-zoom-in" data-aos-delay={100}>Subscribe to our Newsletter!</h4>
@@ -899,7 +899,7 @@ export default function PageAbout2() {
 							</div>
 						</div>
 						<div className="position-absolute top-50 start-50 translate-middle z-0">
-							<img src="/assets/imgs/newsletter-1/bg-line.png" alt="infinia" />
+							<img src="/assets/imgs/newsletter-1/bg-line.png" alt="Solution Spire" />
 						</div>
 						<div className="bouncing-blobs-container rounded-4 fix">
 							<div className="bouncing-blobs-glass rounded-4" />

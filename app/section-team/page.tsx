@@ -57,7 +57,7 @@ export default function SectionTeam() {
 							</div>
 						</div>
 					</div>
-					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="infinia" />
+					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="Solution Spire" />
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />
 						<div className="bouncing-blobs">
@@ -72,7 +72,7 @@ export default function SectionTeam() {
 						<div className="row position-relative z-1">
 							<div className="text-center">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">OUR TEAM MEMBERS</span>
 								</div>
 								<h3 className="ds-3 my-3" data-aos="fade-zoom-in" data-aos-delay={200}>Meet Our Team</h3>
@@ -84,7 +84,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 mb-lg-4 mb-7 text-center" data-aos="fade-zoom-in" data-aos-delay={100}>
 								<div className="position-relative d-inline-block z-1">
 									<div className="zoom-img rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-1/avatar-1.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-1/avatar-1.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 hover-up">
 										<h6>Michael Anderson</h6>
@@ -100,7 +100,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 mb-lg-4 mb-7 text-center" data-aos="fade-zoom-in" data-aos-delay={200}>
 								<div className="position-relative d-inline-block z-1">
 									<div className="zoom-img rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-1/avatar-2.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-1/avatar-2.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 hover-up">
 										<h6>Strategy Development</h6>
@@ -116,7 +116,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 mb-lg-4 mb-7 text-center" data-aos="fade-zoom-in" data-aos-delay={300}>
 								<div className="position-relative d-inline-block z-1">
 									<div className="zoom-img rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-1/avatar-3.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-1/avatar-3.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 hover-up">
 										<h6>Sarah Brown</h6>
@@ -132,7 +132,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 mb-lg-4 mb-7 text-center" data-aos="fade-zoom-in" data-aos-delay={400}>
 								<div className="position-relative d-inline-block z-1">
 									<div className="zoom-img rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-1/avatar-4.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-1/avatar-4.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 hover-up">
 										<h6>David Clark </h6>
@@ -148,7 +148,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 mb-lg-4 mb-7 text-center" data-aos="fade-zoom-in" data-aos-delay={100}>
 								<div className="position-relative d-inline-block z-1">
 									<div className="zoom-img rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-1/avatar-5.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-1/avatar-5.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 hover-up">
 										<h6>Jessica Carter</h6>
@@ -164,7 +164,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 mb-lg-4 mb-7 text-center" data-aos="fade-zoom-in" data-aos-delay={200}>
 								<div className="position-relative d-inline-block z-1">
 									<div className="zoom-img rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-1/avatar-6.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-1/avatar-6.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 hover-up">
 										<h6>Lauren Graham</h6>
@@ -180,7 +180,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 mb-lg-4 mb-7 text-center" data-aos="fade-zoom-in" data-aos-delay={300}>
 								<div className="position-relative d-inline-block z-1">
 									<div className="zoom-img rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-1/avatar-7.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-1/avatar-7.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 hover-up">
 										<h6>James Bennett</h6>
@@ -196,7 +196,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 mb-lg-4 mb-7 text-center" data-aos="fade-zoom-in" data-aos-delay={400}>
 								<div className="position-relative d-inline-block z-1">
 									<div className="zoom-img rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-1/avatar-8.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-1/avatar-8.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 hover-up">
 										<h6>William Foster</h6>
@@ -212,7 +212,7 @@ export default function SectionTeam() {
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/team-1/bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/team-1/bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="rotate-center ellipse-rotate-success position-absolute z-0" />
 					<div className="rotate-center-rev ellipse-rotate-primary position-absolute z-0" />
@@ -224,7 +224,7 @@ export default function SectionTeam() {
 							<div className="col-lg-6">
 								<div className="text-start mb-lg-0 mb-lg-5 mb-10">
 									<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">OUR TEAM MEMBERS</span>
 									</div>
 									<h3 className="ds-3 my-3">Meet Our Team</h3>
@@ -233,7 +233,7 @@ export default function SectionTeam() {
 										company forward every day.
 									</p>
 									<div className="d-flex align-items-center mt-8">
-										<img src="/assets/imgs/team-2/contact.svg" alt="infinia" />
+										<img src="/assets/imgs/team-2/contact.svg" alt="Solution Spire" />
 										<div className="ms-3">
 											<p className="text-uppercase fs-7">Contact Us</p>
 											<h5>+1 (24) 567 890</h5>
@@ -246,7 +246,7 @@ export default function SectionTeam() {
 									<div className="col-md-6 mb-lg-4 mb-7 text-center" data-aos="fade-zoom-in" data-aos-delay={100}>
 										<div className="position-relative d-inline-block z-1">
 											<div className="zoom-img rounded-3">
-												<img className="img-fluid w-100" src="/assets/imgs/team-2/avatar-1.png" alt="infinia" />
+												<img className="img-fluid w-100" src="/assets/imgs/team-2/avatar-1.png" alt="Solution Spire" />
 											</div>
 											<Link href="#" className="card-team rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 hover-up">
 												<h6>Strategy Development</h6>
@@ -262,7 +262,7 @@ export default function SectionTeam() {
 									<div className="col-md-6 mb-lg-4 mb-7 text-center" data-aos="fade-zoom-in" data-aos-delay={300}>
 										<div className="position-relative d-inline-block z-1">
 											<div className="zoom-img rounded-3">
-												<img className="img-fluid w-100" src="/assets/imgs/team-2/avatar-2.png" alt="infinia" />
+												<img className="img-fluid w-100" src="/assets/imgs/team-2/avatar-2.png" alt="Solution Spire" />
 											</div>
 											<Link href="#" className="card-team rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 hover-up">
 												<h6>Strategy Development</h6>
@@ -282,7 +282,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 mb-lg-4 mb-7 text-center" data-aos="fade-zoom-in" data-aos-delay={0}>
 								<div className="position-relative d-inline-block z-1">
 									<div className="zoom-img rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-2/avatar-3.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-2/avatar-3.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 hover-up">
 										<h6>Strategy Development</h6>
@@ -298,7 +298,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 mb-lg-4 mb-7 text-center" data-aos="fade-zoom-in" data-aos-delay={100}>
 								<div className="position-relative d-inline-block z-1">
 									<div className="zoom-img rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-2/avatar-4.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-2/avatar-4.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 hover-up">
 										<h6>Strategy Development</h6>
@@ -314,7 +314,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 mb-lg-4 mb-7 text-center" data-aos="fade-zoom-in" data-aos-delay={200}>
 								<div className="position-relative d-inline-block z-1">
 									<div className="zoom-img rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-2/avatar-5.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-2/avatar-5.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 hover-up">
 										<h6>Strategy Development</h6>
@@ -330,7 +330,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 mb-lg-4 mb-7 text-center" data-aos="fade-zoom-in" data-aos-delay={300}>
 								<div className="position-relative d-inline-block z-1">
 									<div className="zoom-img rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-2/avatar-6.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-2/avatar-6.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team rounded-3 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto p-4 m-3 hover-up">
 										<h6>Strategy Development</h6>
@@ -352,7 +352,7 @@ export default function SectionTeam() {
 						<div className="row position-relative z-1">
 							<div className="text-center">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">OUR TEAM MEMBERS</span>
 								</div>
 								<h3 className="ds-3 my-3">Meet Our Team</h3>
@@ -369,7 +369,7 @@ export default function SectionTeam() {
 									<SwiperSlide className="swiper-slide">
 										<div className="position-relative z-1">
 											<div className="zoom-img rounded-4">
-												<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-1.png" alt="infinia" />
+												<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-1.png" alt="Solution Spire" />
 											</div>
 											<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 												<div className="position-relative z-1">
@@ -391,7 +391,7 @@ export default function SectionTeam() {
 									<SwiperSlide className="swiper-slide">
 										<div className="position-relative z-1">
 											<div className="zoom-img rounded-4">
-												<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-2.png" alt="infinia" />
+												<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-2.png" alt="Solution Spire" />
 											</div>
 											<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 												<div className="position-relative z-1">
@@ -413,7 +413,7 @@ export default function SectionTeam() {
 									<SwiperSlide className="swiper-slide">
 										<div className="position-relative z-1">
 											<div className="zoom-img rounded-4">
-												<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-3.png" alt="infinia" />
+												<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-3.png" alt="Solution Spire" />
 											</div>
 											<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 												<div className="position-relative z-1">
@@ -435,7 +435,7 @@ export default function SectionTeam() {
 									<SwiperSlide className="swiper-slide">
 										<div className="position-relative z-1">
 											<div className="zoom-img rounded-4">
-												<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-4.png" alt="infinia" />
+												<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-4.png" alt="Solution Spire" />
 											</div>
 											<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 												<div className="position-relative z-1">
@@ -457,7 +457,7 @@ export default function SectionTeam() {
 									<SwiperSlide className="swiper-slide">
 										<div className="position-relative z-1">
 											<div className="zoom-img rounded-4">
-												<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-1.png" alt="infinia" />
+												<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-1.png" alt="Solution Spire" />
 											</div>
 											<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 												<div className="position-relative z-1">
@@ -479,7 +479,7 @@ export default function SectionTeam() {
 									<SwiperSlide className="swiper-slide">
 										<div className="position-relative z-1">
 											<div className="zoom-img rounded-4">
-												<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-2.png" alt="infinia" />
+												<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-2.png" alt="Solution Spire" />
 											</div>
 											<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 												<div className="position-relative z-1">
@@ -501,7 +501,7 @@ export default function SectionTeam() {
 									<SwiperSlide className="swiper-slide">
 										<div className="position-relative z-1">
 											<div className="zoom-img rounded-4">
-												<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-3.png" alt="infinia" />
+												<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-3.png" alt="Solution Spire" />
 											</div>
 											<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 												<div className="position-relative z-1">
@@ -523,7 +523,7 @@ export default function SectionTeam() {
 									<SwiperSlide className="swiper-slide">
 										<div className="position-relative z-1">
 											<div className="zoom-img rounded-4">
-												<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-4.png" alt="infinia" />
+												<img className="img-fluid w-100" src="/assets/imgs/team-3/portrait-4.png" alt="Solution Spire" />
 											</div>
 											<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 												<div className="position-relative z-1">
@@ -552,7 +552,7 @@ export default function SectionTeam() {
 					<div className="container">
 						<div className="text-center">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">OUR TEAM MEMBERS</span>
 							</div>
 							<h3 className="ds-3 my-3">Meet Our Team</h3>
@@ -567,7 +567,7 @@ export default function SectionTeam() {
 							<div className="col-lg-4 col-md-6 mb-lg-4 mb-8 text-center">
 								<div className="position-relative d-inline-block z-1">
 									<div className="zoom-img rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-1.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-1.png" alt="Solution Spire" />
 									</div>
 									<div className="hover-up">
 										<Link href="#" className="card-team text-start rounded-3 position-absolute top-100 translate-middle-y start-0 end-0 w-100 z-1 backdrop-filter w-auto p-4 mx-6 shadow-1">
@@ -585,7 +585,7 @@ export default function SectionTeam() {
 							<div className="col-lg-4 col-md-6 mb-lg-4 mb-8 text-center">
 								<div className="position-relative d-inline-block z-1">
 									<div className="zoom-img rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-2.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-2.png" alt="Solution Spire" />
 									</div>
 									<div className="hover-up">
 										<Link href="#" className="card-team text-start rounded-3 position-absolute top-100 translate-middle-y start-0 end-0 w-100 z-1 backdrop-filter w-auto p-4 mx-6 shadow-1">
@@ -603,7 +603,7 @@ export default function SectionTeam() {
 							<div className="col-lg-4 col-md-6 mb-lg-4 mb-8 text-center">
 								<div className="position-relative d-inline-block z-1">
 									<div className="zoom-img rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-3.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-3.png" alt="Solution Spire" />
 									</div>
 									<div className="hover-up">
 										<Link href="#" className="card-team text-start rounded-3 position-absolute top-100 translate-middle-y start-0 end-0 w-100 z-1 backdrop-filter w-auto p-4 mx-6 shadow-1">
@@ -624,7 +624,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 mb-lg-4 mb-8 text-center">
 								<div className="position-relative d-inline-block z-1">
 									<div className="zoom-img rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-4.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-4.png" alt="Solution Spire" />
 									</div>
 									<div className="hover-up">
 										<Link href="#" className="card-team text-start rounded-3 position-absolute top-100 translate-middle-y start-0 end-0 w-100 z-1 backdrop-filter w-auto p-4 mx-4 shadow-1">
@@ -642,7 +642,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 mb-lg-4 mb-8 text-center">
 								<div className="position-relative d-inline-block z-1">
 									<div className="zoom-img rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-5.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-5.png" alt="Solution Spire" />
 									</div>
 									<div className="hover-up">
 										<Link href="#" className="card-team text-start rounded-3 position-absolute top-100 translate-middle-y start-0 end-0 w-100 z-1 backdrop-filter w-auto p-4 mx-4 shadow-1">
@@ -660,7 +660,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 mb-lg-4 mb-8 text-center">
 								<div className="position-relative d-inline-block z-1">
 									<div className="zoom-img rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-6.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-6.png" alt="Solution Spire" />
 									</div>
 									<div className="hover-up">
 										<Link href="#" className="card-team text-start rounded-3 position-absolute top-100 translate-middle-y start-0 end-0 w-100 z-1 backdrop-filter w-auto p-4 mx-4 shadow-1">
@@ -678,7 +678,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 mb-lg-4 mb-8 text-center">
 								<div className="position-relative d-inline-block z-1">
 									<div className="zoom-img rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-7.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-4/avatar-7.png" alt="Solution Spire" />
 									</div>
 									<div className="hover-up">
 										<Link href="#" className="card-team text-start rounded-3 position-absolute top-100 translate-middle-y start-0 end-0 w-100 z-1 backdrop-filter w-auto p-4 mx-4 shadow-1">
@@ -702,7 +702,7 @@ export default function SectionTeam() {
 						<div className="row position-relative z-1">
 							<div className="text-center">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">OUR TEAM MEMBERS</span>
 								</div>
 								<h3 className="ds-3 my-3 fw-regular text-capitalize">Meet <span className="fw-bold">everyone</span> who <br className="d-none d-md-inline" /> made this <span className="fw-bold">possible.</span> </h3>
@@ -714,7 +714,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-primary-soft rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-1.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-1.png" alt="Solution Spire" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -735,7 +735,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-3 rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-2.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-2.png" alt="Solution Spire" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -756,7 +756,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-4 rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-3.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-3.png" alt="Solution Spire" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -777,7 +777,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-neutral-100 rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-4.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-4.png" alt="Solution Spire" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -798,7 +798,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-5 rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-5.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-5.png" alt="Solution Spire" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -819,7 +819,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-4 rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-6.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-6.png" alt="Solution Spire" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -840,7 +840,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-primary-soft rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-7.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-7.png" alt="Solution Spire" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -861,7 +861,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-3 rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-8.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-8.png" alt="Solution Spire" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -885,7 +885,7 @@ export default function SectionTeam() {
 								<div className="text-center">
 									<img src="/assets/imgs/team-5/icon-sm.svg" alt="" />
 									<h5 className="my-3">We are seeking skilled individuals.</h5>
-									<p className="text-500 mb-8">Infinia is experiencing rapid growth, and we are continually seeking passionate, dynamic, <br className="d-none d-md-inline" /> and talented individuals to join our distributed team across the globe.</p>
+									<p className="text-500 mb-8">Solution Spire is experiencing rapid growth, and we are continually seeking passionate, dynamic, <br className="d-none d-md-inline" /> and talented individuals to join our distributed team across the globe.</p>
 									<Link href="#" className="btn btn-gradient">
 										Become Our Member
 										<svg className="ms-2" xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -910,7 +910,7 @@ export default function SectionTeam() {
 						<div className="row position-relative z-1">
 							<div className="text-center">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">OUR TEAM MEMBERS</span>
 								</div>
 								<h3 className="ds-3 my-3">Meet Our Team</h3>
@@ -939,7 +939,7 @@ export default function SectionTeam() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-1.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-1.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
@@ -960,7 +960,7 @@ export default function SectionTeam() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-2.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-2.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
@@ -981,7 +981,7 @@ export default function SectionTeam() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-3.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-3.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
@@ -1002,7 +1002,7 @@ export default function SectionTeam() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-4.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-4.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
@@ -1023,7 +1023,7 @@ export default function SectionTeam() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-5.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-5.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
@@ -1044,7 +1044,7 @@ export default function SectionTeam() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-6.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-6.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
@@ -1065,7 +1065,7 @@ export default function SectionTeam() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-7.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-7.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
@@ -1086,7 +1086,7 @@ export default function SectionTeam() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-8.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/img-portrait-8.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
@@ -1116,7 +1116,7 @@ export default function SectionTeam() {
 						<div className="row position-relative z-1">
 							<div className="text-center">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">OUR TEAM MEMBERS</span>
 								</div>
 								<h3 className="ds-3 my-3">Meet Our Team</h3>
@@ -1128,7 +1128,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 col-sm-6 mb-6">
 								<div className="position-relative z-1">
 									<div className="zoom-img rounded-4">
-										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-1.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-1.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 										<div className="position-relative z-1">
@@ -1150,7 +1150,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 col-sm-6 mb-6">
 								<div className="position-relative z-1">
 									<div className="zoom-img rounded-4">
-										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-2.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-2.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 										<div className="position-relative z-1">
@@ -1172,7 +1172,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 col-sm-6 mb-6">
 								<div className="position-relative z-1">
 									<div className="zoom-img rounded-4">
-										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-3.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-3.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 										<div className="position-relative z-1">
@@ -1194,7 +1194,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 col-sm-6 mb-6">
 								<div className="position-relative z-1">
 									<div className="zoom-img rounded-4">
-										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-4.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-4.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 										<div className="position-relative z-1">
@@ -1216,7 +1216,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 col-sm-6 mb-6">
 								<div className="position-relative z-1">
 									<div className="zoom-img rounded-4">
-										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-5.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-5.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 										<div className="position-relative z-1">
@@ -1238,7 +1238,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 col-sm-6 mb-6">
 								<div className="position-relative z-1">
 									<div className="zoom-img rounded-4">
-										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-6.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-6.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 										<div className="position-relative z-1">
@@ -1260,7 +1260,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 col-sm-6 mb-6">
 								<div className="position-relative z-1">
 									<div className="zoom-img rounded-4">
-										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-7.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-7.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 										<div className="position-relative z-1">
@@ -1282,7 +1282,7 @@ export default function SectionTeam() {
 							<div className="col-lg-3 col-md-6 col-sm-6 mb-6">
 								<div className="position-relative z-1">
 									<div className="zoom-img rounded-4">
-										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-8.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-8.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 										<div className="position-relative z-1">

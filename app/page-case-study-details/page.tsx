@@ -53,7 +53,7 @@ export default function PageCaseStudyDetails() {
 							</div>
 						</div>
 					</div>
-					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="infinia" />
+					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="Solution Spire" />
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />
 						<div className="bouncing-blobs">
@@ -78,10 +78,10 @@ export default function PageCaseStudyDetails() {
 									>
 										<div className="swiper-wrapper">
 											<SwiperSlide className="swiper-slide">
-												<img className="w-100" src="/assets/imgs/case-study-details/img-1.png" alt="infinia" />
+												<img className="w-100" src="/assets/imgs/case-study-details/img-1.png" alt="Solution Spire" />
 											</SwiperSlide>
 											<SwiperSlide className="swiper-slide">
-												<img className="w-100" src="/assets/imgs/case-study-details/img-2.png" alt="infinia" />
+												<img className="w-100" src="/assets/imgs/case-study-details/img-2.png" alt="Solution Spire" />
 											</SwiperSlide>
 										</div>
 									</Swiper>
@@ -116,19 +116,19 @@ export default function PageCaseStudyDetails() {
 										<p className="text-900 mb-0">quantum.sw</p>
 									</div>
 								</div>
-								<p className="fs-5 text-900">Infinia System, a rapidly growing app, faced a significant challenge in maintaining and enhancing user engagement. With an initial user base of 5,000, the company struggled with low interaction rates, high churn. Despite having a unique value proposition, the lack of effective engagement strategies hindered their growth potential. Infinia System needed a robust approach to transform their user experience and drive substantial engagement.</p>
+								<p className="fs-5 text-900">Solution Spire System, a rapidly growing app, faced a significant challenge in maintaining and enhancing user engagement. With an initial user base of 5,000, the company struggled with low interaction rates, high churn. Despite having a unique value proposition, the lack of effective engagement strategies hindered their growth potential. Solution Spire System needed a robust approach to transform their user experience and drive substantial engagement.</p>
 								<h5 className="mt-5 mb-3">Research</h5>
-								<p>Understanding the importance of user engagement for their app’s success, Infinia System’s team conducted extensive research to identify the pain points and preferences of their user base. They aimed to uncover why users were not engaging as expected and what features or improvements could make a difference. Through surveys, user feedback sessions, and analyzing usage data, Infinia System identified several key areas needing improvement: personalized content delivery, user-friendly interface enhancements, and proactive user support.</p>
+								<p>Understanding the importance of user engagement for their app’s success, Solution Spire System’s team conducted extensive research to identify the pain points and preferences of their user base. They aimed to uncover why users were not engaging as expected and what features or improvements could make a difference. Through surveys, user feedback sessions, and analyzing usage data, Solution Spire System identified several key areas needing improvement: personalized content delivery, user-friendly interface enhancements, and proactive user support.</p>
 								<h5 className="mt-5 mb-3">Solution</h5>
-								<p>Armed with these insights, Infinia System implemented a comprehensive engagement strategy focused on personalization, user experience optimization, and enhanced customer support.</p>
-								<p className="fw-bold text-900">Personalization: <span className="fw-medium text-600">Infinia System leveraged AI-driven algorithms to deliver personalized content and recommendations based on user behavior and preferences. This approach ensured that users received relevant and timely information, increasing their likelihood of interaction with the app.</span></p>
-								<p className="fw-bold text-900">User Experience Optimization: <span className="fw-medium text-600">Infinia System revamped its user interface to make it more intuitive and engaging. Simplified navigation, interactive tutorials, and user-centric design elements were introduced to enhance the overall user experience. These changes made it easier for users to find and utilize the app’s features, leading to increased satisfaction and usage.</span></p>
-								<p className="fw-bold text-900">Proactive User Support: <span className="fw-medium text-600">Infinia System integrated an in-app chat feature powered by AI chatbots to provide immediate assistance to users. This feature addressed user queries in real time, reducing frustration and improving user retention. Additionally, Infinia System set up automated email campaigns to re-engage users who had been inactive for a certain period, encouraging them to return and explore new features.</span></p>
+								<p>Armed with these insights, Solution Spire System implemented a comprehensive engagement strategy focused on personalization, user experience optimization, and enhanced customer support.</p>
+								<p className="fw-bold text-900">Personalization: <span className="fw-medium text-600">Solution Spire System leveraged AI-driven algorithms to deliver personalized content and recommendations based on user behavior and preferences. This approach ensured that users received relevant and timely information, increasing their likelihood of interaction with the app.</span></p>
+								<p className="fw-bold text-900">User Experience Optimization: <span className="fw-medium text-600">Solution Spire System revamped its user interface to make it more intuitive and engaging. Simplified navigation, interactive tutorials, and user-centric design elements were introduced to enhance the overall user experience. These changes made it easier for users to find and utilize the app’s features, leading to increased satisfaction and usage.</span></p>
+								<p className="fw-bold text-900">Proactive User Support: <span className="fw-medium text-600">Solution Spire System integrated an in-app chat feature powered by AI chatbots to provide immediate assistance to users. This feature addressed user queries in real time, reducing frustration and improving user retention. Additionally, Solution Spire System set up automated email campaigns to re-engage users who had been inactive for a certain period, encouraging them to return and explore new features.</span></p>
 								<h5 className="mt-5 mb-3">Results</h5>
-								<p>The implementation of these strategies yielded impressive results for Infinia System. Within six months, the user base skyrocketed from 5,000 to 50,000. The personalized content approach led to a significant increase in user interaction, with engagement rates doubling. The improved user interface received positive feedback, with users spending more time on the app and exploring its features. The proactive support system reduced churn rates, with more users staying active and satisfied with the app.</p>
-								<p>Overall, Infinia System's commitment to enhancing user engagement through personalized experiences, optimized design, and proactive support transformed their user base and positioned them for continued growth and success.</p>
+								<p>The implementation of these strategies yielded impressive results for Solution Spire System. Within six months, the user base skyrocketed from 5,000 to 50,000. The personalized content approach led to a significant increase in user interaction, with engagement rates doubling. The improved user interface received positive feedback, with users spending more time on the app and exploring its features. The proactive support system reduced churn rates, with more users staying active and satisfied with the app.</p>
+								<p>Overall, Solution Spire System's commitment to enhancing user engagement through personalized experiences, optimized design, and proactive support transformed their user base and positioned them for continued growth and success.</p>
 								<h5 className="mt-5 mb-3">Conclusion</h5>
-								<p>Infinia System's journey from 5,000 to 50,000 users in just six months highlights the critical role of user engagement in app success. By focusing on personalized content, user-friendly design, and proactive support, Infinia System not only increased its user base but also created a loyal and engaged community. This case study demonstrates the power of understanding user needs and implementing targeted strategies to drive meaningful engagement and growth.</p>
+								<p>Solution Spire System's journey from 5,000 to 50,000 users in just six months highlights the critical role of user engagement in app success. By focusing on personalized content, user-friendly design, and proactive support, Solution Spire System not only increased its user base but also created a loyal and engaged community. This case study demonstrates the power of understanding user needs and implementing targeted strategies to drive meaningful engagement and growth.</p>
 							</div>
 							<div className="col-lg-4">
 								<div className="bg-primary mt-lg-0 mt-5 rounded-3 position-relative">
@@ -139,7 +139,7 @@ export default function PageCaseStudyDetails() {
 											in Financial Services
 										</h4>
 										<Link href="/page-contact-1" className="d-flex align-items-center mt-8 mb-9">
-											<img src="/assets/imgs/services-details/icon-contact.svg" alt="infinia" />
+											<img src="/assets/imgs/services-details/icon-contact.svg" alt="Solution Spire" />
 											<div className="ms-3">
 												<span className="text-white mb-0 fs-4">Contact Us</span>
 												<h5 className="text-white d-block">+1(234)567890</h5>
@@ -152,7 +152,7 @@ export default function PageCaseStudyDetails() {
 											</svg>
 										</Link>
 									</div>
-									<img className="position-absolute top-0 end-0" src="/assets/imgs/services-details/bg-line-3.png" alt="infinia" />
+									<img className="position-absolute top-0 end-0" src="/assets/imgs/services-details/bg-line-3.png" alt="Solution Spire" />
 								</div>
 							</div>
 						</div>
@@ -163,7 +163,7 @@ export default function PageCaseStudyDetails() {
 					<div className="container position-relative z-2">
 						<div className="text-center">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Why We Are The Best</span>
 							</div>
 							<h3 className="ds-3 my-3 fw-regular">Proud projects <span className=" fw-bold">that make <br className="d-none d-lg-inline" /> us stand</span> out</h3>
@@ -255,21 +255,21 @@ export default function PageCaseStudyDetails() {
 							</div>
 							<div className="col-lg-6 px-lg-6 mt-lg-0 mt-8">
 								<Link href="#" className="d-flex flex-column flex-md-row align-items-center mb-6 hover-up">
-									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/features-6/img-1.png" alt="infinia" />
+									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/features-6/img-1.png" alt="Solution Spire" />
 									<div className="content mt-md-0 mt-4 ms-5">
 										<h6 className="mb-2">Cloud Migration Services</h6>
 										<p>As the SaaS industry continues to evolve, new trends are shaping the future of software delivery and consumption...</p>
 									</div>
 								</Link>
 								<Link href="#" className="d-flex flex-column flex-md-row align-items-center mb-6 hover-up">
-									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/features-6/img-2.png" alt="infinia" />
+									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/features-6/img-2.png" alt="Solution Spire" />
 									<div className="content mt-md-0 mt-4 ms-5">
 										<h6 className="mb-2">Mobile App Development</h6>
 										<p>As the SaaS industry continues to evolve, new trends are shaping the future of software delivery and consumption...</p>
 									</div>
 								</Link>
 								<Link href="#" className="d-flex flex-column flex-md-row align-items-center mb-6 hover-up">
-									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/features-6/img-3.png" alt="infinia" />
+									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/features-6/img-3.png" alt="Solution Spire" />
 									<div className="content mt-md-0 mt-4 ms-5">
 										<h6 className="mb-2">UI/UX Design Teaching</h6>
 										<p>As the SaaS industry continues to evolve, new trends are shaping the future of software delivery and consumption...</p>
@@ -279,7 +279,7 @@ export default function PageCaseStudyDetails() {
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/service-2/bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/service-2/bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="rotate-center ellipse-rotate-success position-absolute z-1" />
 					<div className="rotate-center-rev ellipse-rotate-primary position-absolute z-1" />

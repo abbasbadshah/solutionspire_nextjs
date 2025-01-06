@@ -32,35 +32,35 @@ export default function Hero2() {
 								</Link>
 							</div>
 							<div className="mt-10 mt-md-8 position-relative z-1  text-900">
-								<img src="/assets/imgs/hero-2/macbook.png" alt="infinia" data-aos="fade-up" data-aos-delay={100} />
-								<img className="alltuchtopdown d-none d-md-block position-absolute bottom-0 end-0 pe-10 me-lg-10 mb-lg-10" src="/assets/imgs/hero-2/vector.png" alt="infinia" />
+								<img src="/assets/imgs/hero-2/macbook.png" alt="Solution Spire" data-aos="fade-up" data-aos-delay={100} />
+								<img className="alltuchtopdown d-none d-md-block position-absolute bottom-0 end-0 pe-10 me-lg-10 mb-lg-10" src="/assets/imgs/hero-2/vector.png" alt="Solution Spire" />
 								<div className="position-md-absolute d-inline-block pt-10 pt-md-5 top-50 start-0 translate-middle-y mt-10">
 									<div className="alltuchtopdown backdrop-filter rounded-4 p-4">
 										<h6 className="text-900">Features</h6>
 										<p className="fs-6 text-900">
 											Discover why hundreds of millions <br />
-											people use Infinia to chat and call <br />
+											people use Solution Spire to chat and call <br />
 											every day.
 										</p>
 										<ul className="list-unstyled phase-items text-900">
 											<li className="d-flex align-items-center mt-2">
-												<img src="/assets/imgs/hero-2/check.png" alt="infinia" />
+												<img src="/assets/imgs/hero-2/check.png" alt="Solution Spire" />
 												<span className="ms-2">HD video calling</span>
 											</li>
 											<li className="d-flex align-items-center mt-2">
-												<img src="/assets/imgs/hero-2/check.png" alt="infinia" />
+												<img src="/assets/imgs/hero-2/check.png" alt="Solution Spire" />
 												<span className="ms-2">Smart messaging</span>
 											</li>
 											<li className="d-flex align-items-center mt-2">
-												<img src="/assets/imgs/hero-2/check.png" alt="infinia" />
+												<img src="/assets/imgs/hero-2/check.png" alt="Solution Spire" />
 												<span className="ms-2">Screen sharing</span>
 											</li>
 											<li className="d-flex align-items-center mt-2">
-												<img src="/assets/imgs/hero-2/check.png" alt="infinia" />
+												<img src="/assets/imgs/hero-2/check.png" alt="Solution Spire" />
 												<span className="ms-2">Private conversations</span>
 											</li>
 											<li className="d-flex align-items-center mt-2">
-												<img src="/assets/imgs/hero-2/check.png" alt="infinia" />
+												<img src="/assets/imgs/hero-2/check.png" alt="Solution Spire" />
 												<span className="ms-2">Call recording</span>
 											</li>
 										</ul>
@@ -68,21 +68,21 @@ export default function Hero2() {
 								</div>
 							</div>
 							<div className="position-absolute top-0 start-0 ms-10 mt-10 pt-10">
-								<img className="flickering" src="/assets/imgs/hero-2/star-1.png" alt="infinia" />
+								<img className="flickering" src="/assets/imgs/hero-2/star-1.png" alt="Solution Spire" />
 							</div>
 							<div className="rotateme position-absolute top-0 end-0 me-10 pe-8 z-0">
-								<img className="flickering" src="/assets/imgs/hero-2/star-3.png" alt="infinia" />
+								<img className="flickering" src="/assets/imgs/hero-2/star-3.png" alt="Solution Spire" />
 							</div>
 							<div className="position-absolute top-50 end-0 translate-middle-y pe-md-10 pe-5 pt-10 mt-8">
 								<div className="shake">
-									<img className="flickering" src="/assets/imgs/hero-2/star-2.png" alt="infinia" />
+									<img className="flickering" src="/assets/imgs/hero-2/star-2.png" alt="Solution Spire" />
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div className="position-absolute top-0 start-50 translate-middle-x">
-					<img src="/assets/imgs/hero-2/bg-line.png" alt="infinia" />
+					<img src="/assets/imgs/hero-2/bg-line.png" alt="Solution Spire" />
 				</div>
 				<div className="bouncing-blobs-container">
 					<div className="bouncing-blobs-glass" />

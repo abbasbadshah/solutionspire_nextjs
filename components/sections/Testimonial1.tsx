@@ -11,7 +11,7 @@ export default function Testimonial1() {
 						<div className="col-lg-4">
 							<div className="pe-8 mt-10">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Testimonials</span>
 								</div>
 								<h3 className="ds-3 mt-3 mb-3" data-aos="fade-zoom-in" data-aos-delay={100}>What our clients say</h3>
@@ -35,11 +35,11 @@ export default function Testimonial1() {
 							<div className="bg-neutral-100 p-5 mt-8 rounded-3 position-relative card-hover" data-aos="fade-zoom-in" data-aos-delay={100}>
 								<p className="text-900">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 								<div className="d-flex align-items-center mt-5">
-									<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-1.png" alt="infinia" />
+									<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-1.png" alt="Solution Spire" />
 									<div className="d-flex flex-column">
 										<h6 className="ms-3 fs-6 mb-0">Kathryn Murphy</h6>
 										<div className="flag ms-3">
-											<img src="/assets/imgs/testimonial-1/flag-1.png" alt="infinia" />
+											<img src="/assets/imgs/testimonial-1/flag-1.png" alt="Solution Spire" />
 											<span className="fs-8">CEO of Tech Innovators Inc</span>
 										</div>
 									</div>
@@ -49,11 +49,11 @@ export default function Testimonial1() {
 							<div className="bg-neutral-100 p-5 mt-5 rounded-3 position-relative card-hover" data-aos="fade-zoom-in" data-aos-delay={200}>
 								<p className="text-900">Our collaboration with the team has been instrumental in optimizing our project management processes. <span className="fw-bold">The extensive selection of over 1200 UI blocks has allowed us to customize our project interfaces to meet specific client needs effectively.</span> The generous 10 GB of cloud storage has provided ample space for storing project files securely, enabling seamless collaboration across distributed teams.</p>
 								<div className="d-flex align-items-center mt-5">
-									<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-2.png" alt="infinia" />
+									<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-2.png" alt="Solution Spire" />
 									<div className="d-flex flex-column">
 										<h6 className="ms-3 fs-6 mb-0">Emily Davis</h6>
 										<div className="flag ms-3">
-											<img src="/assets/imgs/testimonial-1/flag-2.png" alt="infinia" />
+											<img src="/assets/imgs/testimonial-1/flag-2.png" alt="Solution Spire" />
 											<span className="fs-8">Software Engineer</span>
 										</div>
 									</div>
@@ -65,11 +65,11 @@ export default function Testimonial1() {
 							<div className="bg-neutral-100 p-5 mt-5 mt-lg-0 rounded-3 position-relative card-hover" data-aos="fade-zoom-in" data-aos-delay={300}>
 								<p className="text-900">The individual email account feature has improved internal communication clarity and professionalism. Moreover, the premium support team's responsiveness and expertise have ensured minimal <span className="fw-bold">disruptions and quick resolutions</span> to any technical challenges we've faced. I highly recommend their services for any enterprise seeking robust SaaS solutions,</p>
 								<div className="d-flex align-items-center mt-5">
-									<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-3.png" alt="infinia" />
+									<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-3.png" alt="Solution Spire" />
 									<div className="d-flex flex-column">
 										<h6 className="ms-3 fs-6 mb-0">Sarah Thompson</h6>
 										<div className="flag ms-3">
-											<img src="/assets/imgs/testimonial-1/flag-3.png" alt="infinia" />
+											<img src="/assets/imgs/testimonial-1/flag-3.png" alt="Solution Spire" />
 											<span className="fs-8">Marketing Director</span>
 										</div>
 									</div>
@@ -79,11 +79,11 @@ export default function Testimonial1() {
 							<div className="bg-neutral-100 p-5 mt-5 rounded-3 position-relative card-hover" data-aos="fade-zoom-in" data-aos-delay={400}>
 								<p className="text-900">Our experience with this team has surpassed our expectations on every front. <span className="fw-bold">The comprehensive suite of over 1200 UI blocks has enabled us to craft highly functional</span> and aesthetically pleasing user interfaces that resonate with our target audience. Equally impressive is the premium support team's proactive approach.</p>
 								<div className="d-flex align-items-center mt-5">
-									<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-4.png" alt="infinia" />
+									<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-4.png" alt="Solution Spire" />
 									<div className="d-flex flex-column">
 										<h6 className="ms-3 fs-6 mb-0">Emily Adams</h6>
 										<div className="flag ms-3">
-											<img src="/assets/imgs/testimonial-1/flag-4.png" alt="infinia" />
+											<img src="/assets/imgs/testimonial-1/flag-4.png" alt="Solution Spire" />
 											<span className="fs-8">Software Engineer</span>
 										</div>
 									</div>
@@ -94,7 +94,7 @@ export default function Testimonial1() {
 					</div>
 				</div>
 				<div className="position-absolute top-0 start-0 z-0">
-					<img src="/assets/imgs/testimonial-1/bg-line.png" alt="infinia" />
+					<img src="/assets/imgs/testimonial-1/bg-line.png" alt="Solution Spire" />
 				</div>
 			</section>
 

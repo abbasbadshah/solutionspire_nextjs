@@ -23,7 +23,7 @@ export default function SectionNavigation() {
 							</div>
 						</div>
 					</div>
-					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="infinia" />
+					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="Solution Spire" />
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />
 						<div className="bouncing-blobs">
@@ -38,8 +38,8 @@ export default function SectionNavigation() {
 					<nav className="navbar navbar-expand-lg @@classList z-999">
 						<div className="container">
 							<Link className="navbar-brand d-flex main-logo align-items-center" href="/">
-								<img src="/assets/imgs/template/favicon.svg" alt="infinia" />
-								<span>Infinia</span>
+								<img src="/assets/imgs/template/favicon.svg" alt="Solution Spire" />
+								<span>Solution Spire</span>
 							</Link>
 							<div className="d-none d-lg-flex">
 								<ul className="navbar-nav mx-auto gap-4 align-items-lg-center">
@@ -226,12 +226,12 @@ export default function SectionNavigation() {
 																	<div className="position-relative bg-4 rounded-3 mt-5">
 																		<img className="rounded-3" src="/assets/imgs/template/bg-card.png" alt="" />
 																		<div className="position-absolute top-50 start-50 translate-middle z-0">
-																			<img className="ms-3" src="/assets/imgs/logo/logo-dark.svg" alt="infinia" />
+																			<img className="ms-3" src="/assets/imgs/logo/logo-dark.svg" alt="Solution Spire" />
 																			<p className="fs-7 fw-bold text-900 text-center my-3 text-nowrap">Multi-layout SaaS  <br /> Startup Website <br /> Template</p>
 																			<div className="d-flex mt-3 ms-3">
-																				<img src="/assets/imgs/other/avatar-1.png" alt="infinia" />
-																				<img className="avt-hero" src="/assets/imgs/other/avatar-2.png" alt="infinia" />
-																				<img className="avt-hero " src=" assets/imgs/other/avatar-3.png" alt="infinia" />
+																				<img src="/assets/imgs/other/avatar-1.png" alt="Solution Spire" />
+																				<img className="avt-hero" src="/assets/imgs/other/avatar-2.png" alt="Solution Spire" />
+																				<img className="avt-hero " src=" assets/imgs/other/avatar-3.png" alt="Solution Spire" />
 																			</div>
 																			<Link href="#" className="btn btn-md btn-gradient fs-8 mt-3 text-nowrap">
 																				Get this now
@@ -249,7 +249,7 @@ export default function SectionNavigation() {
 												</div>
 											</div>
 											<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-												<img src="/assets/imgs/team-1/bg-line.png" alt="infinia" />
+												<img src="/assets/imgs/team-1/bg-line.png" alt="Solution Spire" />
 											</div>
 											<div className="ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0" />
 											<div className="ellipse-rotate-primary-sm position-absolute top-0 end-0 translate-middle-y z-0" />
@@ -365,7 +365,7 @@ export default function SectionNavigation() {
 												</Link>
 											</div>
 											<div className="position-absolute bottom-0 end-0 z-0">
-												<img src="/assets/imgs/other/bg-line.png" alt="infinia" />
+												<img src="/assets/imgs/other/bg-line.png" alt="Solution Spire" />
 											</div>
 											<div className="ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0" />
 										</div>
@@ -433,15 +433,15 @@ export default function SectionNavigation() {
 									available 24/7
 								</p>
 								<div className="d-flex mb-2">
-									<img src="/assets/imgs/contact-2/icon-1.svg" alt="infinia" />
+									<img src="/assets/imgs/contact-2/icon-1.svg" alt="Solution Spire" />
 									<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Whatsapp</Link>
 								</div>
 								<div className="d-flex mb-2">
-									<img src="/assets/imgs/contact-2/icon-2.svg" alt="infinia" />
+									<img src="/assets/imgs/contact-2/icon-2.svg" alt="Solution Spire" />
 									<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Viber</Link>
 								</div>
 								<div className="d-flex mb-2 mb-5">
-									<img src="/assets/imgs/contact-2/icon-3.svg" alt="infinia" />
+									<img src="/assets/imgs/contact-2/icon-3.svg" alt="Solution Spire" />
 									<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Messager</Link>
 								</div>
 							</div>
@@ -515,8 +515,8 @@ export default function SectionNavigation() {
 						<div className="mobile-header-wrapper-inner">
 							<div className="mobile-header-logo">
 								<Link className="navbar-brand d-flex main-logo align-items-center" href="/">
-									<img src="/assets/imgs/template/favicon.svg" alt="infinia" />
-									<span>Infinia</span>
+									<img src="/assets/imgs/template/favicon.svg" alt="Solution Spire" />
+									<span>Solution Spire</span>
 								</Link>
 								<div className="burger-icon burger-icon-white border rounded-3">
 									<span className="burger-icon-top" />
@@ -670,8 +670,8 @@ export default function SectionNavigation() {
 					<nav className="navbar navbar-expand-lg @@classList z-999">
 						<div className="container-fluid px-md-8 px-2">
 							<Link className="navbar-brand d-flex main-logo align-items-center" href="/">
-								<img src="/assets/imgs/template/favicon.svg" alt="infinia" />
-								<span>Infinia</span>
+								<img src="/assets/imgs/template/favicon.svg" alt="Solution Spire" />
+								<span>Solution Spire</span>
 							</Link>
 							<div className="d-none d-lg-flex">
 								<ul className="navbar-nav mx-auto gap-4 align-items-lg-center">
@@ -858,12 +858,12 @@ export default function SectionNavigation() {
 																	<div className="position-relative bg-4 rounded-3 mt-5">
 																		<img className="rounded-3" src="/assets/imgs/template/bg-card.png" alt="" />
 																		<div className="position-absolute top-50 start-50 translate-middle z-0">
-																			<img className="ms-3" src="/assets/imgs/logo/logo-dark.svg" alt="infinia" />
+																			<img className="ms-3" src="/assets/imgs/logo/logo-dark.svg" alt="Solution Spire" />
 																			<p className="fs-7 fw-bold text-900 text-center my-3 text-nowrap">Multi-layout SaaS  <br /> Startup Website <br /> Template</p>
 																			<div className="d-flex mt-3 ms-3">
-																				<img src="/assets/imgs/other/avatar-1.png" alt="infinia" />
-																				<img className="avt-hero" src="/assets/imgs/other/avatar-2.png" alt="infinia" />
-																				<img className="avt-hero " src=" assets/imgs/other/avatar-3.png" alt="infinia" />
+																				<img src="/assets/imgs/other/avatar-1.png" alt="Solution Spire" />
+																				<img className="avt-hero" src="/assets/imgs/other/avatar-2.png" alt="Solution Spire" />
+																				<img className="avt-hero " src=" assets/imgs/other/avatar-3.png" alt="Solution Spire" />
 																			</div>
 																			<Link href="#" className="btn btn-md btn-gradient fs-8 mt-3 text-nowrap">
 																				Get this now
@@ -881,7 +881,7 @@ export default function SectionNavigation() {
 												</div>
 											</div>
 											<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-												<img src="/assets/imgs/team-1/bg-line.png" alt="infinia" />
+												<img src="/assets/imgs/team-1/bg-line.png" alt="Solution Spire" />
 											</div>
 											<div className="ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0" />
 											<div className="ellipse-rotate-primary-sm position-absolute top-0 end-0 translate-middle-y z-0" />
@@ -997,7 +997,7 @@ export default function SectionNavigation() {
 												</Link>
 											</div>
 											<div className="position-absolute bottom-0 end-0 z-0">
-												<img src="/assets/imgs/other/bg-line.png" alt="infinia" />
+												<img src="/assets/imgs/other/bg-line.png" alt="Solution Spire" />
 											</div>
 											<div className="ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0" />
 										</div>
@@ -1065,15 +1065,15 @@ export default function SectionNavigation() {
 									available 24/7
 								</p>
 								<div className="d-flex mb-2">
-									<img src="/assets/imgs/contact-2/icon-1.svg" alt="infinia" />
+									<img src="/assets/imgs/contact-2/icon-1.svg" alt="Solution Spire" />
 									<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Whatsapp</Link>
 								</div>
 								<div className="d-flex mb-2">
-									<img src="/assets/imgs/contact-2/icon-2.svg" alt="infinia" />
+									<img src="/assets/imgs/contact-2/icon-2.svg" alt="Solution Spire" />
 									<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Viber</Link>
 								</div>
 								<div className="d-flex mb-2 mb-5">
-									<img src="/assets/imgs/contact-2/icon-3.svg" alt="infinia" />
+									<img src="/assets/imgs/contact-2/icon-3.svg" alt="Solution Spire" />
 									<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Messager</Link>
 								</div>
 							</div>
@@ -1147,8 +1147,8 @@ export default function SectionNavigation() {
 						<div className="mobile-header-wrapper-inner">
 							<div className="mobile-header-logo">
 								<Link className="navbar-brand d-flex main-logo align-items-center" href="/">
-									<img src="/assets/imgs/template/favicon.svg" alt="infinia" />
-									<span>Infinia</span>
+									<img src="/assets/imgs/template/favicon.svg" alt="Solution Spire" />
+									<span>Solution Spire</span>
 								</Link>
 								<div className="burger-icon burger-icon-white border rounded-3">
 									<span className="burger-icon-top" />
@@ -1323,12 +1323,12 @@ export default function SectionNavigation() {
 										<path d="M10 7.16667V10.5L11.6667 12.1667" stroke="#6B7280" strokeWidth="1.5" />
 									</svg>
 									<span className="text-900 pe-3 ps-1 fs-7">Mon-Fri: 10:00am - 09:00pm</span>
-									<Link href="/mailto:contact@infinia.com" className="ps-4">
+									<Link href="/mailto:contact@Solution Spire.com" className="ps-4">
 										<svg xmlns="http://www.w3.org/2000/svg" width={20} height={21} viewBox="0 0 20 21" fill="none">
 											<path d="M3.9585 6.95834C3.9585 6.03786 4.70469 5.29167 5.62516 5.29167H14.3752C15.2957 5.29167 16.0418 6.03786 16.0418 6.95834V14.0417C16.0418 14.9622 15.2957 15.7083 14.3752 15.7083H5.62516C4.70469 15.7083 3.9585 14.9622 3.9585 14.0417V6.95834Z" stroke="#6B7280" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
 											<path d="M4.5835 5.91667L10.0002 10.7083L15.4168 5.91667" stroke="#6B7280" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
 										</svg>
-										<span className="text-900 ps-1 fs-7">contact@infinia.com</span>
+										<span className="text-900 ps-1 fs-7">contact@Solution Spire.com</span>
 									</Link>
 								</div>
 							</div>
@@ -1340,8 +1340,8 @@ export default function SectionNavigation() {
 					<nav className="navbar navbar-expand-lg @@classList z-999">
 						<div className="container">
 							<Link className="navbar-brand d-flex main-logo align-items-center" href="/">
-								<img src="/assets/imgs/template/favicon.svg" alt="infinia" />
-								<span>Infinia</span>
+								<img src="/assets/imgs/template/favicon.svg" alt="Solution Spire" />
+								<span>Solution Spire</span>
 							</Link>
 							<div className="d-none d-lg-flex">
 								<ul className="navbar-nav mx-auto gap-4 align-items-lg-center">
@@ -1528,12 +1528,12 @@ export default function SectionNavigation() {
 																	<div className="position-relative bg-4 rounded-3 mt-5">
 																		<img className="rounded-3" src="/assets/imgs/template/bg-card.png" alt="" />
 																		<div className="position-absolute top-50 start-50 translate-middle z-0">
-																			<img className="ms-3" src="/assets/imgs/logo/logo-dark.svg" alt="infinia" />
+																			<img className="ms-3" src="/assets/imgs/logo/logo-dark.svg" alt="Solution Spire" />
 																			<p className="fs-7 fw-bold text-900 text-center my-3 text-nowrap">Multi-layout SaaS  <br /> Startup Website <br /> Template</p>
 																			<div className="d-flex mt-3 ms-3">
-																				<img src="/assets/imgs/other/avatar-1.png" alt="infinia" />
-																				<img className="avt-hero" src="/assets/imgs/other/avatar-2.png" alt="infinia" />
-																				<img className="avt-hero " src=" assets/imgs/other/avatar-3.png" alt="infinia" />
+																				<img src="/assets/imgs/other/avatar-1.png" alt="Solution Spire" />
+																				<img className="avt-hero" src="/assets/imgs/other/avatar-2.png" alt="Solution Spire" />
+																				<img className="avt-hero " src=" assets/imgs/other/avatar-3.png" alt="Solution Spire" />
 																			</div>
 																			<Link href="#" className="btn btn-md btn-gradient fs-8 mt-3 text-nowrap">
 																				Get this now
@@ -1551,7 +1551,7 @@ export default function SectionNavigation() {
 												</div>
 											</div>
 											<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-												<img src="/assets/imgs/team-1/bg-line.png" alt="infinia" />
+												<img src="/assets/imgs/team-1/bg-line.png" alt="Solution Spire" />
 											</div>
 											<div className="ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0" />
 											<div className="ellipse-rotate-primary-sm position-absolute top-0 end-0 translate-middle-y z-0" />
@@ -1667,7 +1667,7 @@ export default function SectionNavigation() {
 												</Link>
 											</div>
 											<div className="position-absolute bottom-0 end-0 z-0">
-												<img src="/assets/imgs/other/bg-line.png" alt="infinia" />
+												<img src="/assets/imgs/other/bg-line.png" alt="Solution Spire" />
 											</div>
 											<div className="ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0" />
 										</div>
@@ -1735,15 +1735,15 @@ export default function SectionNavigation() {
 									available 24/7
 								</p>
 								<div className="d-flex mb-2">
-									<img src="/assets/imgs/contact-2/icon-1.svg" alt="infinia" />
+									<img src="/assets/imgs/contact-2/icon-1.svg" alt="Solution Spire" />
 									<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Whatsapp</Link>
 								</div>
 								<div className="d-flex mb-2">
-									<img src="/assets/imgs/contact-2/icon-2.svg" alt="infinia" />
+									<img src="/assets/imgs/contact-2/icon-2.svg" alt="Solution Spire" />
 									<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Viber</Link>
 								</div>
 								<div className="d-flex mb-2 mb-5">
-									<img src="/assets/imgs/contact-2/icon-3.svg" alt="infinia" />
+									<img src="/assets/imgs/contact-2/icon-3.svg" alt="Solution Spire" />
 									<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Messager</Link>
 								</div>
 							</div>
@@ -1817,8 +1817,8 @@ export default function SectionNavigation() {
 						<div className="mobile-header-wrapper-inner">
 							<div className="mobile-header-logo">
 								<Link className="navbar-brand d-flex main-logo align-items-center" href="/">
-									<img src="/assets/imgs/template/favicon.svg" alt="infinia" />
-									<span>Infinia</span>
+									<img src="/assets/imgs/template/favicon.svg" alt="Solution Spire" />
+									<span>Solution Spire</span>
 								</Link>
 								<div className="burger-icon burger-icon-white border rounded-3">
 									<span className="burger-icon-top" />
@@ -1972,8 +1972,8 @@ export default function SectionNavigation() {
 					<nav className="navbar navbar-expand-lg @@classList z-999 header-4">
 						<div className="container">
 							<Link className="navbar-brand d-flex main-logo align-items-center" href="/">
-								<img src="/assets/imgs/template/favicon.svg" alt="infinia" />
-								<span>Infinia</span>
+								<img src="/assets/imgs/template/favicon.svg" alt="Solution Spire" />
+								<span>Solution Spire</span>
 							</Link>
 							<div className="d-none d-lg-flex">
 								<ul className="navbar-nav mx-auto gap-4 align-items-lg-center">
@@ -2160,12 +2160,12 @@ export default function SectionNavigation() {
 																	<div className="position-relative bg-4 rounded-3 mt-5">
 																		<img className="rounded-3" src="/assets/imgs/template/bg-card.png" alt="" />
 																		<div className="position-absolute top-50 start-50 translate-middle z-0">
-																			<img className="ms-3" src="/assets/imgs/logo/logo-dark.svg" alt="infinia" />
+																			<img className="ms-3" src="/assets/imgs/logo/logo-dark.svg" alt="Solution Spire" />
 																			<p className="fs-7 fw-bold text-900 text-center my-3 text-nowrap">Multi-layout SaaS  <br /> Startup Website <br /> Template</p>
 																			<div className="d-flex mt-3 ms-3">
-																				<img src="/assets/imgs/other/avatar-1.png" alt="infinia" />
-																				<img className="avt-hero" src="/assets/imgs/other/avatar-2.png" alt="infinia" />
-																				<img className="avt-hero " src=" assets/imgs/other/avatar-3.png" alt="infinia" />
+																				<img src="/assets/imgs/other/avatar-1.png" alt="Solution Spire" />
+																				<img className="avt-hero" src="/assets/imgs/other/avatar-2.png" alt="Solution Spire" />
+																				<img className="avt-hero " src=" assets/imgs/other/avatar-3.png" alt="Solution Spire" />
 																			</div>
 																			<Link href="#" className="btn btn-md btn-gradient fs-8 mt-3 text-nowrap">
 																				Get this now
@@ -2183,7 +2183,7 @@ export default function SectionNavigation() {
 												</div>
 											</div>
 											<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-												<img src="/assets/imgs/team-1/bg-line.png" alt="infinia" />
+												<img src="/assets/imgs/team-1/bg-line.png" alt="Solution Spire" />
 											</div>
 											<div className="ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0" />
 											<div className="ellipse-rotate-primary-sm position-absolute top-0 end-0 translate-middle-y z-0" />
@@ -2299,7 +2299,7 @@ export default function SectionNavigation() {
 												</Link>
 											</div>
 											<div className="position-absolute bottom-0 end-0 z-0">
-												<img src="/assets/imgs/other/bg-line.png" alt="infinia" />
+												<img src="/assets/imgs/other/bg-line.png" alt="Solution Spire" />
 											</div>
 											<div className="ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0" />
 										</div>
@@ -2341,7 +2341,7 @@ export default function SectionNavigation() {
 									<i className="bi theme-icon bi-moon-stars-fill" />
 								</div>
 								<Link href="/javascript:void(0)" className="menu-tigger bg-primary icon-shape icon-md rounded-2 d-none d-md-flex">
-									<img src="/assets/imgs/logo/icon-menu.svg" alt="infinia" />
+									<img src="/assets/imgs/logo/icon-menu.svg" alt="Solution Spire" />
 								</Link>
 								<div className="burger-icon burger-icon-white border rounded-3">
 									<span className="burger-icon-top" />
@@ -2367,15 +2367,15 @@ export default function SectionNavigation() {
 									available 24/7
 								</p>
 								<div className="d-flex mb-2">
-									<img src="/assets/imgs/contact-2/icon-1.svg" alt="infinia" />
+									<img src="/assets/imgs/contact-2/icon-1.svg" alt="Solution Spire" />
 									<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Whatsapp</Link>
 								</div>
 								<div className="d-flex mb-2">
-									<img src="/assets/imgs/contact-2/icon-2.svg" alt="infinia" />
+									<img src="/assets/imgs/contact-2/icon-2.svg" alt="Solution Spire" />
 									<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Viber</Link>
 								</div>
 								<div className="d-flex mb-2 mb-5">
-									<img src="/assets/imgs/contact-2/icon-3.svg" alt="infinia" />
+									<img src="/assets/imgs/contact-2/icon-3.svg" alt="Solution Spire" />
 									<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Messager</Link>
 								</div>
 							</div>
@@ -2449,8 +2449,8 @@ export default function SectionNavigation() {
 						<div className="mobile-header-wrapper-inner">
 							<div className="mobile-header-logo">
 								<Link className="navbar-brand d-flex main-logo align-items-center" href="/">
-									<img src="/assets/imgs/template/favicon.svg" alt="infinia" />
-									<span>Infinia</span>
+									<img src="/assets/imgs/template/favicon.svg" alt="Solution Spire" />
+									<span>Solution Spire</span>
 								</Link>
 								<div className="burger-icon burger-icon-white border rounded-3">
 									<span className="burger-icon-top" />
@@ -2605,12 +2605,12 @@ export default function SectionNavigation() {
 						<div className="container-fluid py-2 px-8">
 							<div className="d-flex flex-column flex-lg-row justify-content-between align-items-center">
 								<div className="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
-									<Link href="/mailto:contact@infinia.com" className="pe-4 d-none d-md-flex">
+									<Link href="/mailto:contact@Solution Spire.com" className="pe-4 d-none d-md-flex">
 										<svg xmlns="http://www.w3.org/2000/svg" width={20} height={21} viewBox="0 0 20 21" fill="none">
 											<path d="M3.9585 6.95834C3.9585 6.03786 4.70469 5.29167 5.62516 5.29167H14.3752C15.2957 5.29167 16.0418 6.03786 16.0418 6.95834V14.0417C16.0418 14.9622 15.2957 15.7083 14.3752 15.7083H5.62516C4.70469 15.7083 3.9585 14.9622 3.9585 14.0417V6.95834Z" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
 											<path d="M4.5835 5.91667L10.0002 10.7083L15.4168 5.91667" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
 										</svg>
-										<span className="text-white ps-1 fs-7">contact@infinia.com</span>
+										<span className="text-white ps-1 fs-7">contact@Solution Spire.com</span>
 									</Link>
 									<div className="location d-flex align-items-center">
 										<svg xmlns="http://www.w3.org/2000/svg" width={20} height={21} viewBox="0 0 20 21" fill="none">
@@ -2656,8 +2656,8 @@ export default function SectionNavigation() {
 					<nav className="navbar navbar-expand-lg navbar-light w-100 border-bottom z-999">
 						<div className="container-fluid px-lg-8">
 							<Link className="navbar-brand d-flex main-logo align-items-center" href="/">
-								<img src="/assets/imgs/template/favicon.svg" alt="infinia" />
-								<span>Infinia</span>
+								<img src="/assets/imgs/template/favicon.svg" alt="Solution Spire" />
+								<span>Solution Spire</span>
 							</Link>
 							<div className="d-none d-lg-flex">
 								<ul className="navbar-nav mx-auto gap-4 align-items-lg-center">
@@ -2844,12 +2844,12 @@ export default function SectionNavigation() {
 																	<div className="position-relative bg-4 rounded-3 mt-5">
 																		<img className="rounded-3" src="/assets/imgs/template/bg-card.png" alt="" />
 																		<div className="position-absolute top-50 start-50 translate-middle z-0">
-																			<img className="ms-3" src="/assets/imgs/logo/logo-dark.svg" alt="infinia" />
+																			<img className="ms-3" src="/assets/imgs/logo/logo-dark.svg" alt="Solution Spire" />
 																			<p className="fs-7 fw-bold text-900 text-center my-3 text-nowrap">Multi-layout SaaS  <br /> Startup Website <br /> Template</p>
 																			<div className="d-flex mt-3 ms-3">
-																				<img src="/assets/imgs/other/avatar-1.png" alt="infinia" />
-																				<img className="avt-hero" src="/assets/imgs/other/avatar-2.png" alt="infinia" />
-																				<img className="avt-hero " src=" assets/imgs/other/avatar-3.png" alt="infinia" />
+																				<img src="/assets/imgs/other/avatar-1.png" alt="Solution Spire" />
+																				<img className="avt-hero" src="/assets/imgs/other/avatar-2.png" alt="Solution Spire" />
+																				<img className="avt-hero " src=" assets/imgs/other/avatar-3.png" alt="Solution Spire" />
 																			</div>
 																			<Link href="#" className="btn btn-md btn-gradient fs-8 mt-3 text-nowrap">
 																				Get this now
@@ -2867,7 +2867,7 @@ export default function SectionNavigation() {
 												</div>
 											</div>
 											<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-												<img src="/assets/imgs/team-1/bg-line.png" alt="infinia" />
+												<img src="/assets/imgs/team-1/bg-line.png" alt="Solution Spire" />
 											</div>
 											<div className="ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0" />
 											<div className="ellipse-rotate-primary-sm position-absolute top-0 end-0 translate-middle-y z-0" />
@@ -2983,7 +2983,7 @@ export default function SectionNavigation() {
 												</Link>
 											</div>
 											<div className="position-absolute bottom-0 end-0 z-0">
-												<img src="/assets/imgs/other/bg-line.png" alt="infinia" />
+												<img src="/assets/imgs/other/bg-line.png" alt="Solution Spire" />
 											</div>
 											<div className="ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0" />
 										</div>
@@ -3072,15 +3072,15 @@ export default function SectionNavigation() {
 									available 24/7
 								</p>
 								<div className="d-flex mb-2">
-									<img src="/assets/imgs/contact-2/icon-1.svg" alt="infinia" />
+									<img src="/assets/imgs/contact-2/icon-1.svg" alt="Solution Spire" />
 									<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Whatsapp</Link>
 								</div>
 								<div className="d-flex mb-2">
-									<img src="/assets/imgs/contact-2/icon-2.svg" alt="infinia" />
+									<img src="/assets/imgs/contact-2/icon-2.svg" alt="Solution Spire" />
 									<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Viber</Link>
 								</div>
 								<div className="d-flex mb-2 mb-5">
-									<img src="/assets/imgs/contact-2/icon-3.svg" alt="infinia" />
+									<img src="/assets/imgs/contact-2/icon-3.svg" alt="Solution Spire" />
 									<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Messager</Link>
 								</div>
 							</div>
@@ -3154,8 +3154,8 @@ export default function SectionNavigation() {
 						<div className="mobile-header-wrapper-inner">
 							<div className="mobile-header-logo">
 								<Link className="navbar-brand d-flex main-logo align-items-center" href="/">
-									<img src="/assets/imgs/template/favicon.svg" alt="infinia" />
-									<span>Infinia</span>
+									<img src="/assets/imgs/template/favicon.svg" alt="Solution Spire" />
+									<span>Solution Spire</span>
 								</Link>
 								<div className="burger-icon burger-icon-white border rounded-3">
 									<span className="burger-icon-top" />

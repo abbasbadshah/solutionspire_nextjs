@@ -32,7 +32,7 @@ export default function SectionFaqs() {
 							</div>
 						</div>
 					</div>
-					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="infinia" />
+					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="Solution Spire" />
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />
 						<div className="bouncing-blobs">
@@ -47,24 +47,24 @@ export default function SectionFaqs() {
 						<div className="row align-items-center">
 							<div className="col-lg-6">
 								<div className="text-start position-relative d-inline-block mb-lg-0 mb-5">
-									<img className="rounded-4" src=" assets/imgs/faqs-1/img-1.png" alt="infinia" />
+									<img className="rounded-4" src=" assets/imgs/faqs-1/img-1.png" alt="Solution Spire" />
 									<div className="px-0 card-team rounded-4 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto px-5 py-8 m-5">
 										<div className="d-flex flex-column flex-md-row align-items-start gap-3 mb-4" data-aos="fade-zoom-in" data-aos-delay={0}>
-											<img src="/assets/imgs/faqs-1/icon-1.png" alt="infinia" />
+											<img src="/assets/imgs/faqs-1/icon-1.png" alt="Solution Spire" />
 											<div>
 												<h6 className="m-0">Live chat support 24/7</h6>
 												<p className="m-0">More than 300 employees are ready to help you</p>
 											</div>
 										</div>
 										<div className="d-flex flex-column flex-md-row align-items-start gap-3 mb-4" data-aos="fade-zoom-in" data-aos-delay={100}>
-											<img src="/assets/imgs/faqs-1/icon-2.png" alt="infinia" />
+											<img src="/assets/imgs/faqs-1/icon-2.png" alt="Solution Spire" />
 											<div>
 												<h6 className="m-0">Help desk support center</h6>
 												<p className="m-0">Via ticket system. 24/7 available.</p>
 											</div>
 										</div>
 										<div className="d-flex flex-column flex-md-row align-items-start gap-3" data-aos="fade-zoom-in" data-aos-delay={200}>
-											<img src="/assets/imgs/faqs-1/icon-3.png" alt="infinia" />
+											<img src="/assets/imgs/faqs-1/icon-3.png" alt="Solution Spire" />
 											<div>
 												<h6 className="m-0">Book a demo</h6>
 												<p className="m-0">Live support via video call</p>
@@ -161,14 +161,14 @@ export default function SectionFaqs() {
 							</div>
 						</div>
 					</div>
-					<img className="position-absolute top-0 end-0 z-0" src="/assets/imgs/faqs-1/img-bg-line.png" alt="infinia" />
+					<img className="position-absolute top-0 end-0 z-0" src="/assets/imgs/faqs-1/img-bg-line.png" alt="Solution Spire" />
 				</section>
 				{/* FAQs 2 */}
 				<section className="section-faqs-2 section-padding bg-4 position-relative">
 					<div className="container position-relative z-2">
 						<div className="text-center mb-8">
 							<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Pricing FAQs</span>
 							</div>
 							<h3 className="ds-3 my-3 fw-bold">Ask us anything</h3>
@@ -180,7 +180,7 @@ export default function SectionFaqs() {
 									<div className="mb-3 card p-3 border bg-white rounded-3">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={` ${activeItem} == 1 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(1)} data-bs-toggle="collapse" >
-												<h6 className="m-0">What are the key benefits of using <span className="text-primary">Infinia System</span></h6>
+												<h6 className="m-0">What are the key benefits of using <span className="text-primary">Solution Spire System</span></h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -197,7 +197,7 @@ export default function SectionFaqs() {
 									<div className="mb-3 card p-3 border bg-white rounded-3">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={` ${activeItem} == 2 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(2)} data-bs-toggle="collapse" >
-												<h6 className="m-0">What features does <span className="text-primary">Infinia</span> offer?</h6>
+												<h6 className="m-0">What features does <span className="text-primary">Solution Spire</span> offer?</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -381,7 +381,7 @@ export default function SectionFaqs() {
 							<div className="col-lg-6">
 								<div className="text-start">
 									<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Frequently Asked questions</span>
 									</div>
 									<h3 className="ds-3 my-3 fw-bold">
@@ -413,7 +413,7 @@ export default function SectionFaqs() {
 									<div className="mb-3 card p-3 border  bg-white rounded-2 shadow-2">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={` ${activeItem} == 1 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(1)} data-bs-toggle="collapse" >
-												<h6 className="m-0">What are the key benefits of using <span className="text-primary">Infinia System</span></h6>
+												<h6 className="m-0">What are the key benefits of using <span className="text-primary">Solution Spire System</span></h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -430,7 +430,7 @@ export default function SectionFaqs() {
 									<div className="mb-3 card p-3 border  bg-white rounded-2 shadow-2">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={` ${activeItem} == 2 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(2)} data-bs-toggle="collapse" >
-												<h6 className="m-0">What features does <span className="text-primary">Infinia</span> offer?</h6>
+												<h6 className="m-0">What features does <span className="text-primary">Solution Spire</span> offer?</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />

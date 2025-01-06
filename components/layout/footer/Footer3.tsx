@@ -9,7 +9,7 @@ export default function Footer3() {
 						<div className=" container position-relative z-2">
 							<div className="d-flex py-4 border-bottom border-white border-opacity-10 justify-content-between align-items-center">
 								<div>
-									<Link href="/"><img src="assets/imgs/logo/logo-white.svg" alt="infinia" /></Link>
+									<Link href="/"><img src="assets/imgs/logo/logo-white.svg" alt="Solution Spire" /></Link>
 								</div>
 								<div>
 									<div className="d-flex social-icons">
@@ -102,7 +102,7 @@ export default function Footer3() {
 							</div>
 							<div className="row">
 								<div className="d-flex flex-md-row flex-column align-items-center justify-content-between bg-transparent py-4 border-top border-opacity-10">
-									<span className="text-white opacity-50 mb-3 mb-md-0">Copyright © 2024 Infinia. All Rights Reserved</span>
+									<span className="text-white opacity-50 mb-3 mb-md-0">Copyright © 2024 Solution Spire. All Rights Reserved</span>
 									<div className="d-flex">
 										<Link href="/#" className="link-hover-primary-light text-white me-3">
 											Privacy policy

@@ -50,7 +50,7 @@ export default function SectionHero() {
 							</div>
 						</div>
 					</div>
-					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="infinia" />
+					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="Solution Spire" />
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />
 						<div className="bouncing-blobs">
@@ -94,34 +94,34 @@ export default function SectionHero() {
 									<div className="d-flex align-items-center">
 										<div className="me-2" data-aos="fade-zoom-in" data-aos-delay={200}>
 											<div className="d-flex">
-												<img src="/assets/imgs/hero-1/avatar-1.png" alt="infinia" />
-												<img className="avt-hero" src="/assets/imgs/hero-1/avatar-2.png" alt="infinia" />
-												<img className="avt-hero" src=" assets/imgs/hero-1/avatar-3.png" alt="infinia" />
+												<img src="/assets/imgs/hero-1/avatar-1.png" alt="Solution Spire" />
+												<img className="avt-hero" src="/assets/imgs/hero-1/avatar-2.png" alt="Solution Spire" />
+												<img className="avt-hero" src=" assets/imgs/hero-1/avatar-3.png" alt="Solution Spire" />
 											</div>
 											<span className="fs-6 fw-bold">4.8/5 <span className="text-secondary fw-medium">(26k Reviews)</span></span>
 										</div>
 										<div className="ms-3" data-aos="fade-zoom-in" data-aos-delay={300}>
-											<img src="/assets/imgs/hero-1/brand-1.svg" alt="infinia" />
+											<img src="/assets/imgs/hero-1/brand-1.svg" alt="Solution Spire" />
 										</div>
 										<div className="ms-3" data-aos="fade-zoom-in" data-aos-delay={300}>
-											<img src="/assets/imgs/hero-1/brand-2.svg" alt="infinia" />
+											<img src="/assets/imgs/hero-1/brand-2.svg" alt="Solution Spire" />
 										</div>
 									</div>
 								</div>
 							</div>
 							<div className="col-lg-6 position-relative justify-content-center">
-								<img className="hero-img" src="/assets/imgs/hero-1/background.png" alt="infinia" />
+								<img className="hero-img" src="/assets/imgs/hero-1/background.png" alt="Solution Spire" />
 								<div className="shape-1 position-absolute">
-									<img className="rightToLeft" src="/assets/imgs/hero-1/shape-1.png" alt="infinia" data-aos="zoom-in" data-aos-delay={500} />
+									<img className="rightToLeft" src="/assets/imgs/hero-1/shape-1.png" alt="Solution Spire" data-aos="zoom-in" data-aos-delay={500} />
 								</div>
 								<div className="shape-2 position-absolute d-none d-md-block">
-									<img src="/assets/imgs/hero-1/shape-2.png" alt="infinia" data-aos="zoom-in" data-aos-delay={200} />
+									<img src="/assets/imgs/hero-1/shape-2.png" alt="Solution Spire" data-aos="zoom-in" data-aos-delay={200} />
 								</div>
 								<div className="shape-3 position-absolute d-none d-md-block">
-									<img src="/assets/imgs/hero-1/shape-3.png" alt="infinia" data-aos="zoom-in" data-aos-delay={300} />
+									<img src="/assets/imgs/hero-1/shape-3.png" alt="Solution Spire" data-aos="zoom-in" data-aos-delay={300} />
 								</div>
 								<div className="alltuchtopdown card-hero backdrop-filter rounded-3 text-center d-inline-block p-3 position-absolute">
-									<img className="rounded-3" src="/assets/imgs/hero-1/shape-4.png" alt="infinia" />
+									<img className="rounded-3" src="/assets/imgs/hero-1/shape-4.png" alt="Solution Spire" />
 									<h6 className="mt-3">Book A Call</h6>
 									<p className="fs-7 text-700">
 										Customer activity can be easily <br />
@@ -168,35 +168,35 @@ export default function SectionHero() {
 									</Link>
 								</div>
 								<div className="mt-10 mt-md-8 position-relative z-1  text-900">
-									<img src="/assets/imgs/hero-2/macbook.png" alt="infinia" data-aos="fade-up" data-aos-delay={100} />
-									<img className="alltuchtopdown d-none d-md-block position-absolute bottom-0 end-0 pe-10 me-lg-10 mb-lg-10" src="/assets/imgs/hero-2/vector.png" alt="infinia" />
+									<img src="/assets/imgs/hero-2/macbook.png" alt="Solution Spire" data-aos="fade-up" data-aos-delay={100} />
+									<img className="alltuchtopdown d-none d-md-block position-absolute bottom-0 end-0 pe-10 me-lg-10 mb-lg-10" src="/assets/imgs/hero-2/vector.png" alt="Solution Spire" />
 									<div className="position-md-absolute d-inline-block pt-10 pt-md-5 top-50 start-0 translate-middle-y mt-10">
 										<div className="alltuchtopdown backdrop-filter rounded-4 p-4">
 											<h6 className="text-900">Features</h6>
 											<p className="fs-6 text-900">
 												Discover why hundreds of millions <br />
-												people use Infinia to chat and call <br />
+												people use Solution Spire to chat and call <br />
 												every day.
 											</p>
 											<ul className="list-unstyled phase-items text-900">
 												<li className="d-flex align-items-center mt-2">
-													<img src="/assets/imgs/hero-2/check.png" alt="infinia" />
+													<img src="/assets/imgs/hero-2/check.png" alt="Solution Spire" />
 													<span className="ms-2">HD video calling</span>
 												</li>
 												<li className="d-flex align-items-center mt-2">
-													<img src="/assets/imgs/hero-2/check.png" alt="infinia" />
+													<img src="/assets/imgs/hero-2/check.png" alt="Solution Spire" />
 													<span className="ms-2">Smart messaging</span>
 												</li>
 												<li className="d-flex align-items-center mt-2">
-													<img src="/assets/imgs/hero-2/check.png" alt="infinia" />
+													<img src="/assets/imgs/hero-2/check.png" alt="Solution Spire" />
 													<span className="ms-2">Screen sharing</span>
 												</li>
 												<li className="d-flex align-items-center mt-2">
-													<img src="/assets/imgs/hero-2/check.png" alt="infinia" />
+													<img src="/assets/imgs/hero-2/check.png" alt="Solution Spire" />
 													<span className="ms-2">Private conversations</span>
 												</li>
 												<li className="d-flex align-items-center mt-2">
-													<img src="/assets/imgs/hero-2/check.png" alt="infinia" />
+													<img src="/assets/imgs/hero-2/check.png" alt="Solution Spire" />
 													<span className="ms-2">Call recording</span>
 												</li>
 											</ul>
@@ -204,21 +204,21 @@ export default function SectionHero() {
 									</div>
 								</div>
 								<div className="position-absolute top-0 start-0 ms-10 mt-10 pt-10">
-									<img className="flickering" src="/assets/imgs/hero-2/star-1.png" alt="infinia" />
+									<img className="flickering" src="/assets/imgs/hero-2/star-1.png" alt="Solution Spire" />
 								</div>
 								<div className="rotateme position-absolute top-0 end-0 me-10 pe-8 z-0">
-									<img className="flickering" src="/assets/imgs/hero-2/star-3.png" alt="infinia" />
+									<img className="flickering" src="/assets/imgs/hero-2/star-3.png" alt="Solution Spire" />
 								</div>
 								<div className="position-absolute top-50 end-0 translate-middle-y pe-md-10 pe-5 pt-10 mt-8">
 									<div className="shake">
-										<img className="flickering" src="/assets/imgs/hero-2/star-2.png" alt="infinia" />
+										<img className="flickering" src="/assets/imgs/hero-2/star-2.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x">
-						<img src="/assets/imgs/hero-2/bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/hero-2/bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />
@@ -289,17 +289,17 @@ export default function SectionHero() {
 										<h1 className="ds-1 my-3 me-4 lh-1">Elevate your</h1>
 										<div className="mt-3 d-none d-md-flex">
 											<div className="avt-hero">
-												<img className=" icon-shape icon-xxl border border-5 border-white-keep bg-primary-soft rounded-circle" src="/assets/imgs/hero-3/avatar-1.png" alt="infinia" />
+												<img className=" icon-shape icon-xxl border border-5 border-white-keep bg-primary-soft rounded-circle" src="/assets/imgs/hero-3/avatar-1.png" alt="Solution Spire" />
 											</div>
 											<div className="avt-hero">
-												<img className=" icon-shape icon-xxl border border-5 border-white-keep bg-primary-soft rounded-circle" src="/assets/imgs/hero-3/avatar-2.png" alt="infinia" />
+												<img className=" icon-shape icon-xxl border border-5 border-white-keep bg-primary-soft rounded-circle" src="/assets/imgs/hero-3/avatar-2.png" alt="Solution Spire" />
 											</div>
 											<div className="avt-hero icon-shape icon-xxl border border-5 border-white-keep bg-primary-soft rounded-circle">
-												<img src=" assets/imgs/hero-3/icon.svg" alt="infinia" />
+												<img src=" assets/imgs/hero-3/icon.svg" alt="Solution Spire" />
 											</div>
 										</div>
 									</div>
-									<h1 className="ds-1 lh-1 m-0">brand with Infinia.</h1>
+									<h1 className="ds-1 lh-1 m-0">brand with Solution Spire.</h1>
 									<p className="fs-5 text-900 my-6">
 										Access top-tier group mentoring plans and <br />
 										exclusive professional benefits for your team.
@@ -317,13 +317,13 @@ export default function SectionHero() {
 											<ul className="carouselTicker__list">
 												<Marquee direction="right">
 													<li className="carouselTicker__item mx-2">
-														<img className="filter-invert rounded-4" src="/assets/imgs/hero-3/logo-1.png" alt="infinia" />
+														<img className="filter-invert rounded-4" src="/assets/imgs/hero-3/logo-1.png" alt="Solution Spire" />
 													</li>
 													<li className="carouselTicker__item mx-2">
-														<img className="rounded-4" src="/assets/imgs/hero-3/logo-2.png" alt="infinia" />
+														<img className="rounded-4" src="/assets/imgs/hero-3/logo-2.png" alt="Solution Spire" />
 													</li>
 													<li className="carouselTicker__item mx-2">
-														<img className="rounded-4" src="/assets/imgs/hero-3/logo-3.png" alt="infinia" />
+														<img className="rounded-4" src="/assets/imgs/hero-3/logo-3.png" alt="Solution Spire" />
 													</li>
 												</Marquee>
 											</ul>
@@ -335,23 +335,23 @@ export default function SectionHero() {
 								<div className="row">
 									<div className="col-6 align-self-end">
 										<div className="border-5 border-white border rounded-4  mb-4 d-block d-xl-none">
-											<img className="rounded-4" src="/assets/imgs/hero-3/img-4.png" alt="infinia" />
+											<img className="rounded-4" src="/assets/imgs/hero-3/img-4.png" alt="Solution Spire" />
 										</div>
 										<div className="border-5 border-white border rounded-4">
-											<img className="rounded-4" src="/assets/imgs/hero-3/img-3.png" alt="infinia" />
+											<img className="rounded-4" src="/assets/imgs/hero-3/img-3.png" alt="Solution Spire" />
 										</div>
 									</div>
 									<div className="col-6 align-self-end">
 										<div className="border-5 border-white border rounded-4 mb-4">
-											<img className="rounded-4" src="/assets/imgs/hero-3/img-1.png" alt="infinia" />
+											<img className="rounded-4" src="/assets/imgs/hero-3/img-1.png" alt="Solution Spire" />
 										</div>
 										<div className="border-5 border-white border rounded-4">
-											<img className="rounded-4" src="/assets/imgs/hero-3/img-2.png" alt="infinia" />
+											<img className="rounded-4" src="/assets/imgs/hero-3/img-2.png" alt="Solution Spire" />
 										</div>
 									</div>
 								</div>
 								<div className="position-absolute top-50 start-50 translate-middle pb-10 pe-10">
-									<img className="rotateme" src="/assets/imgs/hero-3/star-rotate.png" alt="infinia" />
+									<img className="rotateme" src="/assets/imgs/hero-3/star-rotate.png" alt="Solution Spire" />
 								</div>
 								<div className="position-absolute top-50 start-50 translate-middle">
 									<div className="ellipse-primary" />
@@ -366,7 +366,7 @@ export default function SectionHero() {
 						<div className="row position-relative z-1">
 							<div className="col-lg-6 text-center text-lg-start">
 								<div className="position-relative d-inline-block">
-									<img className="rounded-5 border border-5 border-white" src="/assets/imgs/hero-4/img-1.png" alt="infinia" />
+									<img className="rounded-5 border border-5 border-white" src="/assets/imgs/hero-4/img-1.png" alt="Solution Spire" />
 									<div className="alltuchtopdown backdrop-filter rounded-4 text-center d-inline-block px-6 py-4 m-5 position-absolute bottom-0 end-0">
 										<h2 className="count text-900 fw-black">+<span className="odometer" /><CountUp end={23} enableScrollSpy={true} /><span>k</span></h2>
 										<h6 className="text-500">Professionals</h6>
@@ -378,7 +378,7 @@ export default function SectionHero() {
 									</div>
 									<div className="position-absolute start-0 bottom-50 translate-middle-x">
 										<div className="alltuchtopdown">
-											<img src="/assets/imgs/hero-4/vector-1.svg" alt="infinia" />
+											<img src="/assets/imgs/hero-4/vector-1.svg" alt="Solution Spire" />
 										</div>
 									</div>
 								</div>
@@ -434,15 +434,15 @@ export default function SectionHero() {
 													<SwiperSlide className="swiper-slide">
 														<div className="d-flex">
 															<div className="img align-self-start">
-																<img className="rounded-circle" src="/assets/imgs/hero-4/avatar-1.png" alt="infinia" />
+																<img className="rounded-circle" src="/assets/imgs/hero-4/avatar-1.png" alt="Solution Spire" />
 															</div>
 															<div className="content ms-3">
 																<div className="d-flex">
-																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 																</div>
 																<p className="text-500 mt-2">
 																	Access the same project through five different dynamic <br className="d-md-block d-none" />
@@ -455,15 +455,15 @@ export default function SectionHero() {
 													<SwiperSlide className="swiper-slide">
 														<div className="d-flex">
 															<div className="img align-self-start">
-																<img className="rounded-circle" src="/assets/imgs/hero-4/avatar-1.png" alt="infinia" />
+																<img className="rounded-circle" src="/assets/imgs/hero-4/avatar-1.png" alt="Solution Spire" />
 															</div>
 															<div className="content ms-3">
 																<div className="d-flex">
-																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 																</div>
 																<p className="text-500 mt-2">
 																	Access the same project through five different dynamic <br className="d-md-block d-none" />
@@ -476,15 +476,15 @@ export default function SectionHero() {
 													<SwiperSlide className="swiper-slide">
 														<div className="d-flex">
 															<div className="img align-self-start">
-																<img className="rounded-circle" src="/assets/imgs/hero-4/avatar-1.png" alt="infinia" />
+																<img className="rounded-circle" src="/assets/imgs/hero-4/avatar-1.png" alt="Solution Spire" />
 															</div>
 															<div className="content ms-3">
 																<div className="d-flex">
-																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 																</div>
 																<p className="text-500 mt-2">
 																	Access the same project through five different dynamic <br className="d-md-block d-none" />
@@ -497,15 +497,15 @@ export default function SectionHero() {
 													<SwiperSlide className="swiper-slide">
 														<div className="d-flex">
 															<div className="img align-self-start">
-																<img className="rounded-circle" src="/assets/imgs/hero-4/avatar-1.png" alt="infinia" />
+																<img className="rounded-circle" src="/assets/imgs/hero-4/avatar-1.png" alt="Solution Spire" />
 															</div>
 															<div className="content ms-3">
 																<div className="d-flex">
-																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+																	<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 																</div>
 																<p className="text-500 mt-2">
 																	Access the same project through five different dynamic <br className="d-md-block d-none" />
@@ -521,16 +521,16 @@ export default function SectionHero() {
 										</div>
 									</div>
 									<div className="position-absolute top-0 end-0 z-1 flickering pt-9 pe-4">
-										<img src="/assets/imgs/hero-4/star-1.svg" alt="infinia" />
+										<img src="/assets/imgs/hero-4/star-1.svg" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
 						</div>
 						<div className="position-absolute top-0 start-0 bottom-0 mb-5 bg-2 rounded-4 fix">
-							<img className="h-100" src="/assets/imgs/hero-4/line-bg.png" alt="infinia" />
+							<img className="h-100" src="/assets/imgs/hero-4/line-bg.png" alt="Solution Spire" />
 						</div>
 						<div className="position-absolute bg-rotate d-none d-lg-block pb-10 ps-9 mb-8 z-0">
-							<img src="/assets/imgs/hero-4/favicon.svg" alt="infinia" />
+							<img src="/assets/imgs/hero-4/favicon.svg" alt="Solution Spire" />
 						</div>
 					</div>
 				</section>
@@ -549,18 +549,18 @@ export default function SectionHero() {
 											<div className="col-lg-6">
 												<div className="backdrop-filter p-8 position-relative rounded-3">
 													<div className="bg-white bg-opacity-50 border border-primary-soft d-inline-flex rounded-pill px-4 py-1">
-														<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Infinia</span>
+														<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Solution Spire</span>
 													</div>
 													<h3 className="ds-3 my-3">Best
 														<span className="fw-regular">
 															Solutions <br />
-															<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="infinia" />
+															<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="Solution Spire" />
 															for
 														</span>
 														Innovation
 													</h3>
 													<p className="fs-5 text-900">
-														Infinia offers full range of consultancy  training methods for business consultation.
+														Solution Spire offers full range of consultancy  training methods for business consultation.
 													</p>
 													<div className="d-flex flex-column flex-md-row align-items-center">
 														<Link href="#" className="btn btn-gradient rounded-4">
@@ -592,7 +592,7 @@ export default function SectionHero() {
 										</div>
 									</div>
 									<div className="position-absolute top-0 start-0 z-0">
-										<img src="/assets/imgs/hero-5/img-bg-line.png" alt="infinia" />
+										<img src="/assets/imgs/hero-5/img-bg-line.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</SwiperSlide>
@@ -603,18 +603,18 @@ export default function SectionHero() {
 											<div className="col-lg-6">
 												<div className="backdrop-filter p-8 position-relative rounded-3">
 													<div className="bg-white bg-opacity-50 border border-primary-soft d-inline-flex rounded-pill px-4 py-1">
-														<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Infinia</span>
+														<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Solution Spire</span>
 													</div>
 													<h3 className="ds-3 my-3">Best
 														<span className="fw-regular">
 															Solutions <br />
-															<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="infinia" />
+															<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="Solution Spire" />
 															for
 														</span>
 														Innovation
 													</h3>
 													<p className="fs-5 text-900">
-														Infinia offers full range of consultancy  training methods for business consultation.
+														Solution Spire offers full range of consultancy  training methods for business consultation.
 													</p>
 													<div className="d-flex flex-column flex-md-row align-items-center">
 														<Link href="#" className="btn btn-gradient rounded-4">
@@ -646,7 +646,7 @@ export default function SectionHero() {
 										</div>
 									</div>
 									<div className="position-absolute top-0 start-0 z-0">
-										<img src="/assets/imgs/hero-5/img-bg-line.png" alt="infinia" />
+										<img src="/assets/imgs/hero-5/img-bg-line.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</SwiperSlide>
@@ -657,18 +657,18 @@ export default function SectionHero() {
 											<div className="col-lg-6">
 												<div className="backdrop-filter p-8 position-relative rounded-3">
 													<div className="bg-white bg-opacity-50 border border-primary-soft d-inline-flex rounded-pill px-4 py-1">
-														<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Infinia</span>
+														<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Solution Spire</span>
 													</div>
 													<h3 className="ds-3 my-3">Best
 														<span className="fw-regular">
 															Solutions <br />
-															<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="infinia" />
+															<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="Solution Spire" />
 															for
 														</span>
 														Innovation
 													</h3>
 													<p className="fs-5 text-900">
-														Infinia offers full range of consultancy  training methods for business consultation.
+														Solution Spire offers full range of consultancy  training methods for business consultation.
 													</p>
 													<div className="d-flex flex-column flex-md-row align-items-center">
 														<Link href="#" className="btn btn-gradient rounded-4">
@@ -699,7 +699,7 @@ export default function SectionHero() {
 										</div>
 									</div>
 									<div className="position-absolute top-0 start-0 z-0">
-										<img src="/assets/imgs/hero-5/img-bg-line.png" alt="infinia" />
+										<img src="/assets/imgs/hero-5/img-bg-line.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</SwiperSlide>
@@ -710,18 +710,18 @@ export default function SectionHero() {
 											<div className="col-lg-6">
 												<div className="backdrop-filter p-8 position-relative rounded-3">
 													<div className="bg-white bg-opacity-50 border border-primary-soft d-inline-flex rounded-pill px-4 py-1">
-														<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Infinia</span>
+														<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Solution Spire</span>
 													</div>
 													<h3 className="ds-3 my-3">Best
 														<span className="fw-regular">
 															Solutions <br />
-															<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="infinia" />
+															<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="Solution Spire" />
 															for
 														</span>
 														Innovation
 													</h3>
 													<p className="fs-5 text-900">
-														Infinia offers full range of consultancy  training methods for business consultation.
+														Solution Spire offers full range of consultancy  training methods for business consultation.
 													</p>
 													<div className="d-flex flex-column flex-md-row align-items-center">
 														<Link href="#" className="btn btn-gradient rounded-4">
@@ -752,7 +752,7 @@ export default function SectionHero() {
 										</div>
 									</div>
 									<div className="position-absolute top-0 start-0 z-0">
-										<img src="/assets/imgs/hero-5/img-bg-line.png" alt="infinia" />
+										<img src="/assets/imgs/hero-5/img-bg-line.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</SwiperSlide>
@@ -763,18 +763,18 @@ export default function SectionHero() {
 											<div className="col-lg-6">
 												<div className="backdrop-filter p-8 position-relative rounded-3">
 													<div className="bg-white bg-opacity-50 border border-primary-soft d-inline-flex rounded-pill px-4 py-1">
-														<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Infinia</span>
+														<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Solution Spire</span>
 													</div>
 													<h3 className="ds-3 my-3">Best
 														<span className="fw-regular">
 															Solutions <br />
-															<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="infinia" />
+															<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="Solution Spire" />
 															for
 														</span>
 														Innovation
 													</h3>
 													<p className="fs-5 text-900">
-														Infinia offers full range of consultancy  training methods for business consultation.
+														Solution Spire offers full range of consultancy  training methods for business consultation.
 													</p>
 													<div className="d-flex flex-column flex-md-row align-items-center">
 														<Link href="#" className="btn btn-gradient rounded-4">
@@ -805,7 +805,7 @@ export default function SectionHero() {
 										</div>
 									</div>
 									<div className="position-absolute top-0 start-0 z-0">
-										<img src="/assets/imgs/hero-5/img-bg-line.png" alt="infinia" />
+										<img src="/assets/imgs/hero-5/img-bg-line.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</SwiperSlide>
@@ -816,18 +816,18 @@ export default function SectionHero() {
 											<div className="col-lg-6">
 												<div className="backdrop-filter p-8 position-relative rounded-3">
 													<div className="bg-white bg-opacity-50 border border-primary-soft d-inline-flex rounded-pill px-4 py-1">
-														<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Infinia</span>
+														<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Solution Spire</span>
 													</div>
 													<h3 className="ds-3 my-3">Best
 														<span className="fw-regular">
 															Solutions <br />
-															<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="infinia" />
+															<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="Solution Spire" />
 															for
 														</span>
 														Innovation
 													</h3>
 													<p className="fs-5 text-900">
-														Infinia offers full range of consultancy  training methods for business consultation.
+														Solution Spire offers full range of consultancy  training methods for business consultation.
 													</p>
 													<div className="d-flex flex-column flex-md-row align-items-center">
 														<Link href="#" className="btn btn-gradient rounded-4">
@@ -859,7 +859,7 @@ export default function SectionHero() {
 										</div>
 									</div>
 									<div className="position-absolute top-0 start-0 z-0">
-										<img src="/assets/imgs/hero-5/img-bg-line.png" alt="infinia" />
+										<img src="/assets/imgs/hero-5/img-bg-line.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</SwiperSlide>

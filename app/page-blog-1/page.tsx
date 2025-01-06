@@ -14,7 +14,7 @@ export default function PageBlog1() {
 						<div className="row align-items-end">
 							<div className="col-lg-7 me-auto">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">From Blog</span>
 								</div>
 								<h3 className="ds-3 mt-3 mb-3">Our Latest Articles</h3>
@@ -31,7 +31,7 @@ export default function PageBlog1() {
 						<div className="row mt-8 align-items-center">
 							<div className="col-lg-7">
 								<div className="card-team position-relative d-flex flex-lg-row flex-column align-items-center rounded-3 border  card-hover shadow-2 mb-lg-0 mb-8">
-									<img className="rounded rounded-bottom-0 rounded-start-lg rounded-end-lg-0 w-100 w-lg-auto" src="/assets/imgs/blog-5/img-1.png" alt="infinia" />
+									<img className="rounded rounded-bottom-0 rounded-start-lg rounded-end-lg-0 w-100 w-lg-auto" src="/assets/imgs/blog-5/img-1.png" alt="Solution Spire" />
 									<div className="bg-white align-self-stretch rounded rounded-start-lg-0 p-5">
 										<Link href="#" className="z-1 position-relative bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1 mb-2">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">business</span>
@@ -41,7 +41,7 @@ export default function PageBlog1() {
 										<div className="d-flex align-items-center justify-content-between mt-5 pt-5 border-top">
 											<div className="d-flex align-items-center position-relative z-1">
 												<div className="icon-shape rounded-circle border border-2 border-white">
-													<img className="rounded-circle" src="/assets/imgs/blog-4/avatar-1.png" alt="infinia" />
+													<img className="rounded-circle" src="/assets/imgs/blog-4/avatar-1.png" alt="Solution Spire" />
 												</div>
 												<div className="ms-3">
 													<h6 className="fs-7 m-0 mb-1">Evara Rose</h6>
@@ -63,14 +63,14 @@ export default function PageBlog1() {
 							<div className="col-lg-5">
 								<div>
 									<Link href="#" className="d-flex flex-column flex-md-row align-items-center hover-up">
-										<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-5/img-2.png" alt="infinia" />
+										<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-5/img-2.png" alt="Solution Spire" />
 										<div className="content ms-5 mt-4 mt-md-0">
 											<h6 className="mb-2">Why Consistent Brand Identity is Key to Business Success</h6>
 											<p className="mb-0">As the SaaS industry continues to evolve, new trends are shaping the future of software delivery and consumption...</p>
 										</div>
 									</Link>
 									<Link href="#" className="d-flex flex-column flex-md-row align-items-center mt-7 hover-up">
-										<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-5/img-3.png" alt="infinia" />
+										<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-5/img-3.png" alt="Solution Spire" />
 										<div className="content ms-5 mt-4 mt-md-0">
 											<h6 className="mb-2">The Importance of Data Security in Your SaaS Projects</h6>
 											<p className="mb-0">As the SaaS industry continues to evolve, new trends are shaping the future of software delivery and consumption...</p>
@@ -100,7 +100,7 @@ export default function PageBlog1() {
 							{/* prettier-ignore */}
 							<div className="col-lg-4 col-md-6 text-start">
 								<div className="card border-0 rounded-3 mt-4 position-relative d-inline-flex">
-									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-2.png" alt="infinia" />
+									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-2.png" alt="Solution Spire" />
 									<div className="card-body bg-white p-0">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">Technology</span>
@@ -113,7 +113,7 @@ export default function PageBlog1() {
 							</div>
 							<div className="col-lg-4 col-md-6 text-start">
 								<div className="card border-0 rounded-3 mt-4 position-relative d-inline-flex">
-									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-1.png" alt="infinia" />
+									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-1.png" alt="Solution Spire" />
 									<div className="card-body bg-white p-0">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">business</span>
@@ -126,7 +126,7 @@ export default function PageBlog1() {
 							</div>
 							<div className="col-lg-4 col-md-6 text-start">
 								<div className="card border-0 rounded-3 mt-4 position-relative d-inline-flex">
-									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-3.png" alt="infinia" />
+									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-3.png" alt="Solution Spire" />
 									<div className="card-body bg-white p-0">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">security</span>
@@ -139,7 +139,7 @@ export default function PageBlog1() {
 							</div>
 							<div className="col-lg-4 col-md-6 text-start">
 								<div className="card border-0 rounded-3 mt-4 position-relative d-inline-flex">
-									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-4.png" alt="infinia" />
+									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-4.png" alt="Solution Spire" />
 									<div className="card-body bg-white p-0">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">Technology</span>
@@ -152,7 +152,7 @@ export default function PageBlog1() {
 							</div>
 							<div className="col-lg-4 col-md-6 text-start">
 								<div className="card border-0 rounded-3 mt-4 position-relative d-inline-flex">
-									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-5.png" alt="infinia" />
+									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-5.png" alt="Solution Spire" />
 									<div className="card-body bg-white p-0">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">security</span>
@@ -165,7 +165,7 @@ export default function PageBlog1() {
 							</div>
 							<div className="col-lg-4 col-md-6 text-start">
 								<div className="card border-0 rounded-3 mt-4 position-relative d-inline-flex">
-									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-6.png" alt="infinia" />
+									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-6.png" alt="Solution Spire" />
 									<div className="card-body bg-white p-0">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">Technology</span>
@@ -178,7 +178,7 @@ export default function PageBlog1() {
 							</div>
 							<div className="col-lg-4 col-md-6 text-start">
 								<div className="card border-0 rounded-3 mt-4 position-relative d-inline-flex">
-									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-7.png" alt="infinia" />
+									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-7.png" alt="Solution Spire" />
 									<div className="card-body bg-white p-0">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">security</span>
@@ -191,7 +191,7 @@ export default function PageBlog1() {
 							</div>
 							<div className="col-lg-4 col-md-6 text-start">
 								<div className="card border-0 rounded-3 mt-4 position-relative d-inline-flex">
-									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-8.png" alt="infinia" />
+									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-8.png" alt="Solution Spire" />
 									<div className="card-body bg-white p-0">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">Technology</span>
@@ -204,7 +204,7 @@ export default function PageBlog1() {
 							</div>
 							<div className="col-lg-4 col-md-6 text-start">
 								<div className="card border-0 rounded-3 mt-4 position-relative d-inline-flex">
-									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-9.png" alt="infinia" />
+									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-9.png" alt="Solution Spire" />
 									<div className="card-body bg-white p-0">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">security</span>
@@ -217,7 +217,7 @@ export default function PageBlog1() {
 							</div>
 							<div className="col-lg-4 col-md-6 text-start">
 								<div className="card border-0 rounded-3 mt-4 position-relative d-inline-flex">
-									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-10.png" alt="infinia" />
+									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-10.png" alt="Solution Spire" />
 									<div className="card-body bg-white p-0">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">Technology</span>
@@ -230,7 +230,7 @@ export default function PageBlog1() {
 							</div>
 							<div className="col-lg-4 col-md-6 text-start">
 								<div className="card border-0 rounded-3 mt-4 position-relative d-inline-flex">
-									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-11.png" alt="infinia" />
+									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-11.png" alt="Solution Spire" />
 									<div className="card-body bg-white p-0">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">security</span>
@@ -243,7 +243,7 @@ export default function PageBlog1() {
 							</div>
 							<div className="col-lg-4 col-md-6 text-start">
 								<div className="card border-0 rounded-3 mt-4 position-relative d-inline-flex">
-									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-12.png" alt="infinia" />
+									<img className="rounded-top-3" src="/assets/imgs/blog-6/img-12.png" alt="Solution Spire" />
 									<div className="card-body bg-white p-0">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">security</span>
@@ -302,31 +302,31 @@ export default function PageBlog1() {
 							<div className="col-lg-6 my-4">
 								<div className="row">
 									<div className="ms-lg-4">
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-1.png" alt="infinia" />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-2.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={50} />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3 d-none d-md-inline" src="/assets/imgs/newsletter-1/img-3.png" alt="infinia" />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-1.png" alt="Solution Spire" />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-2.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={50} />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3 d-none d-md-inline" src="/assets/imgs/newsletter-1/img-3.png" alt="Solution Spire" />
 									</div>
 								</div>
 								<div className="row">
 									<div>
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-4.png" alt="infinia" />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-5.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={100} />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-6.png" alt="infinia" />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-7.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={100} />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-4.png" alt="Solution Spire" />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-5.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={100} />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-6.png" alt="Solution Spire" />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-7.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={100} />
 									</div>
 								</div>
 								<div className="row d-none d-lg-flex">
 									<div className="me-lg-0">
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-8.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={50} />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-9.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={100} />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3 d-none d-md-inline" src="/assets/imgs/newsletter-1/img-10.png" alt="infinia" />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-8.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={50} />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-9.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={100} />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3 d-none d-md-inline" src="/assets/imgs/newsletter-1/img-10.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
 							<div className="col-lg-6 mt-lg-0 mt-5">
 								<div className="px-lg-5 text-lg-start text-center">
 									<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Stay Updated</span>
 									</div>
 									<h4 className="mt-3 mb-3" data-aos="fade-zoom-in" data-aos-delay={100}>Subscribe to our Newsletter!</h4>
@@ -341,7 +341,7 @@ export default function PageBlog1() {
 							</div>
 						</div>
 						<div className="position-absolute top-50 start-50 translate-middle z-0">
-							<img src="/assets/imgs/newsletter-1/bg-line.png" alt="infinia" />
+							<img src="/assets/imgs/newsletter-1/bg-line.png" alt="Solution Spire" />
 						</div>
 						<div className="bouncing-blobs-container rounded-4 fix">
 							<div className="bouncing-blobs-glass rounded-4" />

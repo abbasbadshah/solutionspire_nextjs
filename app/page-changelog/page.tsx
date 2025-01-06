@@ -13,7 +13,7 @@ export default function PageChangelog() {
 					<div className="container">
 						<div className="text-center">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Changelog</span>
 							</div>
 							<h3 className="ds-3 my-3">Latest updates and changes</h3>
@@ -41,7 +41,7 @@ export default function PageChangelog() {
 												<li>Multi-language Support: Added support for French, German, and Spanish.</li>
 											</ul>
 										</div>
-										<img className="rounded-3 mt-lg-0 mt-4" src="/assets/imgs/changelog/img-1.png" alt="infinia" />
+										<img className="rounded-3 mt-lg-0 mt-4" src="/assets/imgs/changelog/img-1.png" alt="Solution Spire" />
 									</li>
 									<li className="timeline-item pt-120 d-flex flex-lg-row flex-column">
 										<div className="pe-lg-7">
@@ -57,7 +57,7 @@ export default function PageChangelog() {
 												<li>Report Generation: Resolved a bug that caused report generation to fail under certain conditions.</li>
 											</ul>
 										</div>
-										<img className="rounded-3 mt-lg-0 mt-4" src="/assets/imgs/changelog/img-2.png" alt="infinia" />
+										<img className="rounded-3 mt-lg-0 mt-4" src="/assets/imgs/changelog/img-2.png" alt="Solution Spire" />
 									</li>
 									<li className="timeline-item pt-120 d-flex flex-lg-row flex-column">
 										<div className="pe-lg-7">
@@ -73,7 +73,7 @@ export default function PageChangelog() {
 												<li>Notification Settings: Resolved a problem where notification settings were not being saved correctly.</li>
 											</ul>
 										</div>
-										<img className="rounded-3 mt-lg-0 mt-4" src="/assets/imgs/changelog/img-3.png" alt="infinia" />
+										<img className="rounded-3 mt-lg-0 mt-4" src="/assets/imgs/changelog/img-3.png" alt="Solution Spire" />
 									</li>
 									<li className="timeline-item pt-120 d-flex flex-lg-row flex-column">
 										<div className="pe-lg-7">
@@ -89,7 +89,7 @@ export default function PageChangelog() {
 												<li>Session Timeout: Addressed an issue where sessions were timing out prematurely.</li>
 											</ul>
 										</div>
-										<img className="rounded-3 mt-lg-0 mt-4" src="/assets/imgs/changelog/img-4.png" alt="infinia" />
+										<img className="rounded-3 mt-lg-0 mt-4" src="/assets/imgs/changelog/img-4.png" alt="Solution Spire" />
 									</li>
 								</ul>
 							</div>
@@ -105,16 +105,16 @@ export default function PageChangelog() {
 							<ul className="carouselTicker__list pb-4">
 								<Marquee direction="right">
 									<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-1.svg" alt="infinia" />
+										<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-1.svg" alt="Solution Spire" />
 									</li>
 									<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img src="/assets/imgs/logo-cloud-3/logo-2.svg" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud-3/logo-2.svg" alt="Solution Spire" />
 									</li>
 									<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img src="/assets/imgs/logo-cloud-3/logo-3.svg" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud-3/logo-3.svg" alt="Solution Spire" />
 									</li>
 									<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img src="/assets/imgs/logo-cloud-3/logo-4.svg" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud-3/logo-4.svg" alt="Solution Spire" />
 									</li>
 									<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
 										<svg className="mt-3" xmlns="http://www.w3.org/2000/svg" width={95} height={16} viewBox="0 0 95 16" fill="none">
@@ -129,10 +129,10 @@ export default function PageChangelog() {
 										</svg>
 									</li>
 									<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img src="/assets/imgs/logo-cloud-3/logo-6.svg" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud-3/logo-6.svg" alt="Solution Spire" />
 									</li>
 									<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img src="/assets/imgs/logo-cloud-3/logo-7.svg" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud-3/logo-7.svg" alt="Solution Spire" />
 									</li>
 								</Marquee>
 							</ul>
@@ -143,22 +143,22 @@ export default function PageChangelog() {
 									<ul className="carouselTicker__list pb-4">
 										<Marquee>
 											<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-												<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-8.svg" alt="infinia" />
+												<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-8.svg" alt="Solution Spire" />
 											</li>
 											<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-												<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-9.svg" alt="infinia" />
+												<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-9.svg" alt="Solution Spire" />
 											</li>
 											<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-												<img src="/assets/imgs/logo-cloud-3/logo-3.svg" alt="infinia" />
+												<img src="/assets/imgs/logo-cloud-3/logo-3.svg" alt="Solution Spire" />
 											</li>
 											<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-												<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-10.svg" alt="infinia" />
+												<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-10.svg" alt="Solution Spire" />
 											</li>
 											<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-												<img src="/assets/imgs/logo-cloud-3/logo-11.svg" alt="infinia" />
+												<img src="/assets/imgs/logo-cloud-3/logo-11.svg" alt="Solution Spire" />
 											</li>
 											<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-												<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-12.svg" alt="infinia" />
+												<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-12.svg" alt="Solution Spire" />
 											</li>
 										</Marquee>
 									</ul>

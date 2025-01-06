@@ -25,7 +25,7 @@ export default function SectionContact() {
 							</div>
 						</div>
 					</div>
-					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="infinia" />
+					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="Solution Spire" />
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />
 						<div className="bouncing-blobs">
@@ -40,17 +40,17 @@ export default function SectionContact() {
 						<div className="row">
 							<div className="col-lg-6">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft-keep border border-2 border-white-keep d-inline-flex rounded-pill px-4 py-2">
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Contact Us</span>
 								</div>
 								<h5 className="ds-5 mt-3 mb-3 text-white">Thinking about a project? Get in touch with us.</h5>
 								<span className="fs-5 fw-medium text-white">Please let us know if you have a question, want to leave <br className="d-none d-lg-block" />
 									a comment, or would like further information about <br className="d-none d-lg-block" />
-									Infinia System</span>
+									Solution Spire System</span>
 								<div className="d-flex pt-6 pb-3 align-items-center">
 									<div className="bg-white-keep icon-flip position-relative icon-shape icon-xxl rounded-3">
 										<div className="icon">
-											<img src="/assets/imgs/contact-1/icon-1.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-1/icon-1.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<div className="ps-5">
@@ -61,7 +61,7 @@ export default function SectionContact() {
 								<div className="d-flex pt-3 pb-3 align-items-center">
 									<div className="bg-white-keep icon-flip position-relative icon-shape icon-xxl rounded-3">
 										<div className="icon">
-											<img src="/assets/imgs/contact-1/icon-2.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-1/icon-2.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<div className="ps-5">
@@ -75,7 +75,7 @@ export default function SectionContact() {
 								<div className="d-flex pt-3 pb-3 align-items-center">
 									<div className="bg-white-keep icon-flip position-relative icon-shape icon-xxl rounded-3">
 										<div className="icon">
-											<img src="/assets/imgs/contact-1/icon-3.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-1/icon-3.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<div className="ps-5">
@@ -253,31 +253,31 @@ export default function SectionContact() {
 											<h6>Chat with us</h6>
 											<p className="text-500">The support team is always available 24/7</p>
 											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-1.svg" alt="infinia" />
+												<img src="/assets/imgs/contact-2/icon-1.svg" alt="Solution Spire" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Whatsapp</Link>
 											</div>
 											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-2.svg" alt="infinia" />
+												<img src="/assets/imgs/contact-2/icon-2.svg" alt="Solution Spire" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Viber</Link>
 											</div>
 											<div className="d-flex mb-2 mb-5">
-												<img src="/assets/imgs/contact-2/icon-3.svg" alt="infinia" />
+												<img src="/assets/imgs/contact-2/icon-3.svg" alt="Solution Spire" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Messager</Link>
 											</div>
 											<h6>Send us an email</h6>
 											<p className="text-500">Our team will respond promptly to your inquiries</p>
 											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-4.svg" alt="infinia" />
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@infinia.com</Link>
+												<img src="/assets/imgs/contact-2/icon-4.svg" alt="Solution Spire" />
+												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@Solution Spire.com</Link>
 											</div>
 											<div className="d-flex mb-2 mb-5">
-												<img src="/assets/imgs/contact-2/icon-4.svg" alt="infinia" />
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@infinia.com</Link>
+												<img src="/assets/imgs/contact-2/icon-4.svg" alt="Solution Spire" />
+												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@Solution Spire.com</Link>
 											</div>
 											<h6>For more inquiry</h6>
 											<p className="text-500">Reach out for immediate assistance</p>
 											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-5.svg" alt="infinia" />
+												<img src="/assets/imgs/contact-2/icon-5.svg" alt="Solution Spire" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">+01 (24) 568 900</Link>
 											</div>
 										</div>
@@ -292,7 +292,7 @@ export default function SectionContact() {
 					<div className="container position-relative z-1">
 						<div className="text-center">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Get in Tourch</span>
 							</div>
 							<h3 className="ds-3 mt-3 mb-3">Contact Our Team</h3>
@@ -452,13 +452,13 @@ export default function SectionContact() {
 												<svg xmlns="http://www.w3.org/2000/svg" width={20} height={20} viewBox="0 0 20 20" fill="none">
 													<path d="M18.2422 2.96875H1.75781C0.786602 2.96875 0 3.76023 0 4.72656V15.2734C0 16.2455 0.792383 17.0312 1.75781 17.0312H18.2422C19.2053 17.0312 20 16.2488 20 15.2734V4.72656C20 3.76195 19.2165 2.96875 18.2422 2.96875ZM17.996 4.14062C17.6369 4.49785 11.4564 10.6458 11.243 10.8581C10.9109 11.1901 10.4695 11.3729 10 11.3729C9.53047 11.3729 9.08906 11.1901 8.75594 10.857C8.61242 10.7142 2.50012 4.63414 2.00398 4.14062H17.996ZM1.17188 15.0349V4.96582L6.23586 10.0031L1.17188 15.0349ZM2.00473 15.8594L7.06672 10.8296L7.9284 11.6867C8.48176 12.2401 9.21746 12.5448 10 12.5448C10.7825 12.5448 11.5182 12.2401 12.0705 11.6878L12.9333 10.8296L17.9953 15.8594H2.00473ZM18.8281 15.0349L13.7641 10.0031L18.8281 4.96582V15.0349Z" fill="#6B7280" />
 												</svg>
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@infinia.com</Link>
+												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@Solution Spire.com</Link>
 											</div>
 											<div className="d-flex mb-2 mb-5">
 												<svg xmlns="http://www.w3.org/2000/svg" width={20} height={20} viewBox="0 0 20 20" fill="none">
 													<path d="M18.2422 2.96875H1.75781C0.786602 2.96875 0 3.76023 0 4.72656V15.2734C0 16.2455 0.792383 17.0312 1.75781 17.0312H18.2422C19.2053 17.0312 20 16.2488 20 15.2734V4.72656C20 3.76195 19.2165 2.96875 18.2422 2.96875ZM17.996 4.14062C17.6369 4.49785 11.4564 10.6458 11.243 10.8581C10.9109 11.1901 10.4695 11.3729 10 11.3729C9.53047 11.3729 9.08906 11.1901 8.75594 10.857C8.61242 10.7142 2.50012 4.63414 2.00398 4.14062H17.996ZM1.17188 15.0349V4.96582L6.23586 10.0031L1.17188 15.0349ZM2.00473 15.8594L7.06672 10.8296L7.9284 11.6867C8.48176 12.2401 9.21746 12.5448 10 12.5448C10.7825 12.5448 11.5182 12.2401 12.0705 11.6878L12.9333 10.8296L17.9953 15.8594H2.00473ZM18.8281 15.0349L13.7641 10.0031L18.8281 4.96582V15.0349Z" fill="#6B7280" />
 												</svg>
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@infinia.com</Link>
+												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@Solution Spire.com</Link>
 											</div>
 											<h6>For more inquiry</h6>
 											<p className="text-500">Reach out for immediate assistance</p>
@@ -500,31 +500,31 @@ export default function SectionContact() {
 							</div>
 							<div className="col-lg-6">
 								<div className="rounded-4 border border-5 border-white zoom-img mb-5">
-									<img className="rounded-4 w-100" src="/assets/imgs/contact-4/img-1.png" alt="infinia" />
+									<img className="rounded-4 w-100" src="/assets/imgs/contact-4/img-1.png" alt="Solution Spire" />
 								</div>
 							</div>
 							<div className="col-lg-4">
 								<div className="rounded-4 border border-5 border-white zoom-img mb-5 mb-lg-0">
-									<img className="rounded-4 w-100" src="/assets/imgs/contact-4/img-2.png" alt="infinia" />
+									<img className="rounded-4 w-100" src="/assets/imgs/contact-4/img-2.png" alt="Solution Spire" />
 								</div>
 							</div>
 							<div className="col-lg-4">
 								<div className="h-100 bg-primary rounded-4 d-flex align-items-center justify-content-center border position-relative border-5 fix border-white py-5">
 									<div className="position-relative z-1 fix">
 										<div className="d-flex justify-content-center">
-											<img src="/assets/imgs/hero-1/avatar-1.png" alt="infinia" />
-											<img className="avt-hero" src="/assets/imgs/hero-1/avatar-2.png" alt="infinia" />
-											<img className="avt-hero" src=" assets/imgs/hero-1/avatar-3.png" alt="infinia" />
+											<img src="/assets/imgs/hero-1/avatar-1.png" alt="Solution Spire" />
+											<img className="avt-hero" src="/assets/imgs/hero-1/avatar-2.png" alt="Solution Spire" />
+											<img className="avt-hero" src=" assets/imgs/hero-1/avatar-3.png" alt="Solution Spire" />
 										</div>
 										<h1 className="count fw-black text-white my-0">+<span className="odometer" /><CountUp end={500} enableScrollSpy={true} />k</h1>
 										<p className="fs-5 text-100-keep mb-0">Users Active / Month</p>
 									</div>
-									<img className="position-absolute top-50 start-50 translate-middle z-0" src="/assets/imgs/contact-4/img-bg-1.png" alt="infinia" />
+									<img className="position-absolute top-50 start-50 translate-middle z-0" src="/assets/imgs/contact-4/img-bg-1.png" alt="Solution Spire" />
 								</div>
 							</div>
 							<div className="col-lg-4">
 								<div className="rounded-4 border border-5 border-white zoom-img mt-5 mt-lg-0">
-									<img className="rounded-4 w-100" src="/assets/imgs/contact-4/img-3.png" alt="infinia" />
+									<img className="rounded-4 w-100" src="/assets/imgs/contact-4/img-3.png" alt="Solution Spire" />
 								</div>
 							</div>
 						</div>
@@ -538,7 +538,7 @@ export default function SectionContact() {
 								<div className="feature-item mb-5 mb-lg-0 pe-5 hover-up">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/contact-5/icon-1.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-5/icon-1.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h6>Help  support</h6>
@@ -553,7 +553,7 @@ export default function SectionContact() {
 								<div className="feature-item mb-5 mb-lg-0 pe-5 hover-up">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/contact-5/icon-2.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-5/icon-2.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h6>Call Us</h6>
@@ -568,7 +568,7 @@ export default function SectionContact() {
 								<div className="feature-item mb-5 mb-lg-0 pe-5 hover-up">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/contact-5/icon-3.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-5/icon-3.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h6>Business Department</h6>
@@ -582,7 +582,7 @@ export default function SectionContact() {
 								<div className="feature-item mb-5 mb-lg-0 pe-5 hover-up">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/contact-5/icon-4.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-5/icon-4.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h6>Global branch</h6>
@@ -601,7 +601,7 @@ export default function SectionContact() {
 					<div className="container">
 						<div className="text-center">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Get in Tourch</span>
 							</div>
 							<h3 className="ds-3 mt-3 mb-3">Contact Our Team</h3>
@@ -764,13 +764,13 @@ export default function SectionContact() {
 												<svg xmlns="http://www.w3.org/2000/svg" width={20} height={20} viewBox="0 0 20 20" fill="none">
 													<path d="M18.2422 2.96875H1.75781C0.786602 2.96875 0 3.76023 0 4.72656V15.2734C0 16.2455 0.792383 17.0312 1.75781 17.0312H18.2422C19.2053 17.0312 20 16.2488 20 15.2734V4.72656C20 3.76195 19.2165 2.96875 18.2422 2.96875ZM17.996 4.14062C17.6369 4.49785 11.4564 10.6458 11.243 10.8581C10.9109 11.1901 10.4695 11.3729 10 11.3729C9.53047 11.3729 9.08906 11.1901 8.75594 10.857C8.61242 10.7142 2.50012 4.63414 2.00398 4.14062H17.996ZM1.17188 15.0349V4.96582L6.23586 10.0031L1.17188 15.0349ZM2.00473 15.8594L7.06672 10.8296L7.9284 11.6867C8.48176 12.2401 9.21746 12.5448 10 12.5448C10.7825 12.5448 11.5182 12.2401 12.0705 11.6878L12.9333 10.8296L17.9953 15.8594H2.00473ZM18.8281 15.0349L13.7641 10.0031L18.8281 4.96582V15.0349Z" fill="#6B7280" />
 												</svg>
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@infinia.com</Link>
+												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@Solution Spire.com</Link>
 											</div>
 											<div className="d-flex mb-2 mb-5">
 												<svg xmlns="http://www.w3.org/2000/svg" width={20} height={20} viewBox="0 0 20 20" fill="none">
 													<path d="M18.2422 2.96875H1.75781C0.786602 2.96875 0 3.76023 0 4.72656V15.2734C0 16.2455 0.792383 17.0312 1.75781 17.0312H18.2422C19.2053 17.0312 20 16.2488 20 15.2734V4.72656C20 3.76195 19.2165 2.96875 18.2422 2.96875ZM17.996 4.14062C17.6369 4.49785 11.4564 10.6458 11.243 10.8581C10.9109 11.1901 10.4695 11.3729 10 11.3729C9.53047 11.3729 9.08906 11.1901 8.75594 10.857C8.61242 10.7142 2.50012 4.63414 2.00398 4.14062H17.996ZM1.17188 15.0349V4.96582L6.23586 10.0031L1.17188 15.0349ZM2.00473 15.8594L7.06672 10.8296L7.9284 11.6867C8.48176 12.2401 9.21746 12.5448 10 12.5448C10.7825 12.5448 11.5182 12.2401 12.0705 11.6878L12.9333 10.8296L17.9953 15.8594H2.00473ZM18.8281 15.0349L13.7641 10.0031L18.8281 4.96582V15.0349Z" fill="#6B7280" />
 												</svg>
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@infinia.com</Link>
+												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@Solution Spire.com</Link>
 											</div>
 											<h6>For more inquiry</h6>
 											<p className="text-500">Reach out for immediate assistance</p>

@@ -14,7 +14,7 @@ export default function PageBlog2() {
 						<div className="row align-items-end mb-5">
 							<div className="col-md-auto col-12 me-auto">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">From Blog</span>
 								</div>
 								<h3 className="ds-3 mt-3 mb-3">Our Latest Articles</h3>
@@ -31,14 +31,14 @@ export default function PageBlog2() {
 						<div className="row">
 							<div className="col-lg-6 pe-lg-8">
 								<Link href="#" className="d-flex flex-md-row flex-column align-items-center mb-4 hover-up">
-									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-3/img-1.png" alt="infinia" />
+									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-3/img-1.png" alt="Solution Spire" />
 									<span className="content ms-5 mt-md-0 mt-3">
 										<h6 className="mb-2">10 Proven SEO Strategies to Boost Your Website Traffic in 2024</h6>
 										<p>As the SaaS industry continues to evolve, new trends are shaping the future of software delivery and consumption...</p>
 									</span>
 								</Link>
 								<Link href="#" className="d-flex flex-md-row flex-column align-items-center mb-4 hover-up">
-									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-3/img-2.png" alt="infinia" />
+									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-3/img-2.png" alt="Solution Spire" />
 									<span className="content ms-5 mt-md-0 mt-3">
 										<h6 className="mb-2">The Power of Branding: How to Create a Memorable Brand Identity</h6>
 										<p>As the SaaS industry continues to evolve, new trends are shaping the future of software delivery and consumption...</p>
@@ -47,14 +47,14 @@ export default function PageBlog2() {
 							</div>
 							<div className="col-lg-6 pe-lg-8">
 								<Link href="#" className="d-flex flex-md-row flex-column align-items-center mb-4 hover-up">
-									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-3/img-3.png" alt="infinia" />
+									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-3/img-3.png" alt="Solution Spire" />
 									<span className="content ms-5 mt-md-0 mt-3">
 										<h6 className="mb-2">Why Consistent Brand Identity is Key to Business Success</h6>
 										<p>As the SaaS industry continues to evolve, new trends are shaping the future of software delivery and consumption...</p>
 									</span>
 								</Link>
 								<Link href="#" className="d-flex flex-md-row flex-column align-items-center mb-4 hover-up">
-									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-3/img-4.png" alt="infinia" />
+									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-3/img-4.png" alt="Solution Spire" />
 									<span className="content ms-5 mt-md-0 mt-3">
 										<h6 className="mb-2">Top Trends in Digital Marketing and How They Impact Your Business</h6>
 										<p>As the SaaS industry continues to evolve, new trends are shaping the future of software delivery and consumption...</p>
@@ -64,7 +64,7 @@ export default function PageBlog2() {
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/blog-2/img-bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/blog-2/img-bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />
@@ -82,7 +82,7 @@ export default function PageBlog2() {
 									<h6 className="fw-regular ds-6 text-white">
 										We are<span className="fw-bold"> Looking to <br />Expand </span> Our Team
 									</h6>
-									<img src="/assets/imgs/banner-2/img-1.png" alt="infinia" />
+									<img src="/assets/imgs/banner-2/img-1.png" alt="Solution Spire" />
 									<Link href="#" className="btn btn-success d-block mt-3 mt-lg-0">
 										Explore Now
 										<svg className="ms-2" xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -91,10 +91,10 @@ export default function PageBlog2() {
 										</svg>
 									</Link>
 								</div>
-								<img className="position-absolute top-0 end-0 z-0" src="/assets/imgs/services-details/bg-line-1.png" alt="infinia" />
-								<img className="position-absolute bottom-0 start-0 z-0" src="/assets/imgs/services-details/bg-line-2.png" alt="infinia" />
-								<img className="flickering position-absolute top-0 end-50 me-5 mt-3 z-0" src="/assets/imgs/banner-2/star-1.png" alt="infinia" />
-								<img className="flickering position-absolute bottom-0 start-50 ms-md-10 mb-3 ps-10 z-0" src="/assets/imgs/banner-2/star-2.png" alt="infinia" />
+								<img className="position-absolute top-0 end-0 z-0" src="/assets/imgs/services-details/bg-line-1.png" alt="Solution Spire" />
+								<img className="position-absolute bottom-0 start-0 z-0" src="/assets/imgs/services-details/bg-line-2.png" alt="Solution Spire" />
+								<img className="flickering position-absolute top-0 end-50 me-5 mt-3 z-0" src="/assets/imgs/banner-2/star-1.png" alt="Solution Spire" />
+								<img className="flickering position-absolute bottom-0 start-50 ms-md-10 mb-3 ps-10 z-0" src="/assets/imgs/banner-2/star-2.png" alt="Solution Spire" />
 							</div>
 						</div>
 					</div>
@@ -112,7 +112,7 @@ export default function PageBlog2() {
 							<div className="col-lg-10 mx-lg-auto mt-8">
 								{/* prettier-ignore */}
 								<div className="border-top py-5 position-relative d-flex flex-column flex-md-row align-items-center" data-aos="fade-zoom-in" data-aos-delay={100}>
-									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-7/img-1.png" alt="infinia" />
+									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-7/img-1.png" alt="Solution Spire" />
 									<div className="ms-5 w-lg-50 me-auto">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">Technology</span>
@@ -128,7 +128,7 @@ export default function PageBlog2() {
 									</Link>
 								</div>
 								<div className="border-top py-5 position-relative d-flex flex-column flex-md-row align-items-center" data-aos="fade-zoom-in" data-aos-delay={100}>
-									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-7/img-2.png" alt="infinia" />
+									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-7/img-2.png" alt="Solution Spire" />
 									<div className="ms-5 w-lg-50 me-auto">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">business</span>
@@ -144,7 +144,7 @@ export default function PageBlog2() {
 									</Link>
 								</div>
 								<div className="border-top py-5 position-relative d-flex flex-column flex-md-row align-items-center" data-aos="fade-zoom-in" data-aos-delay={100}>
-									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-7/img-3.png" alt="infinia" />
+									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-7/img-3.png" alt="Solution Spire" />
 									<div className="ms-5 w-lg-50 me-auto">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">security</span>
@@ -160,7 +160,7 @@ export default function PageBlog2() {
 									</Link>
 								</div>
 								<div className="border-top py-5 position-relative d-flex flex-column flex-md-row align-items-center" data-aos="fade-zoom-in" data-aos-delay={100}>
-									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-7/img-4.png" alt="infinia" />
+									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-7/img-4.png" alt="Solution Spire" />
 									<div className="ms-5 w-lg-50 me-auto">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">Technology</span>
@@ -176,7 +176,7 @@ export default function PageBlog2() {
 									</Link>
 								</div>
 								<div className="border-top py-5 position-relative d-flex flex-column flex-md-row align-items-center" data-aos="fade-zoom-in" data-aos-delay={100}>
-									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-7/img-5.png" alt="infinia" />
+									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-7/img-5.png" alt="Solution Spire" />
 									<div className="ms-5 w-lg-50 me-auto">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">security</span>
@@ -192,7 +192,7 @@ export default function PageBlog2() {
 									</Link>
 								</div>
 								<div className="border-top py-5 position-relative d-flex flex-column flex-md-row align-items-center" data-aos="fade-zoom-in" data-aos-delay={100}>
-									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-7/img-6.png" alt="infinia" />
+									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/blog-7/img-6.png" alt="Solution Spire" />
 									<div className="ms-5 w-lg-50 me-auto">
 										<Link href="#" className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3">
 											<span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">Technology</span>
@@ -257,7 +257,7 @@ export default function PageBlog2() {
 							<div className="col-lg-6 mx-auto">
 								<div className="px-lg-3 text-center">
 									<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Join Our Community</span>
 									</div>
 									<h4 className="my-5 text-white">

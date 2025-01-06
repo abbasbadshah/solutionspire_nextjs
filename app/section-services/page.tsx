@@ -66,7 +66,7 @@ export default function SectionServices() {
 							</div>
 						</div>
 					</div>
-					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="infinia" />
+					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="Solution Spire" />
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />
 						<div className="bouncing-blobs">
@@ -80,7 +80,7 @@ export default function SectionServices() {
 					<div className="container">
 						<div className="text-center">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">What we offers</span>
 							</div>
 							<h3 className="ds-3 my-3" data-aos="fade-zoom-in" data-aos-delay={300}>Explore Our Services</h3>
@@ -90,7 +90,7 @@ export default function SectionServices() {
 							<div className="col-lg-4">
 								<div className="p-2 mt-lg-8 rounded-4 shadow-1 bg-white position-relative z-1 hover-up" data-aos="fade-zoom-in" data-aos-delay={100}>
 									<div className="card-service bg-white p-6 border rounded-4">
-										<img src="/assets/imgs/service-1/icon-1.svg" alt="infinia" />
+										<img src="/assets/imgs/service-1/icon-1.svg" alt="Solution Spire" />
 										<h6 className="my-3">Research planning</h6>
 										<p className="mb-6">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 										<Link href="#" className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more">
@@ -113,7 +113,7 @@ export default function SectionServices() {
 								</div>
 								<div className="p-2 mt-5 rounded-4 shadow-1 bg-white position-relative z-1 hover-up" data-aos="fade-zoom-in" data-aos-delay={200}>
 									<div className="card-service bg-white p-6 border rounded-3">
-										<img src="/assets/imgs/service-1/icon-2.svg" alt="infinia" />
+										<img src="/assets/imgs/service-1/icon-2.svg" alt="Solution Spire" />
 										<h6 className="my-3">Strategy Lab</h6>
 										<p className="mb-6">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 										<Link href="#" className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more">
@@ -138,7 +138,7 @@ export default function SectionServices() {
 							<div className="col-lg-4">
 								<div className="p-2 mt-5 rounded-4 shadow-1 bg-white position-relative z-1 hover-up" data-aos="fade-zoom-in" data-aos-delay={300}>
 									<div className="card-service bg-white p-6 border rounded-3">
-										<img src="/assets/imgs/service-1/icon-3.svg" alt="infinia" />
+										<img src="/assets/imgs/service-1/icon-3.svg" alt="Solution Spire" />
 										<h6 className="my-3">Business Consultancy</h6>
 										<p className="mb-6">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 										<Link href="#" className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more">
@@ -161,7 +161,7 @@ export default function SectionServices() {
 								</div>
 								<div className="p-2 mt-5 rounded-4 shadow-1 bg-white position-relative z-1 hover-up" data-aos="fade-zoom-in" data-aos-delay={100}>
 									<div className="card-service bg-white p-6 border rounded-3">
-										<img src="/assets/imgs/service-1/icon-4.svg" alt="infinia" />
+										<img src="/assets/imgs/service-1/icon-4.svg" alt="Solution Spire" />
 										<h6 className="my-3">Business promotion</h6>
 										<p className="mb-6">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 										<Link href="#" className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more">
@@ -186,7 +186,7 @@ export default function SectionServices() {
 							<div className="col-lg-4">
 								<div className="p-2 mt-lg-8 mt-5 rounded-4 shadow-1 bg-white position-relative z-1 hover-up hover-up" data-aos="fade-zoom-in" data-aos-delay={200}>
 									<div className="card-service bg-white p-6 border rounded-3">
-										<img src="/assets/imgs/service-1/icon-5.svg" alt="infinia" />
+										<img src="/assets/imgs/service-1/icon-5.svg" alt="Solution Spire" />
 										<h6 className="my-3">Finance Advisory </h6>
 										<p className="mb-6">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 										<Link href="#" className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more">
@@ -209,7 +209,7 @@ export default function SectionServices() {
 								</div>
 								<div className="p-2 mt-5 rounded-4 shadow-1 bg-white position-relative z-1 hover-up" data-aos="fade-zoom-in" data-aos-delay={300}>
 									<div className="card-service bg-white p-6 border rounded-3">
-										<img src="/assets/imgs/service-1/icon-6.svg" alt="infinia" />
+										<img src="/assets/imgs/service-1/icon-6.svg" alt="Solution Spire" />
 										<h6 className="my-3">Revenue generation</h6>
 										<p className="mb-6">Separating your work from your home life can improve work-life balance and coworking spaces provide a dedicated place to work</p>
 										<Link href="#" className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more">
@@ -232,7 +232,7 @@ export default function SectionServices() {
 								</div>
 							</div>
 							<div className="position-absolute top-50 start-50 translate-middle z-0">
-								<img src="/assets/imgs/service-1/img-bg.png" alt="infinia" />
+								<img src="/assets/imgs/service-1/img-bg.png" alt="Solution Spire" />
 							</div>
 						</div>
 					</div>
@@ -242,7 +242,7 @@ export default function SectionServices() {
 					<div className="container position-relative z-2">
 						<div className="text-center">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">What we offers</span>
 							</div>
 							<h3 className="ds-3 my-3 fw-regular">
@@ -259,7 +259,7 @@ export default function SectionServices() {
 									<div className="card-service bg-white p-6 border rounded-4 text-center">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 											<div className="icon">
-												<img src="/assets/imgs/service-2/icon-1.svg" alt="infinia" />
+												<img src="/assets/imgs/service-2/icon-1.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<h5 className="my-3">Business Analytics</h5>
@@ -285,7 +285,7 @@ export default function SectionServices() {
 									<div className="card-service bg-white p-6 border rounded-4 text-center">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 											<div className="icon">
-												<img src="/assets/imgs/service-2/icon-2.svg" alt="infinia" />
+												<img src="/assets/imgs/service-2/icon-2.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<h5 className="my-3">Investment</h5>
@@ -311,7 +311,7 @@ export default function SectionServices() {
 									<div className="card-service bg-white p-6 border rounded-4 text-center">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 											<div className="icon">
-												<img src="/assets/imgs/service-2/icon-3.svg" alt="infinia" />
+												<img src="/assets/imgs/service-2/icon-3.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<h5 className="my-3">Tax Advisory</h5>
@@ -337,7 +337,7 @@ export default function SectionServices() {
 									<div className="card-service bg-white p-6 border rounded-4 text-center">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 											<div className="icon">
-												<img src="/assets/imgs/service-2/icon-4.svg" alt="infinia" />
+												<img src="/assets/imgs/service-2/icon-4.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<h5 className="my-3">Automated reports</h5>
@@ -363,7 +363,7 @@ export default function SectionServices() {
 									<div className="card-service bg-white p-6 border rounded-4 text-center">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 											<div className="icon">
-												<img src="/assets/imgs/service-2/icon-5.svg" alt="infinia" />
+												<img src="/assets/imgs/service-2/icon-5.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<h5 className="my-3">Funnel optimization</h5>
@@ -389,7 +389,7 @@ export default function SectionServices() {
 									<div className="card-service bg-white p-6 border rounded-4 text-center">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 											<div className="icon">
-												<img src="/assets/imgs/service-2/icon-6.svg" alt="infinia" />
+												<img src="/assets/imgs/service-2/icon-6.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<h5 className="my-3">Integrations</h5>
@@ -431,7 +431,7 @@ export default function SectionServices() {
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/service-2/bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/service-2/bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="rotate-center ellipse-rotate-success position-absolute z-1" />
 					<div className="rotate-center-rev ellipse-rotate-primary position-absolute z-1" />
@@ -441,7 +441,7 @@ export default function SectionServices() {
 					<div className="container position-relative z-2">
 						<div className="text-center">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">What we offers</span>
 							</div>
 							<h3 className="ds-3 my-3 fw-regular">The Leading <span className=" fw-bold">IT Solutions <br className="d-lg-block d-none" /> Company</span> For You</h3>
@@ -456,7 +456,7 @@ export default function SectionServices() {
 										<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 											<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 												<div className="icon">
-													<img src="/assets/imgs/service-3/icon-1.svg" alt="infinia" />
+													<img src="/assets/imgs/service-3/icon-1.svg" alt="Solution Spire" />
 												</div>
 											</div>
 											<h5 className="my-3">IT Consulting</h5>
@@ -482,7 +482,7 @@ export default function SectionServices() {
 										<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 											<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 												<div className="icon">
-													<img src="/assets/imgs/service-3/icon-2.svg" alt="infinia" />
+													<img src="/assets/imgs/service-3/icon-2.svg" alt="Solution Spire" />
 												</div>
 											</div>
 											<h5 className="my-3">Network Design</h5>
@@ -508,7 +508,7 @@ export default function SectionServices() {
 										<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 											<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 												<div className="icon">
-													<img src="/assets/imgs/service-3/icon-3.svg" alt="infinia" />
+													<img src="/assets/imgs/service-3/icon-3.svg" alt="Solution Spire" />
 												</div>
 											</div>
 											<h5 className="my-3">Software Dev</h5>
@@ -534,7 +534,7 @@ export default function SectionServices() {
 										<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 											<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 												<div className="icon">
-													<img src="/assets/imgs/service-3/icon-4.svg" alt="infinia" />
+													<img src="/assets/imgs/service-3/icon-4.svg" alt="Solution Spire" />
 												</div>
 											</div>
 											<h5 className="my-3">IT Training</h5>
@@ -560,7 +560,7 @@ export default function SectionServices() {
 										<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 											<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 												<div className="icon">
-													<img src="/assets/imgs/service-3/icon-1.svg" alt="infinia" />
+													<img src="/assets/imgs/service-3/icon-1.svg" alt="Solution Spire" />
 												</div>
 											</div>
 											<h5 className="my-3">IT Consulting</h5>
@@ -586,7 +586,7 @@ export default function SectionServices() {
 										<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 											<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 												<div className="icon">
-													<img src="/assets/imgs/service-3/icon-2.svg" alt="infinia" />
+													<img src="/assets/imgs/service-3/icon-2.svg" alt="Solution Spire" />
 												</div>
 											</div>
 											<h5 className="my-3">Network Design</h5>
@@ -612,7 +612,7 @@ export default function SectionServices() {
 										<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 											<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 												<div className="icon">
-													<img src="/assets/imgs/service-3/icon-3.svg" alt="infinia" />
+													<img src="/assets/imgs/service-3/icon-3.svg" alt="Solution Spire" />
 												</div>
 											</div>
 											<h5 className="my-3">Software Dev</h5>
@@ -638,7 +638,7 @@ export default function SectionServices() {
 										<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 											<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 												<div className="icon">
-													<img src="/assets/imgs/service-3/icon-4.svg" alt="infinia" />
+													<img src="/assets/imgs/service-3/icon-4.svg" alt="Solution Spire" />
 												</div>
 											</div>
 											<h5 className="my-3">IT Training</h5>
@@ -676,7 +676,7 @@ export default function SectionServices() {
 					<div className="container position-relative z-2">
 						<div className="text-center">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">What we offers</span>
 							</div>
 							<h3 className="ds-3 my-3 fw-regular">Building <span className=" fw-bold">enduring value <br className="d-none d-md-inline" /> </span>through <span className="fw-bold">bold</span> strategies</h3>
@@ -738,7 +738,7 @@ export default function SectionServices() {
 													<div className="d-flex pt-5">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-1.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-1.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -749,7 +749,7 @@ export default function SectionServices() {
 													<div className="d-flex">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-2.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-2.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -773,7 +773,7 @@ export default function SectionServices() {
 													<div className="d-flex pt-5">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-1.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-1.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -784,7 +784,7 @@ export default function SectionServices() {
 													<div className="d-flex">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-2.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-2.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -808,7 +808,7 @@ export default function SectionServices() {
 													<div className="d-flex pt-5">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-1.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-1.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -819,7 +819,7 @@ export default function SectionServices() {
 													<div className="d-flex">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-2.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-2.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -843,7 +843,7 @@ export default function SectionServices() {
 													<div className="d-flex pt-5">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-1.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-1.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -854,7 +854,7 @@ export default function SectionServices() {
 													<div className="d-flex">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-2.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-2.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -878,7 +878,7 @@ export default function SectionServices() {
 													<div className="d-flex pt-5">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-1.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-1.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -889,7 +889,7 @@ export default function SectionServices() {
 													<div className="d-flex">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-2.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-2.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -913,7 +913,7 @@ export default function SectionServices() {
 													<div className="d-flex pt-5">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-1.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-1.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -924,7 +924,7 @@ export default function SectionServices() {
 													<div className="d-flex">
 														<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 															<div className="icon">
-																<img src="/assets/imgs/service-4/icon-2.svg" alt="infinia" />
+																<img src="/assets/imgs/service-4/icon-2.svg" alt="Solution Spire" />
 															</div>
 														</div>
 														<div className="ps-5">
@@ -956,7 +956,7 @@ export default function SectionServices() {
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/blog-2/img-bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/blog-2/img-bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />

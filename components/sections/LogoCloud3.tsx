@@ -11,16 +11,16 @@ export default function LogoCloud3() {
 						<ul className="carouselTicker__list pb-4">
 							<Marquee direction="right">
 								<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-									<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-1.svg" alt="infinia" />
+									<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-1.svg" alt="Solution Spire" />
 								</li>
 								<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-									<img src="/assets/imgs/logo-cloud-3/logo-2.svg" alt="infinia" />
+									<img src="/assets/imgs/logo-cloud-3/logo-2.svg" alt="Solution Spire" />
 								</li>
 								<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-									<img src="/assets/imgs/logo-cloud-3/logo-3.svg" alt="infinia" />
+									<img src="/assets/imgs/logo-cloud-3/logo-3.svg" alt="Solution Spire" />
 								</li>
 								<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-									<img src="/assets/imgs/logo-cloud-3/logo-4.svg" alt="infinia" />
+									<img src="/assets/imgs/logo-cloud-3/logo-4.svg" alt="Solution Spire" />
 								</li>
 								<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
 									<svg className="mt-3" xmlns="http://www.w3.org/2000/svg" width={95} height={16} viewBox="0 0 95 16" fill="none">
@@ -35,10 +35,10 @@ export default function LogoCloud3() {
 									</svg>
 								</li>
 								<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-									<img src="/assets/imgs/logo-cloud-3/logo-6.svg" alt="infinia" />
+									<img src="/assets/imgs/logo-cloud-3/logo-6.svg" alt="Solution Spire" />
 								</li>
 								<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-									<img src="/assets/imgs/logo-cloud-3/logo-7.svg" alt="infinia" />
+									<img src="/assets/imgs/logo-cloud-3/logo-7.svg" alt="Solution Spire" />
 								</li>
 							</Marquee>
 						</ul>
@@ -49,22 +49,22 @@ export default function LogoCloud3() {
 								<ul className="carouselTicker__list pb-4">
 									<Marquee>
 										<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-8.svg" alt="infinia" />
+											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-8.svg" alt="Solution Spire" />
 										</li>
 										<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-9.svg" alt="infinia" />
+											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-9.svg" alt="Solution Spire" />
 										</li>
 										<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-											<img src="/assets/imgs/logo-cloud-3/logo-3.svg" alt="infinia" />
+											<img src="/assets/imgs/logo-cloud-3/logo-3.svg" alt="Solution Spire" />
 										</li>
 										<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-10.svg" alt="infinia" />
+											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-10.svg" alt="Solution Spire" />
 										</li>
 										<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-											<img src="/assets/imgs/logo-cloud-3/logo-11.svg" alt="infinia" />
+											<img src="/assets/imgs/logo-cloud-3/logo-11.svg" alt="Solution Spire" />
 										</li>
 										<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-12.svg" alt="infinia" />
+											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/logo-12.svg" alt="Solution Spire" />
 										</li>
 									</Marquee>
 								</ul>

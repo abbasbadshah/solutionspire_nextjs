@@ -10,8 +10,8 @@ export default function Footer2() {
 							<div className="row py-90">
 								<div className="col-lg-4 pe-10">
 									<Link className="navbar-brand d-flex main-logo align-items-center" href="/">
-										<img src="assets/imgs/template/favicon.svg" alt="infinia" />
-										<span>Infinia</span>
+										<img src="assets/imgs/template/favicon.svg" alt="Solution Spire" />
+										<span>Solution Spire</span>
 									</Link>
 									<p className="text-900 fw-medium mt-3 mb-6 opacity-50">You may also realize cost savings from your energy efficient choices in your custom home. Federal tax credits for some green materials can allow you to deduct as much.</p>
 									<div className="d-flex social-icons">
@@ -57,24 +57,24 @@ export default function Footer2() {
 											<h3 className="text-900 fs-6 fw-black text-uppercase pb-3 pt-5">instagram posts</h3>
 											<div className="d-flex">
 												<Link href="/http://instagram.com/username" className="me-2 hover-up">
-													<img className="rounded-3" src="assets/imgs/footer-3/img-inst-1.png" alt="infinia" />
+													<img className="rounded-3" src="assets/imgs/footer-3/img-inst-1.png" alt="Solution Spire" />
 												</Link>
 												<Link href="/http://instagram.com/username" className="me-2 hover-up">
-													<img className="rounded-3" src="assets/imgs/footer-3/img-inst-2.png" alt="infinia" />
+													<img className="rounded-3" src="assets/imgs/footer-3/img-inst-2.png" alt="Solution Spire" />
 												</Link>
 												<Link href="/http://instagram.com/username" className="me-2 hover-up">
-													<img className="rounded-3" src="assets/imgs/footer-3/img-inst-3.png" alt="infinia" />
+													<img className="rounded-3" src="assets/imgs/footer-3/img-inst-3.png" alt="Solution Spire" />
 												</Link>
 											</div>
 											<div className="d-flex mt-2">
 												<Link href="/http://instagram.com/username" className="me-2 hover-up">
-													<img className="rounded-3" src="assets/imgs/footer-3/img-inst-4.png" alt="infinia" />
+													<img className="rounded-3" src="assets/imgs/footer-3/img-inst-4.png" alt="Solution Spire" />
 												</Link>
 												<Link href="/http://instagram.com/username" className="me-2 hover-up">
-													<img className="rounded-3" src="assets/imgs/footer-3/img-inst-5.png" alt="infinia" />
+													<img className="rounded-3" src="assets/imgs/footer-3/img-inst-5.png" alt="Solution Spire" />
 												</Link>
 												<Link href="/http://instagram.com/username" className="me-2 hover-up">
-													<img className="rounded-3" src="assets/imgs/footer-3/img-inst-6.png" alt="infinia" />
+													<img className="rounded-3" src="assets/imgs/footer-3/img-inst-6.png" alt="Solution Spire" />
 												</Link>
 											</div>
 										</div>
@@ -87,7 +87,7 @@ export default function Footer2() {
 						<div className="container">
 							<div className="row">
 								<div className="d-flex flex-column flex-md-row align-items-center justify-content-between gap-3 py-4 border-top border-white border-opacity-10">
-									<p className="text-900 opacity-50 mb-0 fs-7">Copyright © 2024 Infinia. All Rights Reserved</p>
+									<p className="text-900 opacity-50 mb-0 fs-7">Copyright © 2024 Solution Spire. All Rights Reserved</p>
 									<div className="d-flex">
 										<Link href="/#" className="text-900 me-3"> Privacy policy </Link>
 										<Link href="/#" className="text-900 me-3"> Cookies </Link>

@@ -23,7 +23,7 @@ export default function SectionFooter() {
 							</div>
 						</div>
 					</div>
-					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="infinia" />
+					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="Solution Spire" />
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />
 						<div className="bouncing-blobs">
@@ -39,7 +39,7 @@ export default function SectionFooter() {
 							<div className="container position-relative z-2">
 								<div className="row py-90">
 									<div className="col-lg-4 pe-10" data-aos="fade-zoom-in" data-aos-delay={100}>
-										<Link href="/"><img src="/assets/imgs/logo/logo-white.svg" alt="infinia" /></Link>
+										<Link href="/"><img src="/assets/imgs/logo/logo-white.svg" alt="Solution Spire" /></Link>
 										<p className="text-white fw-medium mt-3 mb-6 opacity-50">You may also realize cost savings from your energy efficient choices in your custom home. Federal tax credits for some green materials can allow you to deduct as much.</p>
 										<div className="d-flex social-icons">
 											<Link href="https://www.facebook.com/" className=" text-white border border-end-0 border-light border-opacity-10 icon-shape icon-md">
@@ -106,18 +106,18 @@ export default function SectionFooter() {
 									</div>
 								</div>
 								<div className="row text-center py-4 border-top border-white border-opacity-10">
-									<span className="text-white opacity-50" data-aos="fade-zoom-in" data-aos-delay={200}>Copyright © 2024 Infinia. All Rights Reserved</span>
+									<span className="text-white opacity-50" data-aos="fade-zoom-in" data-aos-delay={200}>Copyright © 2024 Solution Spire. All Rights Reserved</span>
 								</div>
 							</div>
 						</div>
 						<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-							<img src="/assets/imgs/footer-1/line-bg.png" alt="infinia" />
+							<img src="/assets/imgs/footer-1/line-bg.png" alt="Solution Spire" />
 						</div>
 						<div className="position-absolute top-0 start-0 z-0">
-							<img src="/assets/imgs/footer-1/ellipse-left.png" alt="infinia" />
+							<img src="/assets/imgs/footer-1/ellipse-left.png" alt="Solution Spire" />
 						</div>
 						<div className="position-absolute top-0 end-0 z-0">
-							<img src="/assets/imgs/footer-1/ellipse-right.png" alt="infinia" />
+							<img src="/assets/imgs/footer-1/ellipse-right.png" alt="Solution Spire" />
 						</div>
 					</div>
 				</footer>
@@ -161,7 +161,7 @@ export default function SectionFooter() {
 							<div className=" container position-relative z-2">
 								<div className="row py-90">
 									<div className="col-lg-4 pe-10 mb-5 mb-lg-0">
-										<Link href="/"><img src="/assets/imgs/logo/logo-white.svg" alt="infinia" /></Link>
+										<Link href="/"><img src="/assets/imgs/logo/logo-white.svg" alt="Solution Spire" /></Link>
 										<p className="text-white fw-medium mt-3 mb-6 opacity-50">You may also realize cost savings from your energy efficient choices in your custom home. Federal tax credits for some green materials can allow you to deduct as much.</p>
 										<div className="d-flex social-icons">
 											<Link href="https://www.facebook.com/" className=" text-white border border-end-0 border-light border-opacity-10 icon-shape icon-md">
@@ -229,7 +229,7 @@ export default function SectionFooter() {
 								</div>
 								<div className="row">
 									<div className="d-flex flex-column flex-md-row align-items-center justify-content-between gap-3 py-4 border-top border-white border-opacity-10">
-										<span className="text-white opacity-50">Copyright © 2024 Infinia. All Rights Reserved</span>
+										<span className="text-white opacity-50">Copyright © 2024 Solution Spire. All Rights Reserved</span>
 										<div className="d-flex">
 											<Link href="#" className="link-hover-primary-light text-white me-3"> Privacy policy </Link>
 											<Link href="#" className="link-hover-primary-light text-white me-3"> Cookies </Link>
@@ -240,13 +240,13 @@ export default function SectionFooter() {
 							</div>
 						</div>
 						<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-							<img src="/assets/imgs/footer-1/line-bg.png" alt="infinia" />
+							<img src="/assets/imgs/footer-1/line-bg.png" alt="Solution Spire" />
 						</div>
 						<div className="position-absolute top-0 start-0 z-0">
-							<img src="/assets/imgs/footer-1/ellipse-left.png" alt="infinia" />
+							<img src="/assets/imgs/footer-1/ellipse-left.png" alt="Solution Spire" />
 						</div>
 						<div className="position-absolute top-0 end-0 z-0">
-							<img src="/assets/imgs/footer-1/ellipse-right.png" alt="infinia" />
+							<img src="/assets/imgs/footer-1/ellipse-right.png" alt="Solution Spire" />
 						</div>
 					</div>
 				</footer>
@@ -258,8 +258,8 @@ export default function SectionFooter() {
 								<div className="row py-90">
 									<div className="col-lg-4 pe-10">
 										<Link className="navbar-brand d-flex main-logo align-items-center" href="/">
-											<img src="/assets/imgs/template/favicon.svg" alt="infinia" />
-											<span>Infinia</span>
+											<img src="/assets/imgs/template/favicon.svg" alt="Solution Spire" />
+											<span>Solution Spire</span>
 										</Link>
 										<p className="text-900 fw-medium mt-3 mb-6 opacity-50">You may also realize cost savings from your energy efficient choices in your custom home. Federal tax credits for some green materials can allow you to deduct as much.</p>
 										<div className="d-flex social-icons">
@@ -305,24 +305,24 @@ export default function SectionFooter() {
 												<h3 className="text-900 fs-6 fw-black text-uppercase pb-3 pt-5">instagram posts</h3>
 												<div className="d-flex">
 													<Link href="/http://instagram.com/username" className="me-2 hover-up">
-														<img className="rounded-3" src="/assets/imgs/footer-3/img-inst-1.png" alt="infinia" />
+														<img className="rounded-3" src="/assets/imgs/footer-3/img-inst-1.png" alt="Solution Spire" />
 													</Link>
 													<Link href="/http://instagram.com/username" className="me-2 hover-up">
-														<img className="rounded-3" src="/assets/imgs/footer-3/img-inst-2.png" alt="infinia" />
+														<img className="rounded-3" src="/assets/imgs/footer-3/img-inst-2.png" alt="Solution Spire" />
 													</Link>
 													<Link href="/http://instagram.com/username" className="me-2 hover-up">
-														<img className="rounded-3" src="/assets/imgs/footer-3/img-inst-3.png" alt="infinia" />
+														<img className="rounded-3" src="/assets/imgs/footer-3/img-inst-3.png" alt="Solution Spire" />
 													</Link>
 												</div>
 												<div className="d-flex mt-2">
 													<Link href="/http://instagram.com/username" className="me-2 hover-up">
-														<img className="rounded-3" src="/assets/imgs/footer-3/img-inst-4.png" alt="infinia" />
+														<img className="rounded-3" src="/assets/imgs/footer-3/img-inst-4.png" alt="Solution Spire" />
 													</Link>
 													<Link href="/http://instagram.com/username" className="me-2 hover-up">
-														<img className="rounded-3" src="/assets/imgs/footer-3/img-inst-5.png" alt="infinia" />
+														<img className="rounded-3" src="/assets/imgs/footer-3/img-inst-5.png" alt="Solution Spire" />
 													</Link>
 													<Link href="/http://instagram.com/username" className="me-2 hover-up">
-														<img className="rounded-3" src="/assets/imgs/footer-3/img-inst-6.png" alt="infinia" />
+														<img className="rounded-3" src="/assets/imgs/footer-3/img-inst-6.png" alt="Solution Spire" />
 													</Link>
 												</div>
 											</div>
@@ -335,7 +335,7 @@ export default function SectionFooter() {
 							<div className="container">
 								<div className="row">
 									<div className="d-flex flex-column flex-md-row align-items-center justify-content-between gap-3 py-4 border-top border-white border-opacity-10">
-										<p className="text-900 opacity-50 mb-0 fs-7">Copyright © 2024 Infinia. All Rights Reserved</p>
+										<p className="text-900 opacity-50 mb-0 fs-7">Copyright © 2024 Solution Spire. All Rights Reserved</p>
 										<div className="d-flex">
 											<Link href="#" className="text-900 me-3"> Privacy policy </Link>
 											<Link href="#" className="text-900 me-3"> Cookies </Link>
@@ -354,7 +354,7 @@ export default function SectionFooter() {
 							<div className=" container position-relative z-2">
 								<div className="d-flex py-4 border-bottom border-white border-opacity-10 justify-content-between align-items-center">
 									<div>
-										<Link href="/"><img src="/assets/imgs/logo/logo-white.svg" alt="infinia" /></Link>
+										<Link href="/"><img src="/assets/imgs/logo/logo-white.svg" alt="Solution Spire" /></Link>
 									</div>
 									<div>
 										<div className="d-flex social-icons">
@@ -447,7 +447,7 @@ export default function SectionFooter() {
 								</div>
 								<div className="row">
 									<div className="d-flex flex-md-row flex-column align-items-center justify-content-between bg-transparent py-4 border-top border-opacity-10">
-										<span className="text-white opacity-50 mb-3 mb-md-0">Copyright © 2024 Infinia. All Rights Reserved</span>
+										<span className="text-white opacity-50 mb-3 mb-md-0">Copyright © 2024 Solution Spire. All Rights Reserved</span>
 										<div className="d-flex">
 											<Link href="#" className="link-hover-primary-light text-white me-3">
 												Privacy policy

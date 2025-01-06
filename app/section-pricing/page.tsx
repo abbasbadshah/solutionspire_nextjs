@@ -56,7 +56,7 @@ export default function SectionPricing() {
 							</div>
 						</div>
 					</div>
-					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="infinia" />
+					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="Solution Spire" />
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />
 						<div className="bouncing-blobs">
@@ -72,7 +72,7 @@ export default function SectionPricing() {
 							<div className="col-lg-auto me-lg-auto">
 								<div className="text-start mb-lg-0 mb-5">
 									<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">our plans</span>
 									</div>
 									<h3 className="ds-3 my-3" data-aos="fade-zoom-in" data-aos-delay={200}>Pricing Plans</h3>
@@ -103,23 +103,23 @@ export default function SectionPricing() {
 									</button>
 									<ul className="list-unstyled mb-0">
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Single Team Member</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Over 1200 UI Blocks</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">10 GB of Cloud Storage</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2 text-400">Personal Email Account</h6>
 										</li>
 										<li className="d-flex align-items-center">
-											<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2 text-400">Priority Support</h6>
 										</li>
 									</ul>
@@ -143,23 +143,23 @@ export default function SectionPricing() {
 									</button>
 									<ul className="list-unstyled mb-0">
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">05 Team Member</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">All multimedia channels</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">All advanced CRM features</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Up to 15,000 contacts</h6>
 										</li>
 										<li className="d-flex align-items-center">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">24/7 Support (Email, Chat)</h6>
 										</li>
 									</ul>
@@ -183,23 +183,23 @@ export default function SectionPricing() {
 									</button>
 									<ul className="list-unstyled mb-0">
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">50 Team Member</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Over 1500 UI Blocks</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">100 GB of Cloud Storage</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Personal Email Account</h6>
 										</li>
 										<li className="d-flex align-items-center">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Priority Support</h6>
 										</li>
 									</ul>
@@ -223,23 +223,23 @@ export default function SectionPricing() {
 									</button>
 									<ul className="list-unstyled mb-0">
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Customized features</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Scalability  security</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Account manager</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Unlimited chat history</h6>
 										</li>
 										<li className="d-flex align-items-center">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">50 Integrations</h6>
 										</li>
 									</ul>
@@ -257,7 +257,7 @@ export default function SectionPricing() {
 							<div className="col-lg-6 position-relative pe-8">
 								<div className="text-start mb-lg-0 mb-5">
 									<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">our plans</span>
 									</div>
 									<h3 className="ds-3 my-3" data-aos="fade-zoom-in" data-aos-delay={0}>Pick Your Premium</h3>
@@ -265,21 +265,21 @@ export default function SectionPricing() {
 									<div className="d-md-flex align-items-center mt-4">
 										<ul className="list-unstyled phase-items mb-0">
 											<li className="d-flex align-items-center mt-2">
-												<img src="/assets/imgs/hero-2/check.png" alt="infinia" />
+												<img src="/assets/imgs/hero-2/check.png" alt="Solution Spire" />
 												<span className="ms-2">Get 30 day free trial</span>
 											</li>
 											<li className="d-flex align-items-center mt-2">
-												<img src="/assets/imgs/hero-2/check.png" alt="infinia" />
+												<img src="/assets/imgs/hero-2/check.png" alt="Solution Spire" />
 												<span className="ms-2">You can cancel anytime</span>
 											</li>
 										</ul>
 										<ul className="list-unstyled phase-items ms-md-5 mb-0">
 											<li className="d-flex align-items-center mt-2">
-												<img src="/assets/imgs/hero-2/check.png" alt="infinia" />
+												<img src="/assets/imgs/hero-2/check.png" alt="Solution Spire" />
 												<span className="ms-2">No any hidden fees pay</span>
 											</li>
 											<li className="d-flex align-items-center mt-2">
-												<img src="/assets/imgs/hero-2/check.png" alt="infinia" />
+												<img src="/assets/imgs/hero-2/check.png" alt="Solution Spire" />
 												<span className="ms-2">Monthly management</span>
 											</li>
 										</ul>
@@ -307,7 +307,7 @@ export default function SectionPricing() {
 									</div>
 								</div>
 								<div className="position-absolute top-0 end-0 translate-middle-y mt-3 me-8">
-									<img className="flickering" src="/assets/imgs/pricing-2/star.png" alt="infinia" />
+									<img className="flickering" src="/assets/imgs/pricing-2/star.png" alt="Solution Spire" />
 								</div>
 							</div>
 							<div className="col-lg-6">
@@ -326,23 +326,23 @@ export default function SectionPricing() {
 											</button>
 											<ul className="list-unstyled mb-0">
 												<li className="d-flex align-items-center mb-4">
-													<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+													<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 													<h6 className="fs-6 mb-0 ms-2">Single Team Member</h6>
 												</li>
 												<li className="d-flex align-items-center mb-4">
-													<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+													<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 													<h6 className="fs-6 mb-0 ms-2">Over 1200 UI Blocks</h6>
 												</li>
 												<li className="d-flex align-items-center mb-4">
-													<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+													<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 													<h6 className="fs-6 mb-0 ms-2">10 GB of Cloud Storage</h6>
 												</li>
 												<li className="d-flex align-items-center mb-4">
-													<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="infinia" />
+													<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="Solution Spire" />
 													<h6 className="fs-6 mb-0 ms-2 text-400">Personal Email Account</h6>
 												</li>
 												<li className="d-flex align-items-center">
-													<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="infinia" />
+													<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="Solution Spire" />
 													<h6 className="fs-6 mb-0 ms-2 text-400">Priority Support</h6>
 												</li>
 											</ul>
@@ -366,31 +366,31 @@ export default function SectionPricing() {
 											</button>
 											<ul className="list-unstyled mb-0">
 												<li className="d-flex align-items-center mb-4">
-													<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+													<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 													<h6 className="fs-6 mb-0 ms-2">05 Team Member</h6>
 												</li>
 												<li className="d-flex align-items-center mb-4">
-													<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+													<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 													<h6 className="fs-6 mb-0 ms-2">All multimedia channels</h6>
 												</li>
 												<li className="d-flex align-items-center mb-4">
-													<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+													<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 													<h6 className="fs-6 mb-0 ms-2">All advanced CRM features</h6>
 												</li>
 												<li className="d-flex align-items-center mb-4">
-													<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+													<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 													<h6 className="fs-6 mb-0 ms-2">Up to 15,000 contacts</h6>
 												</li>
 												<li className="d-flex align-items-center mb-4">
-													<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+													<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 													<h6 className="fs-6 mb-0 ms-2">100 GB Cloud Storage</h6>
 												</li>
 												<li className="d-flex align-items-center mb-4">
-													<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+													<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 													<h6 className="fs-6 mb-0 ms-2">Individual Email Account</h6>
 												</li>
 												<li className="d-flex align-items-center">
-													<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+													<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 													<h6 className="fs-6 mb-0 ms-2">Premium Support</h6>
 												</li>
 											</ul>
@@ -406,7 +406,7 @@ export default function SectionPricing() {
 					<div className="container position-relative z-2">
 						<div className="text-center mb-8">
 							<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Our Pricing</span>
 							</div>
 							<h3 className="ds-3 my-3 fw-bold">
@@ -441,23 +441,23 @@ export default function SectionPricing() {
 									</Link>
 									<ul className="list-unstyled mb-0">
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Single Team Member</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Over 1200 UI Blocks</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">10 GB of Cloud Storage</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2 text-400">Personal Email Account</h6>
 										</li>
 										<li className="d-flex align-items-center">
-											<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2 text-400">Priority Support</h6>
 										</li>
 									</ul>
@@ -466,7 +466,7 @@ export default function SectionPricing() {
 							<div className="col-lg-4 col-md-12 mb-lg-0 mb-4 px-lg-0">
 								<div className="p-8 bg-linear-2 position-relative border rounded-4 z-1 border-start-lg-0">
 									<div className="position-absolute top-0 end-0 z-0">
-										<img src="/assets/imgs/pricing-3/bg-line-1.png" alt="infinia" />
+										<img src="/assets/imgs/pricing-3/bg-line-1.png" alt="Solution Spire" />
 									</div>
 									<div className="position-relative z-1">
 										<h6 className="text-white">Standard</h6>
@@ -479,23 +479,23 @@ export default function SectionPricing() {
 										<p className="text-white opacity-50">No credit card required</p>
 										<ul className="list-unstyled mb-0 mt-3">
 											<li className="d-flex align-items-center mb-4">
-												<img src="/assets/imgs/pricing-3/check-white.svg" alt="infinia" />
+												<img src="/assets/imgs/pricing-3/check-white.svg" alt="Solution Spire" />
 												<h6 className="fs-6 mb-0 ms-2 text-white">05 Team Member</h6>
 											</li>
 											<li className="d-flex align-items-center mb-4">
-												<img src="/assets/imgs/pricing-3/check-white.svg" alt="infinia" />
+												<img src="/assets/imgs/pricing-3/check-white.svg" alt="Solution Spire" />
 												<h6 className="fs-6 mb-0 ms-2 text-white">All multimedia channels</h6>
 											</li>
 											<li className="d-flex align-items-center mb-4">
-												<img src="/assets/imgs/pricing-3/check-white.svg" alt="infinia" />
+												<img src="/assets/imgs/pricing-3/check-white.svg" alt="Solution Spire" />
 												<h6 className="fs-6 mb-0 ms-2 text-white">All advanced CRM features</h6>
 											</li>
 											<li className="d-flex align-items-center mb-4">
-												<img src="/assets/imgs/pricing-3/check-white.svg" alt="infinia" />
+												<img src="/assets/imgs/pricing-3/check-white.svg" alt="Solution Spire" />
 												<h6 className="fs-6 mb-0 ms-2 text-white">Up to 15,000 contacts</h6>
 											</li>
 											<li className="d-flex align-items-center">
-												<img src="/assets/imgs/pricing-3/check-white.svg" alt="infinia" />
+												<img src="/assets/imgs/pricing-3/check-white.svg" alt="Solution Spire" />
 												<h6 className="fs-6 mb-0 ms-2 text-white">24/7 Support (Email, Chat)</h6>
 											</li>
 										</ul>
@@ -526,23 +526,23 @@ export default function SectionPricing() {
 									</Link>
 									<ul className="list-unstyled mb-0">
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Customized features</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Scalability  security</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Account manager</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Unlimited chat history</h6>
 										</li>
 										<li className="d-flex align-items-center">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">50 Integrations</h6>
 										</li>
 									</ul>
@@ -563,7 +563,7 @@ export default function SectionPricing() {
 						</div>
 					</div>
 					<div className="position-absolute bottom-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/pricing-3/bg-line-2.png" alt="infinia" />
+						<img src="/assets/imgs/pricing-3/bg-line-2.png" alt="Solution Spire" />
 					</div>
 					<div className="rotate-center ellipse-rotate-success position-absolute top-50 z-1" />
 					<div className="rotate-center-rev ellipse-rotate-primary position-absolute top-50 z-1" />

@@ -23,7 +23,7 @@ export default function PageContact3() {
 							</div>
 						</div>
 					</div>
-					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="infinia" />
+					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="Solution Spire" />
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />
 						<div className="bouncing-blobs">
@@ -120,31 +120,31 @@ export default function PageContact3() {
 											<h6>Chat with us</h6>
 											<p className="text-500">The support team is always available 24/7</p>
 											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-1.svg" alt="infinia" />
+												<img src="/assets/imgs/contact-2/icon-1.svg" alt="Solution Spire" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Whatsapp</Link>
 											</div>
 											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-2.svg" alt="infinia" />
+												<img src="/assets/imgs/contact-2/icon-2.svg" alt="Solution Spire" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Viber</Link>
 											</div>
 											<div className="d-flex mb-2 mb-5">
-												<img src="/assets/imgs/contact-2/icon-3.svg" alt="infinia" />
+												<img src="/assets/imgs/contact-2/icon-3.svg" alt="Solution Spire" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Messager</Link>
 											</div>
 											<h6>Send us an email</h6>
 											<p className="text-500">Our team will respond promptly to your inquiries</p>
 											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-4.svg" alt="infinia" />
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@infinia.com</Link>
+												<img src="/assets/imgs/contact-2/icon-4.svg" alt="Solution Spire" />
+												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@Solution Spire.com</Link>
 											</div>
 											<div className="d-flex mb-2 mb-5">
-												<img src="/assets/imgs/contact-2/icon-4.svg" alt="infinia" />
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@infinia.com</Link>
+												<img src="/assets/imgs/contact-2/icon-4.svg" alt="Solution Spire" />
+												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@Solution Spire.com</Link>
 											</div>
 											<h6>For more inquiry</h6>
 											<p className="text-500">Reach out for immediate assistance</p>
 											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-5.svg" alt="infinia" />
+												<img src="/assets/imgs/contact-2/icon-5.svg" alt="Solution Spire" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">+01 (24) 568 900</Link>
 											</div>
 										</div>
@@ -162,7 +162,7 @@ export default function PageContact3() {
 								<div className="feature-item mb-5 mb-lg-0 pe-5 hover-up">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/contact-5/icon-1.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-5/icon-1.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h6>Help  support</h6>
@@ -177,7 +177,7 @@ export default function PageContact3() {
 								<div className="feature-item mb-5 mb-lg-0 pe-5 hover-up">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/contact-5/icon-2.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-5/icon-2.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h6>Call Us</h6>
@@ -192,7 +192,7 @@ export default function PageContact3() {
 								<div className="feature-item mb-5 mb-lg-0 pe-5 hover-up">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/contact-5/icon-3.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-5/icon-3.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h6>Business Department</h6>
@@ -206,7 +206,7 @@ export default function PageContact3() {
 								<div className="feature-item mb-5 mb-lg-0 pe-5 hover-up">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/contact-5/icon-4.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-5/icon-4.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h6>Global branch</h6>

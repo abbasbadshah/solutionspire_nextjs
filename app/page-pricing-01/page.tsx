@@ -90,7 +90,7 @@ export default function PagePricing01() {
 					<div className="container position-relative z-2">
 						<div className="text-center mb-8">
 							<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Our Pricing</span>
 							</div>
 							<h3 className="ds-3 my-3 fw-bold">
@@ -125,23 +125,23 @@ export default function PagePricing01() {
 									</Link>
 									<ul className="list-unstyled mb-0">
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Single Team Member</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Over 1200 UI Blocks</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">10 GB of Cloud Storage</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2 text-400">Personal Email Account</h6>
 										</li>
 										<li className="d-flex align-items-center">
-											<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2 text-400">Priority Support</h6>
 										</li>
 									</ul>
@@ -150,7 +150,7 @@ export default function PagePricing01() {
 							<div className="col-lg-4 col-md-12 mb-lg-0 mb-4 px-lg-0">
 								<div className="p-8 bg-linear-2 position-relative border rounded-4 z-1 border-start-lg-0">
 									<div className="position-absolute top-0 end-0 z-0">
-										<img src="/assets/imgs/pricing-3/bg-line-1.png" alt="infinia" />
+										<img src="/assets/imgs/pricing-3/bg-line-1.png" alt="Solution Spire" />
 									</div>
 									<div className="position-relative z-1">
 										<h6 className="text-white">Standard</h6>
@@ -163,23 +163,23 @@ export default function PagePricing01() {
 										<p className="text-white opacity-50">No credit card required</p>
 										<ul className="list-unstyled mb-0 mt-3">
 											<li className="d-flex align-items-center mb-4">
-												<img src="/assets/imgs/pricing-3/check-white.svg" alt="infinia" />
+												<img src="/assets/imgs/pricing-3/check-white.svg" alt="Solution Spire" />
 												<h6 className="fs-6 mb-0 ms-2 text-white">05 Team Member</h6>
 											</li>
 											<li className="d-flex align-items-center mb-4">
-												<img src="/assets/imgs/pricing-3/check-white.svg" alt="infinia" />
+												<img src="/assets/imgs/pricing-3/check-white.svg" alt="Solution Spire" />
 												<h6 className="fs-6 mb-0 ms-2 text-white">All multimedia channels</h6>
 											</li>
 											<li className="d-flex align-items-center mb-4">
-												<img src="/assets/imgs/pricing-3/check-white.svg" alt="infinia" />
+												<img src="/assets/imgs/pricing-3/check-white.svg" alt="Solution Spire" />
 												<h6 className="fs-6 mb-0 ms-2 text-white">All advanced CRM features</h6>
 											</li>
 											<li className="d-flex align-items-center mb-4">
-												<img src="/assets/imgs/pricing-3/check-white.svg" alt="infinia" />
+												<img src="/assets/imgs/pricing-3/check-white.svg" alt="Solution Spire" />
 												<h6 className="fs-6 mb-0 ms-2 text-white">Up to 15,000 contacts</h6>
 											</li>
 											<li className="d-flex align-items-center">
-												<img src="/assets/imgs/pricing-3/check-white.svg" alt="infinia" />
+												<img src="/assets/imgs/pricing-3/check-white.svg" alt="Solution Spire" />
 												<h6 className="fs-6 mb-0 ms-2 text-white">24/7 Support (Email, Chat)</h6>
 											</li>
 										</ul>
@@ -210,23 +210,23 @@ export default function PagePricing01() {
 									</Link>
 									<ul className="list-unstyled mb-0">
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Customized features</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Scalability  security</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Account manager</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Unlimited chat history</h6>
 										</li>
 										<li className="d-flex align-items-center">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">50 Integrations</h6>
 										</li>
 									</ul>
@@ -247,7 +247,7 @@ export default function PagePricing01() {
 						</div>
 					</div>
 					<div className="position-absolute bottom-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/pricing-3/bg-line-2.png" alt="infinia" />
+						<img src="/assets/imgs/pricing-3/bg-line-2.png" alt="Solution Spire" />
 					</div>
 					<div className="rotate-center ellipse-rotate-success position-absolute top-50 z-1" />
 					<div className="rotate-center-rev ellipse-rotate-primary position-absolute top-50 z-1" />
@@ -257,7 +257,7 @@ export default function PagePricing01() {
 					<div className="container position-relative z-1">
 						<div className="text-center mb-10">
 							<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Compare Plans</span>
 							</div>
 							<h3 className="ds-3 my-3 fw-black">Compare Features</h3>
@@ -514,7 +514,7 @@ export default function PagePricing01() {
 					<div className="container position-relative z-1">
 						<div className="text-center mb-8">
 							<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">working process</span>
 							</div>
 							<h3 className="ds-3 my-3 fw-black">How It Works</h3>
@@ -522,7 +522,7 @@ export default function PagePricing01() {
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/howitwork-2/img-bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/howitwork-2/img-bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="container">
 						<div className="row position-relative justify-content-center">
@@ -530,7 +530,7 @@ export default function PagePricing01() {
 								<div className="card-service-4 text-center mt-2">
 									<div className="bg-white icon-flip position-relative icon-shape icon-xxl rounded-3">
 										<div className="icon">
-											<img src="/assets/imgs/howitwork-2/icon-1.svg" alt="infinia" />
+											<img src="/assets/imgs/howitwork-2/icon-1.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h5 className="my-3">Choose Services</h5>
@@ -541,7 +541,7 @@ export default function PagePricing01() {
 								<div className="card-service-4 text-center mt-2">
 									<div className="bg-white icon-flip position-relative icon-shape icon-xxl rounded-3">
 										<div className="icon">
-											<img src="/assets/imgs/howitwork-2/icon-2.svg" alt="infinia" />
+											<img src="/assets/imgs/howitwork-2/icon-2.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h5 className="my-3">Project Analysis</h5>
@@ -552,7 +552,7 @@ export default function PagePricing01() {
 								<div className="card-service-4 text-center mt-2">
 									<div className="bg-white icon-flip position-relative icon-shape icon-xxl rounded-3">
 										<div className="icon">
-											<img src="/assets/imgs/howitwork-2/icon-3.svg" alt="infinia" />
+											<img src="/assets/imgs/howitwork-2/icon-3.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h5 className="my-3">Got Final Result</h5>
@@ -561,10 +561,10 @@ export default function PagePricing01() {
 							</div>
 						</div>
 						<div className="navigation-arrow-1 d-none d-lg-block position-absolute top-50">
-							<img src="/assets/imgs/howitwork-2/arrow-1.png" alt="infinia" />
+							<img src="/assets/imgs/howitwork-2/arrow-1.png" alt="Solution Spire" />
 						</div>
 						<div className="navigation-arrow-2 d-none d-lg-block position-absolute">
-							<img src="/assets/imgs/howitwork-2/arrow-2.png" alt="infinia" />
+							<img src="/assets/imgs/howitwork-2/arrow-2.png" alt="Solution Spire" />
 						</div>
 						<div className="row">
 							<div className="text-center mt-6">
@@ -586,24 +586,24 @@ export default function PagePricing01() {
 						<div className="row align-items-center">
 							<div className="col-lg-6">
 								<div className="text-start position-relative d-inline-block mb-lg-0 mb-5">
-									<img className="rounded-4" src=" assets/imgs/faqs-1/img-1.png" alt="infinia" />
+									<img className="rounded-4" src=" assets/imgs/faqs-1/img-1.png" alt="Solution Spire" />
 									<div className="px-0 card-team rounded-4 position-absolute bottom-0 start-0 end-0 z-1 backdrop-filter w-auto px-5 py-8 m-5">
 										<div className="d-flex flex-column flex-md-row align-items-start gap-3 mb-4" data-aos="fade-zoom-in" data-aos-delay={0}>
-											<img src="/assets/imgs/faqs-1/icon-1.png" alt="infinia" />
+											<img src="/assets/imgs/faqs-1/icon-1.png" alt="Solution Spire" />
 											<div>
 												<h6 className="m-0">Live chat support 24/7</h6>
 												<p className="m-0">More than 300 employees are ready to help you</p>
 											</div>
 										</div>
 										<div className="d-flex flex-column flex-md-row align-items-start gap-3 mb-4" data-aos="fade-zoom-in" data-aos-delay={100}>
-											<img src="/assets/imgs/faqs-1/icon-2.png" alt="infinia" />
+											<img src="/assets/imgs/faqs-1/icon-2.png" alt="Solution Spire" />
 											<div>
 												<h6 className="m-0">Help desk support center</h6>
 												<p className="m-0">Via ticket system. 24/7 available.</p>
 											</div>
 										</div>
 										<div className="d-flex flex-column flex-md-row align-items-start gap-3" data-aos="fade-zoom-in" data-aos-delay={200}>
-											<img src="/assets/imgs/faqs-1/icon-3.png" alt="infinia" />
+											<img src="/assets/imgs/faqs-1/icon-3.png" alt="Solution Spire" />
 											<div>
 												<h6 className="m-0">Book a demo</h6>
 												<p className="m-0">Live support via video call</p>
@@ -700,7 +700,7 @@ export default function PagePricing01() {
 							</div>
 						</div>
 					</div>
-					<img className="position-absolute top-0 end-0 z-0" src="/assets/imgs/faqs-1/img-bg-line.png" alt="infinia" />
+					<img className="position-absolute top-0 end-0 z-0" src="/assets/imgs/faqs-1/img-bg-line.png" alt="Solution Spire" />
 				</section>
 				{/*Testimonial 3*/}
 				<section className="section-testimonial-3 position-relative section-padding fix">
@@ -709,7 +709,7 @@ export default function PagePricing01() {
 							<div className="col-lg-7 mx-lg-auto">
 								<div className="text-center mb-lg-0 mb-5">
 									<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Testimonials</span>
 									</div>
 									<h5 className="ds-5 my-3 fw-regular">
@@ -734,22 +734,22 @@ export default function PagePricing01() {
 									<SwiperSlide className="swiper-slide">
 										<div className="bg-neutral-100 card-testimonial-3 p-5 rounded-3 position-relative">
 											<div className="d-flex align-items-center mb-5">
-												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-1.png" alt="infinia" />
+												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-1.png" alt="Solution Spire" />
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">John Anderson</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-1.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-1.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
 											</div>
 											<p className="text-900 border-bottom pb-4 mb-4">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 											<div className="d-flex">
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 												<span className="fs-8 text-600 ms-2">(For services and support)</span>
 											</div>
 											<div className="position-absolute top-0 end-0 m-4">
@@ -770,22 +770,22 @@ export default function PagePricing01() {
 									<SwiperSlide className="swiper-slide">
 										<div className="bg-neutral-100 card-testimonial-3 p-5 rounded-3 position-relative">
 											<div className="d-flex align-items-center mb-5">
-												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-3.png" alt="infinia" />
+												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-3.png" alt="Solution Spire" />
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Sarah Thompson</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-2.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-2.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
 											</div>
 											<p className="text-900 border-bottom pb-4 mb-4">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 											<div className="d-flex">
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 												<span className="fs-8 text-600 ms-2">(For services and support)</span>
 											</div>
 											<div className="position-absolute top-0 end-0 m-4">
@@ -806,22 +806,22 @@ export default function PagePricing01() {
 									<SwiperSlide className="swiper-slide">
 										<div className="bg-neutral-100 card-testimonial-3 p-5 rounded-3 position-relative">
 											<div className="d-flex align-items-center mb-5">
-												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-4.png" alt="infinia" />
+												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-4.png" alt="Solution Spire" />
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Emily Adams</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-3.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-3.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
 											</div>
 											<p className="text-900 border-bottom pb-4 mb-4">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 											<div className="d-flex">
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 												<span className="fs-8 text-600 ms-2">(For services and support)</span>
 											</div>
 											<div className="position-absolute top-0 end-0 m-4">
@@ -842,22 +842,22 @@ export default function PagePricing01() {
 									<SwiperSlide className="swiper-slide">
 										<div className="bg-neutral-100 card-testimonial-3 p-5 rounded-3 position-relative">
 											<div className="d-flex align-items-center mb-5">
-												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-2.png" alt="infinia" />
+												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-2.png" alt="Solution Spire" />
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Automated reports</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-4.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-4.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
 											</div>
 											<p className="text-900 border-bottom pb-4 mb-4">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 											<div className="d-flex">
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 												<span className="fs-8 text-600 ms-2">(For services and support)</span>
 											</div>
 											<div className="position-absolute top-0 end-0 m-4">
@@ -878,22 +878,22 @@ export default function PagePricing01() {
 									<SwiperSlide className="swiper-slide">
 										<div className="bg-neutral-100 card-testimonial-3 p-5 rounded-3 position-relative">
 											<div className="d-flex align-items-center mb-5">
-												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-1.png" alt="infinia" />
+												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-1.png" alt="Solution Spire" />
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Funnel optimization</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-1.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-1.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
 											</div>
 											<p className="text-900 border-bottom pb-4 mb-4">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 											<div className="d-flex">
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 												<span className="fs-8 text-600 ms-2">(For services and support)</span>
 											</div>
 											<div className="position-absolute top-0 end-0 m-4">
@@ -914,22 +914,22 @@ export default function PagePricing01() {
 									<SwiperSlide className="swiper-slide">
 										<div className="bg-neutral-100 card-testimonial-3 p-5 rounded-3 position-relative">
 											<div className="d-flex align-items-center mb-5">
-												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-3.png" alt="infinia" />
+												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-3.png" alt="Solution Spire" />
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Integrations</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-2.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-2.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
 											</div>
 											<p className="text-900 border-bottom pb-4 mb-4">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 											<div className="d-flex">
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 												<span className="fs-8 text-600 ms-2">(For services and support)</span>
 											</div>
 											<div className="position-absolute top-0 end-0 m-4">
@@ -954,7 +954,7 @@ export default function PagePricing01() {
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/service-2/bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/service-2/bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="rotate-center ellipse-rotate-success position-absolute z-0" />
 					<div className="rotate-center-rev ellipse-rotate-primary position-absolute z-1" />
@@ -966,31 +966,31 @@ export default function PagePricing01() {
 							<div className="col-lg-6 my-4">
 								<div className="row">
 									<div className="ms-lg-4">
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-1.png" alt="infinia" />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-2.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={50} />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3 d-none d-md-inline" src="/assets/imgs/newsletter-1/img-3.png" alt="infinia" />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-1.png" alt="Solution Spire" />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-2.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={50} />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3 d-none d-md-inline" src="/assets/imgs/newsletter-1/img-3.png" alt="Solution Spire" />
 									</div>
 								</div>
 								<div className="row">
 									<div>
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-4.png" alt="infinia" />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-5.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={100} />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-6.png" alt="infinia" />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-7.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={100} />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-4.png" alt="Solution Spire" />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-5.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={100} />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-6.png" alt="Solution Spire" />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-7.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={100} />
 									</div>
 								</div>
 								<div className="row d-none d-lg-flex">
 									<div className="me-lg-0">
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-8.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={50} />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-9.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={100} />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3 d-none d-md-inline" src="/assets/imgs/newsletter-1/img-10.png" alt="infinia" />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-8.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={50} />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-9.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={100} />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3 d-none d-md-inline" src="/assets/imgs/newsletter-1/img-10.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
 							<div className="col-lg-6 mt-lg-0 mt-5">
 								<div className="px-lg-5 text-lg-start text-center">
 									<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Stay Updated</span>
 									</div>
 									<h4 className="mt-3 mb-3" data-aos="fade-zoom-in" data-aos-delay={100}>Subscribe to our Newsletter!</h4>
@@ -1005,7 +1005,7 @@ export default function PagePricing01() {
 							</div>
 						</div>
 						<div className="position-absolute top-50 start-50 translate-middle z-0">
-							<img src="/assets/imgs/newsletter-1/bg-line.png" alt="infinia" />
+							<img src="/assets/imgs/newsletter-1/bg-line.png" alt="Solution Spire" />
 						</div>
 						<div className="bouncing-blobs-container rounded-4 fix">
 							<div className="bouncing-blobs-glass rounded-4" />

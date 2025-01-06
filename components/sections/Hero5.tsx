@@ -45,18 +45,18 @@ export default function Hero5() {
 										<div className="col-lg-6">
 											<div className="backdrop-filter p-8 position-relative rounded-3">
 												<div className="bg-white bg-opacity-50 border border-primary-soft d-inline-flex rounded-pill px-4 py-1">
-													<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Infinia</span>
+													<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Solution Spire</span>
 												</div>
 												<h3 className="ds-3 my-3">Best
 													<span className="fw-regular">
 														Solutions <br />
-														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="infinia" />
+														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="Solution Spire" />
 														for
 													</span>
 													Innovation
 												</h3>
 												<p className="fs-5 text-900">
-													Infinia offers full range of consultancy  training methods for business consultation.
+													Solution Spire offers full range of consultancy  training methods for business consultation.
 												</p>
 												<div className="d-flex flex-column flex-md-row align-items-center">
 													<Link href="#" className="btn btn-gradient rounded-4">
@@ -87,7 +87,7 @@ export default function Hero5() {
 									</div>
 								</div>
 								<div className="position-absolute top-0 start-0 z-0">
-									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="infinia" />
+									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="Solution Spire" />
 								</div>
 							</div>
 						</SwiperSlide>
@@ -98,18 +98,18 @@ export default function Hero5() {
 										<div className="col-lg-6">
 											<div className="backdrop-filter p-8 position-relative rounded-3">
 												<div className="bg-white bg-opacity-50 border border-primary-soft d-inline-flex rounded-pill px-4 py-1">
-													<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Infinia</span>
+													<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Solution Spire</span>
 												</div>
 												<h3 className="ds-3 my-3">Best
 													<span className="fw-regular">
 														Solutions <br />
-														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="infinia" />
+														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="Solution Spire" />
 														for
 													</span>
 													Innovation
 												</h3>
 												<p className="fs-5 text-900">
-													Infinia offers full range of consultancy  training methods for business consultation.
+													Solution Spire offers full range of consultancy  training methods for business consultation.
 												</p>
 												<div className="d-flex flex-column flex-md-row align-items-center">
 													<Link href="#" className="btn btn-gradient rounded-4">
@@ -141,7 +141,7 @@ export default function Hero5() {
 									</div>
 								</div>
 								<div className="position-absolute top-0 start-0 z-0">
-									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="infinia" />
+									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="Solution Spire" />
 								</div>
 							</div>
 						</SwiperSlide>
@@ -152,18 +152,18 @@ export default function Hero5() {
 										<div className="col-lg-6">
 											<div className="backdrop-filter p-8 position-relative rounded-3">
 												<div className="bg-white bg-opacity-50 border border-primary-soft d-inline-flex rounded-pill px-4 py-1">
-													<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Infinia</span>
+													<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Solution Spire</span>
 												</div>
 												<h3 className="ds-3 my-3">Best
 													<span className="fw-regular">
 														Solutions <br />
-														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="infinia" />
+														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="Solution Spire" />
 														for
 													</span>
 													Innovation
 												</h3>
 												<p className="fs-5 text-900">
-													Infinia offers full range of consultancy  training methods for business consultation.
+													Solution Spire offers full range of consultancy  training methods for business consultation.
 												</p>
 												<div className="d-flex flex-column flex-md-row align-items-center">
 													<Link href="#" className="btn btn-gradient rounded-4">
@@ -195,7 +195,7 @@ export default function Hero5() {
 									</div>
 								</div>
 								<div className="position-absolute top-0 start-0 z-0">
-									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="infinia" />
+									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="Solution Spire" />
 								</div>
 							</div>
 						</SwiperSlide>
@@ -206,18 +206,18 @@ export default function Hero5() {
 										<div className="col-lg-6">
 											<div className="backdrop-filter p-8 position-relative rounded-3">
 												<div className="bg-white bg-opacity-50 border border-primary-soft d-inline-flex rounded-pill px-4 py-1">
-													<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Infinia</span>
+													<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Solution Spire</span>
 												</div>
 												<h3 className="ds-3 my-3">Best
 													<span className="fw-regular">
 														Solutions <br />
-														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="infinia" />
+														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="Solution Spire" />
 														for
 													</span>
 													Innovation
 												</h3>
 												<p className="fs-5 text-900">
-													Infinia offers full range of consultancy  training methods for business consultation.
+													Solution Spire offers full range of consultancy  training methods for business consultation.
 												</p>
 												<div className="d-flex flex-column flex-md-row align-items-center">
 													<Link href="#" className="btn btn-gradient rounded-4">
@@ -249,7 +249,7 @@ export default function Hero5() {
 									</div>
 								</div>
 								<div className="position-absolute top-0 start-0 z-0">
-									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="infinia" />
+									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="Solution Spire" />
 								</div>
 							</div>
 						</SwiperSlide>
@@ -260,18 +260,18 @@ export default function Hero5() {
 										<div className="col-lg-6">
 											<div className="backdrop-filter p-8 position-relative rounded-3">
 												<div className="bg-white bg-opacity-50 border border-primary-soft d-inline-flex rounded-pill px-4 py-1">
-													<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Infinia</span>
+													<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Solution Spire</span>
 												</div>
 												<h3 className="ds-3 my-3">Best
 													<span className="fw-regular">
 														Solutions <br />
-														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="infinia" />
+														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="Solution Spire" />
 														for
 													</span>
 													Innovation
 												</h3>
 												<p className="fs-5 text-900">
-													Infinia offers full range of consultancy  training methods for business consultation.
+													Solution Spire offers full range of consultancy  training methods for business consultation.
 												</p>
 												<div className="d-flex flex-column flex-md-row align-items-center">
 													<Link href="#" className="btn btn-gradient rounded-4">
@@ -303,7 +303,7 @@ export default function Hero5() {
 									</div>
 								</div>
 								<div className="position-absolute top-0 start-0 z-0">
-									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="infinia" />
+									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="Solution Spire" />
 								</div>
 							</div>
 						</SwiperSlide>
@@ -314,18 +314,18 @@ export default function Hero5() {
 										<div className="col-lg-6">
 											<div className="backdrop-filter p-8 position-relative rounded-3">
 												<div className="bg-white bg-opacity-50 border border-primary-soft d-inline-flex rounded-pill px-4 py-1">
-													<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Infinia</span>
+													<span className="tag-spacing fs-6 text-primary">🚀 Welcome to Solution Spire</span>
 												</div>
 												<h3 className="ds-3 my-3">Best
 													<span className="fw-regular">
 														Solutions <br />
-														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="infinia" />
+														<img className="alltuchtopdown img-fluid filter-invert" src="/assets/imgs/hero-5/icon-1.svg" alt="Solution Spire" />
 														for
 													</span>
 													Innovation
 												</h3>
 												<p className="fs-5 text-900">
-													Infinia offers full range of consultancy  training methods for business consultation.
+													Solution Spire offers full range of consultancy  training methods for business consultation.
 												</p>
 												<div className="d-flex flex-column flex-md-row align-items-center">
 													<Link href="#" className="btn btn-gradient rounded-4">
@@ -357,7 +357,7 @@ export default function Hero5() {
 									</div>
 								</div>
 								<div className="position-absolute top-0 start-0 z-0">
-									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="infinia" />
+									<img src="/assets/imgs/hero-5/img-bg-line.png" alt="Solution Spire" />
 								</div>
 							</div>
 						</SwiperSlide>

@@ -50,18 +50,18 @@ export default function PagePrivacyPolicy() {
 					<div className="container">
 						<div className="text-center">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Privacy Policy</span>
 							</div>
-							<h3 className="ds-3 my-3">Infinia System Privacy Policy</h3>
+							<h3 className="ds-3 my-3">Solution Spire System Privacy Policy</h3>
 							<p className="fs-5">
-								At Infinia System, we value your privacy and are committed to protecting your personal information. This <br className="d-none d-lg-block" />
+								At Solution Spire System, we value your privacy and are committed to protecting your personal information. This <br className="d-none d-lg-block" />
 								Privacy Policy outlines how we collect, use, disclose, and safeguard your data when you use our services.
 							</p>
 						</div>
 						<div className="row pt-110">
 							<div className="col-lg-8 col-md-10 mx-md-auto">
-								<p>Infinia System ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our website, platform, and services (collectively, "Services"). Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the Services.</p>
+								<p>Solution Spire System ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our website, platform, and services (collectively, "Services"). Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the Services.</p>
 								<h5 className="mb-3 mt-4">Information We Collect</h5>
 								<p>We may collect personal information that you provide directly to us, including but not limited to:</p>
 								<ul>
@@ -88,7 +88,7 @@ export default function PagePrivacyPolicy() {
 									<li>Sending marketing and promotional communications (with your consent).</li>
 									<li>Complying with legal obligations and protecting our legal rights.</li>
 								</ul>
-								<p>Overall, Infinia System's commitment to enhancing user engagement through personalized experiences, optimized design, and proactive support transformed their user base and positioned them for continued growth and success.</p>
+								<p>Overall, Solution Spire System's commitment to enhancing user engagement through personalized experiences, optimized design, and proactive support transformed their user base and positioned them for continued growth and success.</p>
 								<h5 className="mb-3 mt-4">How We Share Your Information</h5>
 								<p>We may share your information in the following circumstances:</p>
 								<ul>
@@ -118,15 +118,15 @@ export default function PagePrivacyPolicy() {
 										<h6>Chat with us</h6>
 										<p className="text-500">The support team is always available 24/7</p>
 										<div className="d-flex mb-2">
-											<img src="/assets/imgs/contact-2/icon-1.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-2/icon-1.svg" alt="Solution Spire" />
 											<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Whatsapp</Link>
 										</div>
 										<div className="d-flex mb-2">
-											<img src="/assets/imgs/contact-2/icon-2.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-2/icon-2.svg" alt="Solution Spire" />
 											<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Viber</Link>
 										</div>
 										<div className="d-flex mb-2 mb-5">
-											<img src="/assets/imgs/contact-2/icon-3.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-2/icon-3.svg" alt="Solution Spire" />
 											<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Messager</Link>
 										</div>
 									</div>
@@ -134,12 +134,12 @@ export default function PagePrivacyPolicy() {
 										<h6>Send us an email</h6>
 										<p className="text-500">Our team will respond promptly to your inquiries</p>
 										<div className="d-flex mb-2">
-											<img src="/assets/imgs/contact-2/icon-4.svg" alt="infinia" />
-											<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@infinia.com</Link>
+											<img src="/assets/imgs/contact-2/icon-4.svg" alt="Solution Spire" />
+											<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@Solution Spire.com</Link>
 										</div>
 										<div className="d-flex mb-2 mb-5">
-											<img src="/assets/imgs/contact-2/icon-4.svg" alt="infinia" />
-											<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@infinia.com</Link>
+											<img src="/assets/imgs/contact-2/icon-4.svg" alt="Solution Spire" />
+											<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@Solution Spire.com</Link>
 										</div>
 									</div>
 								</div>
@@ -155,7 +155,7 @@ export default function PagePrivacyPolicy() {
 							<div className="col-lg-7 mx-lg-auto">
 								<div className="text-center mb-lg-0 mb-5">
 									<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Testimonials</span>
 									</div>
 									<h5 className="ds-5 my-3 fw-regular">
@@ -180,22 +180,22 @@ export default function PagePrivacyPolicy() {
 									<SwiperSlide className="swiper-slide">
 										<div className="bg-neutral-100 card-testimonial-3 p-5 rounded-3 position-relative">
 											<div className="d-flex align-items-center mb-5">
-												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-1.png" alt="infinia" />
+												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-1.png" alt="Solution Spire" />
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">John Anderson</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-1.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-1.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
 											</div>
 											<p className="text-900 border-bottom pb-4 mb-4">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 											<div className="d-flex">
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 												<span className="fs-8 text-600 ms-2">(For services and support)</span>
 											</div>
 											<div className="position-absolute top-0 end-0 m-4">
@@ -216,22 +216,22 @@ export default function PagePrivacyPolicy() {
 									<SwiperSlide className="swiper-slide">
 										<div className="bg-neutral-100 card-testimonial-3 p-5 rounded-3 position-relative">
 											<div className="d-flex align-items-center mb-5">
-												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-3.png" alt="infinia" />
+												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-3.png" alt="Solution Spire" />
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Sarah Thompson</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-2.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-2.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
 											</div>
 											<p className="text-900 border-bottom pb-4 mb-4">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 											<div className="d-flex">
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 												<span className="fs-8 text-600 ms-2">(For services and support)</span>
 											</div>
 											<div className="position-absolute top-0 end-0 m-4">
@@ -252,22 +252,22 @@ export default function PagePrivacyPolicy() {
 									<SwiperSlide className="swiper-slide">
 										<div className="bg-neutral-100 card-testimonial-3 p-5 rounded-3 position-relative">
 											<div className="d-flex align-items-center mb-5">
-												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-4.png" alt="infinia" />
+												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-4.png" alt="Solution Spire" />
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Emily Adams</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-3.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-3.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
 											</div>
 											<p className="text-900 border-bottom pb-4 mb-4">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 											<div className="d-flex">
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 												<span className="fs-8 text-600 ms-2">(For services and support)</span>
 											</div>
 											<div className="position-absolute top-0 end-0 m-4">
@@ -288,22 +288,22 @@ export default function PagePrivacyPolicy() {
 									<SwiperSlide className="swiper-slide">
 										<div className="bg-neutral-100 card-testimonial-3 p-5 rounded-3 position-relative">
 											<div className="d-flex align-items-center mb-5">
-												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-2.png" alt="infinia" />
+												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-2.png" alt="Solution Spire" />
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Automated reports</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-4.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-4.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
 											</div>
 											<p className="text-900 border-bottom pb-4 mb-4">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 											<div className="d-flex">
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 												<span className="fs-8 text-600 ms-2">(For services and support)</span>
 											</div>
 											<div className="position-absolute top-0 end-0 m-4">
@@ -324,22 +324,22 @@ export default function PagePrivacyPolicy() {
 									<SwiperSlide className="swiper-slide">
 										<div className="bg-neutral-100 card-testimonial-3 p-5 rounded-3 position-relative">
 											<div className="d-flex align-items-center mb-5">
-												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-1.png" alt="infinia" />
+												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-1.png" alt="Solution Spire" />
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Funnel optimization</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-1.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-1.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
 											</div>
 											<p className="text-900 border-bottom pb-4 mb-4">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 											<div className="d-flex">
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 												<span className="fs-8 text-600 ms-2">(For services and support)</span>
 											</div>
 											<div className="position-absolute top-0 end-0 m-4">
@@ -360,22 +360,22 @@ export default function PagePrivacyPolicy() {
 									<SwiperSlide className="swiper-slide">
 										<div className="bg-neutral-100 card-testimonial-3 p-5 rounded-3 position-relative">
 											<div className="d-flex align-items-center mb-5">
-												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-3.png" alt="infinia" />
+												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-3.png" alt="Solution Spire" />
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Integrations</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-2.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-2.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
 											</div>
 											<p className="text-900 border-bottom pb-4 mb-4">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 											<div className="d-flex">
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 												<span className="fs-8 text-600 ms-2">(For services and support)</span>
 											</div>
 											<div className="position-absolute top-0 end-0 m-4">
@@ -400,7 +400,7 @@ export default function PagePrivacyPolicy() {
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/service-2/bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/service-2/bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="rotate-center ellipse-rotate-success position-absolute z-0" />
 					<div className="rotate-center-rev ellipse-rotate-primary position-absolute z-1" />

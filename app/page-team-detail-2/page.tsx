@@ -27,7 +27,7 @@ export default function PageTeamDetail2() {
 							</div>
 						</div>
 					</div>
-					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="infinia" />
+					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="Solution Spire" />
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />
 						<div className="bouncing-blobs">
@@ -41,15 +41,15 @@ export default function PageTeamDetail2() {
 					<div className="container">
 						<div className="row">
 							<div className="col-lg-5">
-								<img src="/assets/imgs/team-detail-2/img-1.png" alt="infinia" />
+								<img src="/assets/imgs/team-detail-2/img-1.png" alt="Solution Spire" />
 							</div>
 							<div className="col-lg-7">
 								<div className="ps-lg-5 mt-lg-0 mt-5">
 									<h3>Daniel Martinez</h3>
 									<p className="fs-5 mb-4">Co-Founder</p>
-									<p className="fs-5 text-900 mb-4">"True innovation comes from a deep understanding of our clients' needs and a relentless pursuit of excellence. At Infinia, we are dedicated to transforming challenges into opportunities and creating lasting impact through our work."z</p>
-									<img src="/assets/imgs/team-detail-1/name-author.svg" alt="infinia" />
-									<p className="mb-4 mt-3">As Co-Founder of Infinia Agency, Daniel Martinez brings a wealth of knowledge, experience, and visionary leadership to the team. With a career spanning over two decades in the industry, <span className="fw-bold">Daniel</span> has been instrumental in driving the strategic direction and growth of Infinia. His passion for innovation and excellence is evident in every project and initiative he undertakes.</p>
+									<p className="fs-5 text-900 mb-4">"True innovation comes from a deep understanding of our clients' needs and a relentless pursuit of excellence. At Solution Spire, we are dedicated to transforming challenges into opportunities and creating lasting impact through our work."z</p>
+									<img src="/assets/imgs/team-detail-1/name-author.svg" alt="Solution Spire" />
+									<p className="mb-4 mt-3">As Co-Founder of Solution Spire Agency, Daniel Martinez brings a wealth of knowledge, experience, and visionary leadership to the team. With a career spanning over two decades in the industry, <span className="fw-bold">Daniel</span> has been instrumental in driving the strategic direction and growth of Solution Spire. His passion for innovation and excellence is evident in every project and initiative he undertakes.</p>
 									<div className="mt-5">
 										<p className="fw-bold text-900">Social network:</p>
 										<div className="d-flex social-icons">
@@ -70,7 +70,7 @@ export default function PageTeamDetail2() {
 										</div>
 									</div>
 									<h5 className="mb-3 mt-5">Educational Qualifications</h5>
-									<p>Daniel's strong educational foundation has equipped his with the strategic acumen and marketing expertise necessary to lead Infinia Agency to success.</p>
+									<p>Daniel's strong educational foundation has equipped his with the strategic acumen and marketing expertise necessary to lead Solution Spire Agency to success.</p>
 									<ul className="ps-3">
 										<li>
 											<p className="text-900 fw-bold">
@@ -166,7 +166,7 @@ export default function PageTeamDetail2() {
 								</div>
 								<div className="col-lg-6 px-lg-7">
 									<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Why choose us</span>
 									</div>
 									<h5 className="ds-5 mt-3 mb-5">Build a sustainable <br /> future for your company</h5>

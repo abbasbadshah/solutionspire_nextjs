@@ -45,7 +45,7 @@ export default function PageBookADemo() {
 					<div className="container">
 						<div className="text-center">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Get in Tourch</span>
 							</div>
 							<h3 className="ds-3 mt-3 mb-3">Contact Our Team</h3>
@@ -208,13 +208,13 @@ export default function PageBookADemo() {
 												<svg xmlns="http://www.w3.org/2000/svg" width={20} height={20} viewBox="0 0 20 20" fill="none">
 													<path d="M18.2422 2.96875H1.75781C0.786602 2.96875 0 3.76023 0 4.72656V15.2734C0 16.2455 0.792383 17.0312 1.75781 17.0312H18.2422C19.2053 17.0312 20 16.2488 20 15.2734V4.72656C20 3.76195 19.2165 2.96875 18.2422 2.96875ZM17.996 4.14062C17.6369 4.49785 11.4564 10.6458 11.243 10.8581C10.9109 11.1901 10.4695 11.3729 10 11.3729C9.53047 11.3729 9.08906 11.1901 8.75594 10.857C8.61242 10.7142 2.50012 4.63414 2.00398 4.14062H17.996ZM1.17188 15.0349V4.96582L6.23586 10.0031L1.17188 15.0349ZM2.00473 15.8594L7.06672 10.8296L7.9284 11.6867C8.48176 12.2401 9.21746 12.5448 10 12.5448C10.7825 12.5448 11.5182 12.2401 12.0705 11.6878L12.9333 10.8296L17.9953 15.8594H2.00473ZM18.8281 15.0349L13.7641 10.0031L18.8281 4.96582V15.0349Z" fill="#6B7280" />
 												</svg>
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@infinia.com</Link>
+												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@Solution Spire.com</Link>
 											</div>
 											<div className="d-flex mb-2 mb-5">
 												<svg xmlns="http://www.w3.org/2000/svg" width={20} height={20} viewBox="0 0 20 20" fill="none">
 													<path d="M18.2422 2.96875H1.75781C0.786602 2.96875 0 3.76023 0 4.72656V15.2734C0 16.2455 0.792383 17.0312 1.75781 17.0312H18.2422C19.2053 17.0312 20 16.2488 20 15.2734V4.72656C20 3.76195 19.2165 2.96875 18.2422 2.96875ZM17.996 4.14062C17.6369 4.49785 11.4564 10.6458 11.243 10.8581C10.9109 11.1901 10.4695 11.3729 10 11.3729C9.53047 11.3729 9.08906 11.1901 8.75594 10.857C8.61242 10.7142 2.50012 4.63414 2.00398 4.14062H17.996ZM1.17188 15.0349V4.96582L6.23586 10.0031L1.17188 15.0349ZM2.00473 15.8594L7.06672 10.8296L7.9284 11.6867C8.48176 12.2401 9.21746 12.5448 10 12.5448C10.7825 12.5448 11.5182 12.2401 12.0705 11.6878L12.9333 10.8296L17.9953 15.8594H2.00473ZM18.8281 15.0349L13.7641 10.0031L18.8281 4.96582V15.0349Z" fill="#6B7280" />
 												</svg>
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@infinia.com</Link>
+												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@Solution Spire.com</Link>
 											</div>
 											<h6>For more inquiry</h6>
 											<p className="text-500">Reach out for immediate assistance</p>
@@ -321,7 +321,7 @@ export default function PageBookADemo() {
 					<div className="container position-relative z-2">
 						<div className="text-center mb-8">
 							<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Our Pricing</span>
 							</div>
 							<h3 className="ds-3 my-3 fw-bold">
@@ -356,23 +356,23 @@ export default function PageBookADemo() {
 									</Link>
 									<ul className="list-unstyled mb-0">
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Single Team Member</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Over 1200 UI Blocks</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">10 GB of Cloud Storage</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2 text-400">Personal Email Account</h6>
 										</li>
 										<li className="d-flex align-items-center">
-											<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-secondary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2 text-400">Priority Support</h6>
 										</li>
 									</ul>
@@ -381,7 +381,7 @@ export default function PageBookADemo() {
 							<div className="col-lg-4 col-md-12 mb-lg-0 mb-4 px-lg-0">
 								<div className="p-8 bg-linear-2 position-relative border rounded-4 z-1 border-start-lg-0">
 									<div className="position-absolute top-0 end-0 z-0">
-										<img src="/assets/imgs/pricing-3/bg-line-1.png" alt="infinia" />
+										<img src="/assets/imgs/pricing-3/bg-line-1.png" alt="Solution Spire" />
 									</div>
 									<div className="position-relative z-1">
 										<h6 className="text-white">Standard</h6>
@@ -394,23 +394,23 @@ export default function PageBookADemo() {
 										<p className="text-white opacity-50">No credit card required</p>
 										<ul className="list-unstyled mb-0 mt-3">
 											<li className="d-flex align-items-center mb-4">
-												<img src="/assets/imgs/pricing-3/check-white.svg" alt="infinia" />
+												<img src="/assets/imgs/pricing-3/check-white.svg" alt="Solution Spire" />
 												<h6 className="fs-6 mb-0 ms-2 text-white">05 Team Member</h6>
 											</li>
 											<li className="d-flex align-items-center mb-4">
-												<img src="/assets/imgs/pricing-3/check-white.svg" alt="infinia" />
+												<img src="/assets/imgs/pricing-3/check-white.svg" alt="Solution Spire" />
 												<h6 className="fs-6 mb-0 ms-2 text-white">All multimedia channels</h6>
 											</li>
 											<li className="d-flex align-items-center mb-4">
-												<img src="/assets/imgs/pricing-3/check-white.svg" alt="infinia" />
+												<img src="/assets/imgs/pricing-3/check-white.svg" alt="Solution Spire" />
 												<h6 className="fs-6 mb-0 ms-2 text-white">All advanced CRM features</h6>
 											</li>
 											<li className="d-flex align-items-center mb-4">
-												<img src="/assets/imgs/pricing-3/check-white.svg" alt="infinia" />
+												<img src="/assets/imgs/pricing-3/check-white.svg" alt="Solution Spire" />
 												<h6 className="fs-6 mb-0 ms-2 text-white">Up to 15,000 contacts</h6>
 											</li>
 											<li className="d-flex align-items-center">
-												<img src="/assets/imgs/pricing-3/check-white.svg" alt="infinia" />
+												<img src="/assets/imgs/pricing-3/check-white.svg" alt="Solution Spire" />
 												<h6 className="fs-6 mb-0 ms-2 text-white">24/7 Support (Email, Chat)</h6>
 											</li>
 										</ul>
@@ -441,23 +441,23 @@ export default function PageBookADemo() {
 									</Link>
 									<ul className="list-unstyled mb-0">
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Customized features</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Scalability  security</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Account manager</h6>
 										</li>
 										<li className="d-flex align-items-center mb-4">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">Unlimited chat history</h6>
 										</li>
 										<li className="d-flex align-items-center">
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<h6 className="fs-6 mb-0 ms-2">50 Integrations</h6>
 										</li>
 									</ul>
@@ -478,7 +478,7 @@ export default function PageBookADemo() {
 						</div>
 					</div>
 					<div className="position-absolute bottom-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/pricing-3/bg-line-2.png" alt="infinia" />
+						<img src="/assets/imgs/pricing-3/bg-line-2.png" alt="Solution Spire" />
 					</div>
 					<div className="rotate-center ellipse-rotate-success position-absolute top-50 z-1" />
 					<div className="rotate-center-rev ellipse-rotate-primary position-absolute top-50 z-1" />

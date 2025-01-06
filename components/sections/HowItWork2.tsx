@@ -8,7 +8,7 @@ export default function HowItWork2() {
 				<div className="container position-relative z-1">
 					<div className="text-center mb-8">
 						<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-							<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+							<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 							<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">working process</span>
 						</div>
 						<h3 className="ds-3 my-3 fw-black">How It Works</h3>
@@ -16,7 +16,7 @@ export default function HowItWork2() {
 					</div>
 				</div>
 				<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-					<img src="/assets/imgs/howitwork-2/img-bg-line.png" alt="infinia" />
+					<img src="/assets/imgs/howitwork-2/img-bg-line.png" alt="Solution Spire" />
 				</div>
 				<div className="container">
 					<div className="row position-relative justify-content-center">
@@ -24,7 +24,7 @@ export default function HowItWork2() {
 							<div className="card-service-4 text-center mt-2">
 								<div className="bg-white icon-flip position-relative icon-shape icon-xxl rounded-3">
 									<div className="icon">
-										<img src="/assets/imgs/howitwork-2/icon-1.svg" alt="infinia" />
+										<img src="/assets/imgs/howitwork-2/icon-1.svg" alt="Solution Spire" />
 									</div>
 								</div>
 								<h5 className="my-3">Choose Services</h5>
@@ -35,7 +35,7 @@ export default function HowItWork2() {
 							<div className="card-service-4 text-center mt-2">
 								<div className="bg-white icon-flip position-relative icon-shape icon-xxl rounded-3">
 									<div className="icon">
-										<img src="/assets/imgs/howitwork-2/icon-2.svg" alt="infinia" />
+										<img src="/assets/imgs/howitwork-2/icon-2.svg" alt="Solution Spire" />
 									</div>
 								</div>
 								<h5 className="my-3">Project Analysis</h5>
@@ -46,7 +46,7 @@ export default function HowItWork2() {
 							<div className="card-service-4 text-center mt-2">
 								<div className="bg-white icon-flip position-relative icon-shape icon-xxl rounded-3">
 									<div className="icon">
-										<img src="/assets/imgs/howitwork-2/icon-3.svg" alt="infinia" />
+										<img src="/assets/imgs/howitwork-2/icon-3.svg" alt="Solution Spire" />
 									</div>
 								</div>
 								<h5 className="my-3">Got Final Result</h5>
@@ -55,10 +55,10 @@ export default function HowItWork2() {
 						</div>
 					</div>
 					<div className="navigation-arrow-1 d-none d-lg-block position-absolute top-50">
-						<img src="/assets/imgs/howitwork-2/arrow-1.png" alt="infinia" />
+						<img src="/assets/imgs/howitwork-2/arrow-1.png" alt="Solution Spire" />
 					</div>
 					<div className="navigation-arrow-2 d-none d-lg-block position-absolute">
-						<img src="/assets/imgs/howitwork-2/arrow-2.png" alt="infinia" />
+						<img src="/assets/imgs/howitwork-2/arrow-2.png" alt="Solution Spire" />
 					</div>
 					<div className="row">
 						<div className="text-center mt-6">

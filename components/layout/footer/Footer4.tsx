@@ -42,7 +42,7 @@ export default function Footer4() {
 						<div className="container position-relative z-2">
 							<div className="row py-90">
 								<div className="col-lg-4 pe-10">
-									<Link href="/"><img src="assets/imgs/logo/logo-white.svg" alt="infinia" /></Link>
+									<Link href="/"><img src="assets/imgs/logo/logo-white.svg" alt="Solution Spire" /></Link>
 									<p className="text-white fw-medium mt-3 mb-6 opacity-50">You may also realize cost savings from your energy efficient choices in your custom home. Federal tax credits for some green materials can allow you to deduct as much.</p>
 									<div className="d-flex social-icons">
 										<Link href="/https://www.facebook.com/" className=" text-white border border-end-0 border-light border-opacity-10 icon-shape icon-md">
@@ -109,7 +109,7 @@ export default function Footer4() {
 								</div>
 							</div>
 							<div className="row text-center py-4 border-top border-white border-opacity-10">
-								<span className="text-white opacity-50">Copyright © 2024 Infinia. All Rights Reserved</span>
+								<span className="text-white opacity-50">Copyright © 2024 Solution Spire. All Rights Reserved</span>
 							</div>
 						</div>
 					</div>

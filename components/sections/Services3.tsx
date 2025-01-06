@@ -45,7 +45,7 @@ export default function Services3() {
 				<div className="container position-relative z-2">
 					<div className="text-center">
 						<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-							<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+							<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 							<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">What we offers</span>
 						</div>
 						<h3 className="ds-3 my-3 fw-regular">The Leading <span className=" fw-bold">IT Solutions <br className="d-lg-block d-none" /> Company</span> For You</h3>
@@ -60,7 +60,7 @@ export default function Services3() {
 									<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 											<div className="icon">
-												<img src="/assets/imgs/service-3/icon-1.svg" alt="infinia" />
+												<img src="/assets/imgs/service-3/icon-1.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<h5 className="my-3">IT Consulting</h5>
@@ -86,7 +86,7 @@ export default function Services3() {
 									<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 											<div className="icon">
-												<img src="/assets/imgs/service-3/icon-2.svg" alt="infinia" />
+												<img src="/assets/imgs/service-3/icon-2.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<h5 className="my-3">Network Design</h5>
@@ -112,7 +112,7 @@ export default function Services3() {
 									<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 											<div className="icon">
-												<img src="/assets/imgs/service-3/icon-3.svg" alt="infinia" />
+												<img src="/assets/imgs/service-3/icon-3.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<h5 className="my-3">Software Dev</h5>
@@ -138,7 +138,7 @@ export default function Services3() {
 									<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 											<div className="icon">
-												<img src="/assets/imgs/service-3/icon-4.svg" alt="infinia" />
+												<img src="/assets/imgs/service-3/icon-4.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<h5 className="my-3">IT Training</h5>
@@ -164,7 +164,7 @@ export default function Services3() {
 									<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 											<div className="icon">
-												<img src="/assets/imgs/service-3/icon-1.svg" alt="infinia" />
+												<img src="/assets/imgs/service-3/icon-1.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<h5 className="my-3">IT Consulting</h5>
@@ -190,7 +190,7 @@ export default function Services3() {
 									<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 											<div className="icon">
-												<img src="/assets/imgs/service-3/icon-2.svg" alt="infinia" />
+												<img src="/assets/imgs/service-3/icon-2.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<h5 className="my-3">Network Design</h5>
@@ -216,7 +216,7 @@ export default function Services3() {
 									<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 											<div className="icon">
-												<img src="/assets/imgs/service-3/icon-3.svg" alt="infinia" />
+												<img src="/assets/imgs/service-3/icon-3.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<h5 className="my-3">Software Dev</h5>
@@ -242,7 +242,7 @@ export default function Services3() {
 									<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 											<div className="icon">
-												<img src="/assets/imgs/service-3/icon-4.svg" alt="infinia" />
+												<img src="/assets/imgs/service-3/icon-4.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<h5 className="my-3">IT Training</h5>

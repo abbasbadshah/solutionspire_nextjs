@@ -15,7 +15,7 @@ export default function PageTeam5() {
 						<div className="row position-relative z-1">
 							<div className="text-center">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">OUR TEAM MEMBERS</span>
 								</div>
 								<h3 className="ds-3 my-3 fw-regular text-capitalize">Meet <span className="fw-bold">everyone</span> who <br className="d-none d-md-inline" /> made this <span className="fw-bold">possible.</span> </h3>
@@ -27,7 +27,7 @@ export default function PageTeam5() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-primary-soft rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-1.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-1.png" alt="Solution Spire" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -48,7 +48,7 @@ export default function PageTeam5() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-3 rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-2.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-2.png" alt="Solution Spire" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -69,7 +69,7 @@ export default function PageTeam5() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-4 rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-3.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-3.png" alt="Solution Spire" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -90,7 +90,7 @@ export default function PageTeam5() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-neutral-100 rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-4.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-4.png" alt="Solution Spire" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -111,7 +111,7 @@ export default function PageTeam5() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-5 rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-5.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-5.png" alt="Solution Spire" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -132,7 +132,7 @@ export default function PageTeam5() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-4 rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-6.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-6.png" alt="Solution Spire" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -153,7 +153,7 @@ export default function PageTeam5() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-primary-soft rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-7.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-7.png" alt="Solution Spire" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -174,7 +174,7 @@ export default function PageTeam5() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-3 rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-8.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-8.png" alt="Solution Spire" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -198,7 +198,7 @@ export default function PageTeam5() {
 								<div className="text-center">
 									<img src="/assets/imgs/team-5/icon-sm.svg" alt="" />
 									<h5 className="my-3">We are seeking skilled individuals.</h5>
-									<p className="text-500 mb-8">Infinia is experiencing rapid growth, and we are continually seeking passionate, dynamic, <br className="d-none d-md-inline" /> and talented individuals to join our distributed team across the globe.</p>
+									<p className="text-500 mb-8">Solution Spire is experiencing rapid growth, and we are continually seeking passionate, dynamic, <br className="d-none d-md-inline" /> and talented individuals to join our distributed team across the globe.</p>
 									<Link href="#" className="btn btn-gradient">
 										Become Our Member
 										<svg className="ms-2" xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -224,31 +224,31 @@ export default function PageTeam5() {
 							<div className="col-lg-6 my-4">
 								<div className="row">
 									<div className="ms-lg-4">
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-1.png" alt="infinia" />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-2.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={50} />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3 d-none d-md-inline" src="/assets/imgs/newsletter-1/img-3.png" alt="infinia" />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-1.png" alt="Solution Spire" />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-2.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={50} />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3 d-none d-md-inline" src="/assets/imgs/newsletter-1/img-3.png" alt="Solution Spire" />
 									</div>
 								</div>
 								<div className="row">
 									<div>
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-4.png" alt="infinia" />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-5.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={100} />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-6.png" alt="infinia" />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-7.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={100} />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-4.png" alt="Solution Spire" />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-5.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={100} />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-6.png" alt="Solution Spire" />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-7.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={100} />
 									</div>
 								</div>
 								<div className="row d-none d-lg-flex">
 									<div className="me-lg-0">
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-8.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={50} />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-9.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={100} />
-										<img className="rounded-4 border border-3 border-white me-3 mb-3 d-none d-md-inline" src="/assets/imgs/newsletter-1/img-10.png" alt="infinia" />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-8.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={50} />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3" src="/assets/imgs/newsletter-1/img-9.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={100} />
+										<img className="rounded-4 border border-3 border-white me-3 mb-3 d-none d-md-inline" src="/assets/imgs/newsletter-1/img-10.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
 							<div className="col-lg-6 mt-lg-0 mt-5">
 								<div className="px-lg-5 text-lg-start text-center">
 									<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Stay Updated</span>
 									</div>
 									<h4 className="mt-3 mb-3" data-aos="fade-zoom-in" data-aos-delay={100}>Subscribe to our Newsletter!</h4>
@@ -263,7 +263,7 @@ export default function PageTeam5() {
 							</div>
 						</div>
 						<div className="position-absolute top-50 start-50 translate-middle z-0">
-							<img src="/assets/imgs/newsletter-1/bg-line.png" alt="infinia" />
+							<img src="/assets/imgs/newsletter-1/bg-line.png" alt="Solution Spire" />
 						</div>
 						<div className="bouncing-blobs-container rounded-4 fix">
 							<div className="bouncing-blobs-glass rounded-4" />

@@ -16,8 +16,8 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
 				<div className="mobile-header-wrapper-inner">
 					<div className="mobile-header-logo">
 						<Link className="navbar-brand d-flex main-logo align-items-center" href="/">
-							<img src="/assets/imgs/template/favicon.svg" alt="infinia" />
-							<span>Infinia</span>
+							<img src="/assets/imgs/template/favicon.svg" alt="Solution Spire" />
+							<span>Solution Spire</span>
 						</Link>
 						<div className={`burger-icon burger-icon-white border rounded-3 ${isMobileMenu ? 'burger-close' : ''}`} onClick={handleMobileMenu}>
 							<span className="burger-icon-top" />

@@ -44,7 +44,7 @@ export default function SectionCta() {
 							</div>
 						</div>
 					</div>
-					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="infinia" />
+					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="Solution Spire" />
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />
 						<div className="bouncing-blobs">
@@ -60,7 +60,7 @@ export default function SectionCta() {
 							<div className="col-lg-6">
 								<div className="text-start mb-lg-0 mb-5">
 									<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Download Mobile App</span>
 									</div>
 									<h3 className="ds-3 my-3">
@@ -70,34 +70,34 @@ export default function SectionCta() {
 									<p className="fs-5 mb-0">⚡Don't miss any contact. Stay connected.</p>
 									<ul className="list-unstyled my-6">
 										<li className="d-flex align-items-center mb-2" data-aos="fade-up" data-aos-delay={0}>
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<span className="mb-0 ms-2 fs-5 fw-bold">Beautiful and awesome interface</span>
 										</li>
 										<li className="d-flex align-items-center mb-2" data-aos="fade-up" data-aos-delay={100}>
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<span className="mb-0 ms-2 fs-5 fw-bold">Online collaborative anytime, anywhere.</span>
 										</li>
 										<li className="d-flex align-items-center mb-2" data-aos="fade-up" data-aos-delay={200}>
-											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="infinia" />
+											<img src="/assets/imgs/pricing-1/check-primary.svg" alt="Solution Spire" />
 											<span className="mb-0 ms-2 fs-5 fw-bold">Real-time updates</span>
 										</li>
 									</ul>
 									<div className="d-flex align-items-center mb-8 gap-2">
 										<Link href="#">
-											<img src="/assets/imgs/cta-1/app-1.png" alt="infinia" />
+											<img src="/assets/imgs/cta-1/app-1.png" alt="Solution Spire" />
 										</Link>
 										<Link href="#">
-											<img src="/assets/imgs/cta-1/app-2.png" alt="infinia" />
+											<img src="/assets/imgs/cta-1/app-2.png" alt="Solution Spire" />
 										</Link>
 										<Link href="#">
-											<img src="/assets/imgs/cta-1/app-3.png" alt="infinia" />
+											<img src="/assets/imgs/cta-1/app-3.png" alt="Solution Spire" />
 										</Link>
 									</div>
 									<div className="d-flex align-items-center">
 										<div className="d-flex">
-											<img src="/assets/imgs/hero-1/avatar-1.png" alt="infinia" />
-											<img className="avt-hero" src="/assets/imgs/hero-1/avatar-2.png" alt="infinia" />
-											<img className="avt-hero" src=" assets/imgs/hero-1/avatar-3.png" alt="infinia" />
+											<img src="/assets/imgs/hero-1/avatar-1.png" alt="Solution Spire" />
+											<img className="avt-hero" src="/assets/imgs/hero-1/avatar-2.png" alt="Solution Spire" />
+											<img className="avt-hero" src=" assets/imgs/hero-1/avatar-3.png" alt="Solution Spire" />
 										</div>
 										<div>
 											<p className="text-900 mb-0 fs-8 fw-bold">Trusted by 1M+ customers</p>
@@ -107,7 +107,7 @@ export default function SectionCta() {
 								</div>
 							</div>
 							<div className="col-lg-6 text-lg-end text-center">
-								<img src="/assets/imgs/cta-1/img-1.png" alt="infinia" />
+								<img src="/assets/imgs/cta-1/img-1.png" alt="Solution Spire" />
 							</div>
 						</div>
 					</div>
@@ -124,7 +124,7 @@ export default function SectionCta() {
 					<div className="container">
 						<div className="text-center mb-8">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Why We Are The Best</span>
 							</div>
 							<h3 className="ds-3 my-3 fw-regular">We provide <span className=" fw-bold">solutions</span> to <br className="d-lg-block d-none" /> <span className=" fw-bold">big  small</span> organizations</h3>
@@ -132,7 +132,7 @@ export default function SectionCta() {
 						<div className="row">
 							<div className="col-lg-5 pe-lg-0">
 								<div className="bg-linear-1 text-center rounded-4 position-relative">
-									<img className="rounded-4 border border-2 border-white mb-10 mt-5" src="/assets/imgs/cta-2/img-1.png" alt="infinia" />
+									<img className="rounded-4 border border-2 border-white mb-10 mt-5" src="/assets/imgs/cta-2/img-1.png" alt="Solution Spire" />
 									<div className="position-absolute bottom-0 left-0 mb-3 w-100">
 										<Link href="#" onClick={() => setOpen(true)} scroll={false} className="d-inline-flex align-items-center rounded-4 text-nowrap backdrop-filter px-3 py-2 popup-video hover-up me-3 shadow-1">
 											<span className="backdrop-filter me-2 icon-shape icon-md rounded-circle">
@@ -147,10 +147,10 @@ export default function SectionCta() {
 
 									</div>
 									<div className="position-absolute top-0 end-0">
-										<img className="flickering" src="/assets/imgs/cta-2/star-2.png" alt="infinia" />
+										<img className="flickering" src="/assets/imgs/cta-2/star-2.png" alt="Solution Spire" />
 									</div>
 									<div className="position-absolute bottom-0 start-0">
-										<img className="alltuchtopdown" src="/assets/imgs/cta-2/star-1.png" alt="infinia" />
+										<img className="alltuchtopdown" src="/assets/imgs/cta-2/star-1.png" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
@@ -160,21 +160,21 @@ export default function SectionCta() {
 								<div className="d-md-flex align-items-center mt-4 mb-5">
 									<ul className="list-unstyled phase-items mb-0">
 										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+											<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 											<span className="ms-2 text-900 fw-medium fs-6">Best For IT Consulting</span>
 										</li>
 										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+											<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 											<span className="ms-2 text-900 fw-medium fs-6">Save Money  Time</span>
 										</li>
 									</ul>
 									<ul className="list-unstyled phase-items ms-md-5 mb-0">
 										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+											<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 											<span className="ms-2 text-900 fw-medium fs-6">Innovative Approaches</span>
 										</li>
 										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+											<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 											<span className="ms-2 text-900 fw-medium fs-6">100% Satisfaction</span>
 										</li>
 									</ul>
@@ -182,10 +182,10 @@ export default function SectionCta() {
 								<div className="row position-relative mt-5 mt-md-0">
 									<div className="col-md-6 d-flex align-items-center">
 										<div className="rounded-circle">
-											<img className="rounded-circle border border-5 border-primary-light" src=" assets/imgs/cta-2/avatar-1.png" alt="infinia" />
+											<img className="rounded-circle border border-5 border-primary-light" src=" assets/imgs/cta-2/avatar-1.png" alt="Solution Spire" />
 										</div>
 										<div className="ms-3">
-											<img className="filter-invert" src="/assets/imgs/cta-2/name-ad.svg" alt="infinia" />
+											<img className="filter-invert" src="/assets/imgs/cta-2/name-ad.svg" alt="Solution Spire" />
 											<h6 className="mt-1">Kensei <span className="text-500 fs-6">, CEO</span></h6>
 										</div>
 									</div>
@@ -218,7 +218,7 @@ export default function SectionCta() {
 											in Financial Services
 										</h3>
 										<Link href="/page-contact-1" className="d-flex align-items-center mt-8 mb-9">
-											<img src="/assets/imgs/cta-3/icon-contact.svg" alt="infinia" />
+											<img src="/assets/imgs/cta-3/icon-contact.svg" alt="Solution Spire" />
 											<span className="ms-3">
 												<span className="text-white mb-0 fs-4">Contact Us</span>
 												<span className="text-white fs-4 d-block">+01 (24) 568 900</span>
@@ -243,7 +243,7 @@ export default function SectionCta() {
 							<div className="col-lg-6 text-center">
 								<div className="text-center rounded-4 position-relative d-inline-flex">
 									<div className="zoom-img rounded-4 position-relative z-1">
-										<img className="rounded-4" src="/assets/imgs/cta-4/img-1.png" alt="infinia" />
+										<img className="rounded-4" src="/assets/imgs/cta-4/img-1.png" alt="Solution Spire" />
 										<div className="position-absolute top-50 start-50 translate-middle z-2">
 											<Link href="#" onClick={() => setOpen(true)} scroll={false} className="d-inline-flex align-items-center rounded-4 text-nowrap backdrop-filter px-3 py-2 popup-video hover-up me-3 shadow-1">
 												<span className="backdrop-filter me-2 icon-shape icon-md rounded-circle">
@@ -259,7 +259,7 @@ export default function SectionCta() {
 										</div>
 									</div>
 									<div className="position-absolute top-100 start-0 translate-middle z-0 pt-5">
-										<img className="alltuchtopdown" src="/assets/imgs/cta-4/vector.svg" alt="infinia" />
+										<img className="alltuchtopdown" src="/assets/imgs/cta-4/vector.svg" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
@@ -271,21 +271,21 @@ export default function SectionCta() {
 								<div className="d-md-flex align-items-center mt-4 mb-5">
 									<ul className="list-unstyled phase-items mb-0">
 										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+											<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 											<span className="ms-2 text-900">Creative Ideas</span>
 										</li>
 										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+											<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 											<span className="ms-2 text-900">Web Development</span>
 										</li>
 									</ul>
 									<ul className="list-unstyled phase-items ms-md-5 mb-0">
 										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+											<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 											<span className="ms-2 text-900">Digital Marketing</span>
 										</li>
 										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+											<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 											<span className="ms-2 text-900">App Development</span>
 										</li>
 									</ul>
@@ -313,13 +313,13 @@ export default function SectionCta() {
 							<div className="row align-items-center">
 								<div className="col-lg-6 text-lg-start text-center">
 									<div className="position-relative z-1 d-inline-block mb-lg-0 mb-8">
-										<img className="rounded-4 position-relative z-1" src="/assets/imgs/cta-5/img-1.png" alt="infinia" />
+										<img className="rounded-4 position-relative z-1" src="/assets/imgs/cta-5/img-1.png" alt="Solution Spire" />
 										<div className="position-absolute bottom-0 start-md-100 start-0 translate-middle-md-x mb-md-8 backdrop-filter rounded-4 px-7 py-4 text-center z-1">
 											<p className="pt-2">Loved by over 4k <br /> happy clients</p>
 											<div className="d-flex align-items-center justify-content-center py-4">
-												<img src="/assets/imgs/features-3/avatar-1.png" alt="infinia" />
-												<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="infinia" />
-												<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="infinia" />
+												<img src="/assets/imgs/features-3/avatar-1.png" alt="Solution Spire" />
+												<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="Solution Spire" />
+												<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="Solution Spire" />
 											</div>
 											<div className="d-flex align-items-center justify-content-center">
 												<svg xmlns="http://www.w3.org/2000/svg" width={26} height={26} viewBox="0 0 26 26" fill="none">
@@ -340,7 +340,7 @@ export default function SectionCta() {
 											</div>
 										</div>
 										<div className="position-absolute top-0 start-0 translate-middle z-0 pt-5">
-											<img className="alltuchtopdown" src="/assets/imgs/cta-4/vector.svg" alt="infinia" />
+											<img className="alltuchtopdown" src="/assets/imgs/cta-4/vector.svg" alt="Solution Spire" />
 										</div>
 									</div>
 								</div>
@@ -451,13 +451,13 @@ export default function SectionCta() {
 						<div className="row">
 							<div className="col-lg-6 pe-lg-0">
 								<div className="zoom-img rounded-end-lg-0 rounded-4">
-									<img className="rounded-end-lg-0 rounded-4" src="/assets/imgs/cta-6/img-1.png" alt="infinia" />
+									<img className="rounded-end-lg-0 rounded-4" src="/assets/imgs/cta-6/img-1.png" alt="Solution Spire" />
 								</div>
 							</div>
 							<div className="col-12 col-lg-6 ps-lg-0 align-self-stretch">
 								<div className="bg-white p-md-8 p-5 rounded-start-lg-0 h-100 rounded-4 mt-lg-0 mt-5 border border-start-lg-0 shadow-1">
 									<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill mb-2 px-4 py-2">
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">What we offers</span>
 									</div>
 									<h1 className="fs-1">Looking to speak with a marketing specialist?</h1>
@@ -488,7 +488,7 @@ export default function SectionCta() {
 								<div className="row align-items-center">
 									<div className="col-lg-6 text-lg-start text-center">
 										<div className="position-relative z-1 d-inline-block mb-lg-0 mb-8">
-											<img className="rounded-4 position-relative z-1" src="/assets/imgs/cta-7/img-1.png" alt="infinia" />
+											<img className="rounded-4 position-relative z-1" src="/assets/imgs/cta-7/img-1.png" alt="Solution Spire" />
 											<div className="alltuchtopdown position-absolute top-50 start-50 ms-md-10 mt-md-10 backdrop-filter bg-primary rounded-4 px-6 py-4 text-center z-1">
 												<span className="h2 count fw-black mb-0 lh-1 text-white text-nowrap">+<span className="odometer" /><CountUp end={23} enableScrollSpy={true} />k</span>
 												<p className="text-white text-nowrap border-bottom border-opacity-50 border-white pb-3 mb-3">Projects Completed</p>
@@ -516,25 +516,25 @@ export default function SectionCta() {
 										<div className="tab-content" id="nav-tabContent">
 
 											<div className={`${isTab == 1 ? "tab-pane fade show active" : "tab-pane fade"}`} role="tabpanel" >
-												<p className="text-900 mb-3">Founded in 1998, <span className="fw-black">Infinia</span> started as a small consulting firm with a big vision: to provide unparalleled strategic and operational expertise to businesses of all sizes.</p>
+												<p className="text-900 mb-3">Founded in 1998, <span className="fw-black">Solution Spire</span> started as a small consulting firm with a big vision: to provide unparalleled strategic and operational expertise to businesses of all sizes.</p>
 												<div className="row">
 													<div className="col-12 col-md-6 mb-3 mb-md-0">
 														<p className="text-900">Over the years, we have expanded our services and grown our team of skilled professionals, building a reputation for delivering results-driven solutions. From our humble beginnings to becoming a trusted partner for clients across diverse industries</p>
 														<ul className="list-unstyled phase-items mb-0">
 															<li className="d-flex align-items-center mt-3">
-																<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+																<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 																<p className="ms-2 mb-0 text-900 fs-6">Best For IT Consulting</p>
 															</li>
 															<li className="d-flex align-items-center mt-3">
-																<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+																<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 																<p className="ms-2 mb-0 text-900 fs-6">Tailored Solutions</p>
 															</li>
 															<li className="d-flex align-items-center mt-3">
-																<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+																<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 																<p className="ms-2 mb-0 text-900 fs-6">Save Money  Time</p>
 															</li>
 															<li className="d-flex align-items-center mt-3">
-																<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+																<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 																<p className="ms-2 mb-0 text-900 fs-6">Expert Team</p>
 															</li>
 														</ul>
@@ -543,7 +543,7 @@ export default function SectionCta() {
 														<img className="rounded-3" src="/assets/imgs/cta-7/img-2.png" alt="" />
 														<Link href="#" className="position-md-absolute d-block translate-middle-md  w-50 start-0 ms-md-0 ms-10 mt-3 mt-md-0 p-3 rounded-3 bg-linear-1">
 															<span className="rounded-circle">
-																<img className="rounded-circle border border-5 border-primary-light" src=" assets/imgs/cta-2/avatar-1.png" alt="infinia" />
+																<img className="rounded-circle border border-5 border-primary-light" src=" assets/imgs/cta-2/avatar-1.png" alt="Solution Spire" />
 															</span>
 															<h6 className="mt-1">Kensei <span className="text-500 fs-6">, CEO</span></h6>
 														</Link>
@@ -567,25 +567,25 @@ export default function SectionCta() {
 												</div>
 											</div>
 											<div className={`${isTab == 3 ? "tab-pane fade show active" : "tab-pane fade"}`} role="tabpanel">
-												<p className="text-900 mb-4">At Infinia, our vision is to empower businesses to reach their full potential through innovative strategies and expert operational support. </p>
+												<p className="text-900 mb-4">At Solution Spire, our vision is to empower businesses to reach their full potential through innovative strategies and expert operational support. </p>
 												<div className="row">
 													<div className="col-12 col-md-6">
 														<p className="text-900">We strive to be the leading consulting firm known for our unwavering commitment to excellence, integrity, and client success. By continuously evolving and adapting to the ever-changing business landscape, we aim to provide solutions that not only meet the needs of today but also anticipate the challenges of tomorrow.</p>
 														<ul className="list-unstyled phase-items mb-0">
 															<li className="d-flex align-items-center mt-3">
-																<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+																<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 																<p className="ms-2 mb-0 text-900 fs-6">Empower Businesses</p>
 															</li>
 															<li className="d-flex align-items-center mt-3">
-																<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+																<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 																<p className="ms-2 mb-0 text-900 fs-6">Commitment to Excellence</p>
 															</li>
 															<li className="d-flex align-items-center mt-3">
-																<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+																<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 																<p className="ms-2 mb-0 text-900 fs-6">Continuous Evolution</p>
 															</li>
 															<li className="d-flex align-items-center mt-3">
-																<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+																<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 																<p className="ms-2 mb-0 text-900 fs-6">Client-Centric Solutions</p>
 															</li>
 														</ul>
@@ -610,7 +610,7 @@ export default function SectionCta() {
 								</div>
 							</div>
 							<div className="position-absolute top-0 end-0 z-1 flickering p-10 m-10 d-none d-lg-block">
-								<img src="/assets/imgs/cta-7/star-1.svg" alt="infinia" />
+								<img src="/assets/imgs/cta-7/star-1.svg" alt="Solution Spire" />
 							</div>
 						</div>
 					</div>
@@ -622,7 +622,7 @@ export default function SectionCta() {
 							<div className="row align-items-center">
 								<div className="col-lg-5">
 									<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Recent work</span>
 									</div>
 									<h5 className="ds-5 mt-2">Doing the successful thing, at the right time.</h5>
@@ -630,7 +630,7 @@ export default function SectionCta() {
 									<div className="d-flex pt-3 align-items-center">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 											<div className="icon">
-												<img src="/assets/imgs/service-4/icon-1.svg" alt="infinia" />
+												<img src="/assets/imgs/service-4/icon-1.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<div className="ps-5">
@@ -641,7 +641,7 @@ export default function SectionCta() {
 									<div className="d-flex pt-3 align-items-center">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
 											<div className="icon">
-												<img src="/assets/imgs/service-4/icon-2.svg" alt="infinia" />
+												<img src="/assets/imgs/service-4/icon-2.svg" alt="Solution Spire" />
 											</div>
 										</div>
 										<div className="ps-5">
@@ -652,13 +652,13 @@ export default function SectionCta() {
 								</div>
 								<div className="col-lg-6 offset-lg-1 text-center mt-lg-0 mt-8">
 									<div className="position-relative z-1 d-inline-block mb-lg-0 mb-8">
-										<img className="rounded-4 position-relative z-1" src="/assets/imgs/cta-5/img-1.png" alt="infinia" />
+										<img className="rounded-4 position-relative z-1" src="/assets/imgs/cta-5/img-1.png" alt="Solution Spire" />
 										<div className="alltuchtopdown tag-year position-absolute backdrop-filter bg-primary rounded-4 px-4 py-5 text-center z-1">
 											<span className="h2 count fw-black my-0 lh-1 text-white text-nowrap"><span className="odometer" /><CountUp end={25} enableScrollSpy={true} />+</span>
 											<p className="text-white text-nowrap mb-0">Years of Experience</p>
 										</div>
 										<div className="position-absolute tag-dots z-0 pt-5">
-											<img className="alltuchtopdown" src="/assets/imgs/cta-4/vector.svg" alt="infinia" />
+											<img className="alltuchtopdown" src="/assets/imgs/cta-4/vector.svg" alt="Solution Spire" />
 										</div>
 									</div>
 								</div>
@@ -700,7 +700,7 @@ export default function SectionCta() {
 								</div>
 								<div className="col-lg-6 px-lg-7">
 									<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Why choose us</span>
 									</div>
 									<h5 className="ds-5 mt-3 mb-5">Build a sustainable <br /> future for your company</h5>
@@ -737,29 +737,29 @@ export default function SectionCta() {
 						<div className="row align-items-center">
 							<div className="col-lg-6 ps-lg-0 pe-lg-8">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Who we are</span>
 								</div>
 								<h5 className="ds-5 my-3">Where your financial dreams become reality</h5>
-								<p className="fs-5 text-500">Infinia is a digital company specializing in website creation. Enterprises of all sizes—from emerging startups to large corporations—utilize our theme to develop and manage their online presence.</p>
+								<p className="fs-5 text-500">Solution Spire is a digital company specializing in website creation. Enterprises of all sizes—from emerging startups to large corporations—utilize our theme to develop and manage their online presence.</p>
 								<div className="d-md-flex align-items-center mt-4 mb-5">
 									<ul className="list-unstyled phase-items mb-0">
 										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+											<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 											<span className="ms-2 text-900 fw-medium fs-6">Best For IT Consulting</span>
 										</li>
 										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+											<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 											<span className="ms-2 text-900 fw-medium fs-6">Save Money  Time</span>
 										</li>
 									</ul>
 									<ul className="list-unstyled phase-items ms-md-5 mb-0">
 										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+											<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 											<span className="ms-2 text-900 fw-medium fs-6">Innovative Approaches</span>
 										</li>
 										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+											<img src="/assets/imgs/cta-2/check.svg" alt="Solution Spire" />
 											<span className="ms-2 text-900 fw-medium fs-6">100% Satisfaction</span>
 										</li>
 									</ul>
@@ -767,7 +767,7 @@ export default function SectionCta() {
 							</div>
 							<div className="col-lg-5 offset-lg-1">
 								<div className="text-center position-relative">
-									<img className="rounded-4 border border-2 bg-white shadow-2 hover-up mt-5 p-6 position-relative z-1" src="/assets/imgs/cta-10/img-1.png" alt="infinia" />
+									<img className="rounded-4 border border-2 bg-white shadow-2 hover-up mt-5 p-6 position-relative z-1" src="/assets/imgs/cta-10/img-1.png" alt="Solution Spire" />
 									<div className="bg-linear-1 rounded-4 position-absolute top-0 start-0 bottom-0 end-0 h-75 z-0" />
 								</div>
 							</div>
@@ -819,7 +819,7 @@ export default function SectionCta() {
 							</div>
 							<div className="col-lg-6 ps-lg-8 mt-lg-0 mt-5">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Our Mission</span>
 								</div>
 								<h5 className="ds-5 my-3">Empowering Your Digital Success Through Innovative Solutions</h5>
@@ -830,27 +830,27 @@ export default function SectionCta() {
 											<img className="rounded-circle" src="/assets/imgs/cta-11/avatar-1.png" alt="" />
 											<div className="d-flex flex-column ps-3">
 												<div className="d-flex">
-													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 												</div>
 												<h6 className="mt-2 mb-0 fs-6">John Smith</h6>
 											</div>
 										</div>
-										<p className="text-500 mt-3">Infinia's platform is intuitive and powerful. The custom solutions provided have streamlined our workflow.</p>
+										<p className="text-500 mt-3">Solution Spire's platform is intuitive and powerful. The custom solutions provided have streamlined our workflow.</p>
 									</div>
 									<div className="evaluate-2 ms-2 mt-md-0 mt-5">
 										<div className="d-flex align-items-center">
 											<img className="rounded-circle" src="/assets/imgs/cta-11/avatar-2.png" alt="" />
 											<div className="d-flex flex-column ps-3">
 												<div className="d-flex">
-													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 												</div>
 												<h6 className="mt-2 mb-0 fs-6">Azumi Rose</h6>
 											</div>
@@ -868,7 +868,7 @@ export default function SectionCta() {
 						<div className="row">
 							<div className="col-lg-5">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Our History</span>
 								</div>
 								<h5 className="ds-5 my-3">A Journey of <br className="d-none d-md-inline" />
@@ -886,8 +886,8 @@ export default function SectionCta() {
 								</div>
 							</div>
 							<div className="col-lg-6 offset-lg-1 mt-lg-0 mt-8">
-								<p className="fs-5 text-900 mb-5"><span className="fw-bold">Infinia</span> was founded with a passion for technology and a desire to make a difference in the digital world. From our humble beginnings, we have grown into a reputable and sought-after web development agency, serving a diverse range of clients across various industries. Over the years, <span className="fw-bold">we have successfully delivered countless projects</span>, each one a testament to our dedication, expertise, and innovative approach. Our journey has been marked by <span className="fw-bold">continuous growth, learning, and adaptation,</span> and we are proud of the milestones we have achieved along the way.</p>
-								<p className="fs-5 text-900 mb-5">Thank you for considering <span className="fw-bold">Infinia</span> as your web development partner. We look forward to helping you achieve your <span className="fw-bold">digital goals and creating a lasting impact</span> on your business.</p>
+								<p className="fs-5 text-900 mb-5"><span className="fw-bold">Solution Spire</span> was founded with a passion for technology and a desire to make a difference in the digital world. From our humble beginnings, we have grown into a reputable and sought-after web development agency, serving a diverse range of clients across various industries. Over the years, <span className="fw-bold">we have successfully delivered countless projects</span>, each one a testament to our dedication, expertise, and innovative approach. Our journey has been marked by <span className="fw-bold">continuous growth, learning, and adaptation,</span> and we are proud of the milestones we have achieved along the way.</p>
+								<p className="fs-5 text-900 mb-5">Thank you for considering <span className="fw-bold">Solution Spire</span> as your web development partner. We look forward to helping you achieve your <span className="fw-bold">digital goals and creating a lasting impact</span> on your business.</p>
 								<div className="d-flex">
 									<img className="rounded-circle border border-5 border-primary-light" src="/assets/imgs/cta-12/avatar-1.png" alt="" />
 									<div className="ms-2">
@@ -906,7 +906,7 @@ export default function SectionCta() {
 							<div className="col-lg-7 mx-lg-auto">
 								<div className="text-center mb-lg-0 mb-5">
 									<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">About our company</span>
 									</div>
 									<h5 className="ds-5 my-3 fw-regular">Uncover <span className="fw-bold">Our Journey: <br className="d-none d-md-inline" /> </span> Uniting Through <span className="fw-bold">Creativity</span></h5>
@@ -918,14 +918,14 @@ export default function SectionCta() {
 							<div className="col-lg-8">
 								<div className="position-relative mb-lg-0 mb-8 fix">
 									<div className="zoom-img rounded-4 fix">
-										<img src="/assets/imgs/cta-13/img-1.png" alt="infinia" />
+										<img src="/assets/imgs/cta-13/img-1.png" alt="Solution Spire" />
 									</div>
 									<div className="position-absolute alltuchtopdown bottom-0 start-0 m-md-5 backdrop-filter rounded-4 px-7 py-4 text-center z-1">
 										<p className="pt-2">Loved by over 4k <br /> happy clients</p>
 										<div className="d-flex align-items-center justify-content-center py-4">
-											<img src="/assets/imgs/features-3/avatar-1.png" alt="infinia" />
-											<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="infinia" />
-											<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="infinia" />
+											<img src="/assets/imgs/features-3/avatar-1.png" alt="Solution Spire" />
+											<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="Solution Spire" />
+											<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="Solution Spire" />
 										</div>
 										<div className="d-flex align-items-center justify-content-center">
 											<svg xmlns="http://www.w3.org/2000/svg" width={26} height={26} viewBox="0 0 26 26" fill="none">
@@ -969,7 +969,7 @@ export default function SectionCta() {
 									</div>
 									<div className="col-md-6 col-lg-12">
 										<div className="zoom-img rounded-4 fix d-inline-block mt-4 mt-lg-4 mt-md-0 h-100">
-											<img className="h-100" src="/assets/imgs/cta-13/img-2.png" alt="infinia" />
+											<img className="h-100" src="/assets/imgs/cta-13/img-2.png" alt="Solution Spire" />
 										</div>
 									</div>
 								</div>
@@ -977,7 +977,7 @@ export default function SectionCta() {
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/service-2/bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/service-2/bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="rotate-center ellipse-rotate-success position-absolute z-0" />
 					<div className="rotate-center-rev ellipse-rotate-primary position-absolute z-1" />
@@ -987,7 +987,7 @@ export default function SectionCta() {
 					<div className="container position-relative z-2">
 						<div className="text-center">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">How It Work</span>
 							</div>
 							<h5 className="ds-5 my-3 fw-regular">What are the <span className="fw-bold">Steps Involved</span> in <br /> Our <span className="fw-bold">Process?</span></h5>
@@ -996,7 +996,7 @@ export default function SectionCta() {
 							<div className="col-10 mx-auto">
 								<div className="position-relative">
 									<div className="zoom-img rounded-4 border-5 border-white border position-relative z-2">
-										<img className="rounded-3" src="/assets/imgs/cta-14/img-1.png" alt="infinia" />
+										<img className="rounded-3" src="/assets/imgs/cta-14/img-1.png" alt="Solution Spire" />
 										<div className="position-absolute top-50 start-50 translate-middle z-2">
 											<Link href="#" scroll={false} onClick={() => setOpen(true)} className="d-inline-flex align-items-center rounded-4 text-nowrap backdrop-filter px-3 py-2 popup-video hover-up me-3 shadow-1">
 												<span className="backdrop-filter me-2 icon-shape icon-md rounded-circle">
@@ -1012,17 +1012,17 @@ export default function SectionCta() {
 										</div>
 									</div>
 									<div className="position-absolute top-100 start-0 translate-middle z-1">
-										<img className="alltuchtopdown" src="/assets/imgs/cta-14/vector.svg" alt="infinia" />
+										<img className="alltuchtopdown" src="/assets/imgs/cta-14/vector.svg" alt="Solution Spire" />
 									</div>
 									<div className="vector-2 position-absolute z-2">
-										<img className="alltuchtopdown" src="/assets/imgs/cta-14/vector-2.svg" alt="infinia" />
+										<img className="alltuchtopdown" src="/assets/imgs/cta-14/vector-2.svg" alt="Solution Spire" />
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/service-2/bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/service-2/bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="rotate-center ellipse-rotate-success position-absolute z-1" />
 					<div className="rotate-center-rev ellipse-rotate-primary position-absolute z-1" />
@@ -1034,34 +1034,34 @@ export default function SectionCta() {
 							<div className="col-lg-10 mx-lg-auto">
 								<div className="text-center mb-lg-0 mb-5">
 									<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">About us</span>
 									</div>
 									<h3 className="ds-3 my-3 fw-regular">Together, We are <span className="fw-bold">Shaping </span> a<br /> <span className="fw-bold">Promising</span> Future<span className="fw-bold">.</span></h3>
 								</div>
 							</div>
 						</div>
-						<img className="position-absolute z-2 top-0 end-0 pe-10 pe-lg-10" src="/assets/imgs/cta-15/star-2.svg" alt="infinia" />
-						<img className="position-absolute z-2 bottom-0 start-0 ps-10 ms-10" src="/assets/imgs/cta-15/star-1.svg" alt="infinia" />
+						<img className="position-absolute z-2 top-0 end-0 pe-10 pe-lg-10" src="/assets/imgs/cta-15/star-2.svg" alt="Solution Spire" />
+						<img className="position-absolute z-2 bottom-0 start-0 ps-10 ms-10" src="/assets/imgs/cta-15/star-1.svg" alt="Solution Spire" />
 					</div>
 					<div className="container-fluid">
 						<div className="d-flex align-items-center justify-content-center position-relative">
 							<div className="pe-3 position-relative z-1 d-none d-md-block">
-								<img className="rounded-3 border border-3 border-white" src="/assets/imgs/cta-15/img-1.png" alt="infinia" />
+								<img className="rounded-3 border border-3 border-white" src="/assets/imgs/cta-15/img-1.png" alt="Solution Spire" />
 							</div>
 							<div className="pe-3 position-relative z-1">
-								<img className="rounded-3 border border-3 border-white" src="/assets/imgs/cta-15/img-2.png" alt="infinia" />
+								<img className="rounded-3 border border-3 border-white" src="/assets/imgs/cta-15/img-2.png" alt="Solution Spire" />
 							</div>
 							<div className="pe-3 position-relative z-1">
-								<img className="rounded-3 border border-3 border-white" src="/assets/imgs/cta-15/img-3.png" alt="infinia" />
+								<img className="rounded-3 border border-3 border-white" src="/assets/imgs/cta-15/img-3.png" alt="Solution Spire" />
 							</div>
 							<div className="pe-3 position-relative z-1">
-								<img className="rounded-3 border border-3 border-white" src="/assets/imgs/cta-15/img-4.png" alt="infinia" />
+								<img className="rounded-3 border border-3 border-white" src="/assets/imgs/cta-15/img-4.png" alt="Solution Spire" />
 							</div>
 							<div className="pe-3 position-relative z-1 d-none d-md-block">
-								<img className="rounded-3 border border-3 border-white" src="/assets/imgs/cta-15/img-5.png" alt="infinia" />
+								<img className="rounded-3 border border-3 border-white" src="/assets/imgs/cta-15/img-5.png" alt="Solution Spire" />
 							</div>
-							<img className="position-absolute top-50 end-50 translate-middle-y z-0" src="/assets/imgs/cta-15/bg-ellipse.png" alt="infinia" />
+							<img className="position-absolute top-50 end-50 translate-middle-y z-0" src="/assets/imgs/cta-15/bg-ellipse.png" alt="Solution Spire" />
 						</div>
 						<div className="text-center mt-5">
 							<div className="socials bg-white px-3 shadow-1 py-2 border rounded-pill d-inline-flex d-flex align-items-center justify-content-center">

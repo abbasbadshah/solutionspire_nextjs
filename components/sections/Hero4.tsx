@@ -33,7 +33,7 @@ export default function Hero4() {
                 <img
                   className="rounded-5 border border-5 border-white"
                   src="/assets/imgs/hero-4/img-1.png"
-                  alt="infinia"
+                  alt="Solution Spire"
                 />
                 <div className="alltuchtopdown backdrop-filter rounded-4 text-center d-inline-block px-6 py-4 m-5 position-absolute bottom-0 end-0">
                   <h2 className="count text-900 fw-black">
@@ -57,7 +57,7 @@ export default function Hero4() {
                 </div>
                 <div className="position-absolute start-0 bottom-50 translate-middle-x">
                   <div className="alltuchtopdown">
-                    <img src="/assets/imgs/hero-4/vector-1.svg" alt="infinia" />
+                    <img src="/assets/imgs/hero-4/vector-1.svg" alt="Solution Spire" />
                   </div>
                 </div>
               </div>
@@ -77,7 +77,7 @@ export default function Hero4() {
                   Your <span className=" fw-bold">Business</span>
                 </h3>
                 <p className="fs-5 text-500 py-3">
-                  At SolutionSpire, we empower businesses with innovative IT
+                  At Solution Spire, we empower businesses with innovative IT
                   solutions and cutting-edge technology services to drive growth
                   and success. Let us be your trusted partner in navigating the
                   digital landscape.
@@ -142,30 +142,30 @@ export default function Hero4() {
                               <img
                                 className="rounded-circle"
                                 src="/assets/imgs/hero-4/avatar-1.png"
-                                alt="infinia"
+                                alt="Solution Spire"
                               />
                             </div>
                             <div className="content ms-3">
                               <div className="d-flex">
                                 <img
                                   src="/assets/imgs/hero-4/star-yellow.svg"
-                                  alt="infinia"
+                                  alt="Solution Spire"
                                 />
                                 <img
                                   src="/assets/imgs/hero-4/star-yellow.svg"
-                                  alt="infinia"
+                                  alt="Solution Spire"
                                 />
                                 <img
                                   src="/assets/imgs/hero-4/star-yellow.svg"
-                                  alt="infinia"
+                                  alt="Solution Spire"
                                 />
                                 <img
                                   src="/assets/imgs/hero-4/star-yellow.svg"
-                                  alt="infinia"
+                                  alt="Solution Spire"
                                 />
                                 <img
                                   src="/assets/imgs/hero-4/star-yellow.svg"
-                                  alt="infinia"
+                                  alt="Solution Spire"
                                 />
                               </div>
                               <p className="text-500 mt-2">
@@ -184,30 +184,30 @@ export default function Hero4() {
                               <img
                                 className="rounded-circle"
                                 src="/assets/imgs/hero-4/avatar-1.png"
-                                alt="infinia"
+                                alt="Solution Spire"
                               />
                             </div>
                             <div className="content ms-3">
                               <div className="d-flex">
                                 <img
                                   src="/assets/imgs/hero-4/star-yellow.svg"
-                                  alt="infinia"
+                                  alt="Solution Spire"
                                 />
                                 <img
                                   src="/assets/imgs/hero-4/star-yellow.svg"
-                                  alt="infinia"
+                                  alt="Solution Spire"
                                 />
                                 <img
                                   src="/assets/imgs/hero-4/star-yellow.svg"
-                                  alt="infinia"
+                                  alt="Solution Spire"
                                 />
                                 <img
                                   src="/assets/imgs/hero-4/star-yellow.svg"
-                                  alt="infinia"
+                                  alt="Solution Spire"
                                 />
                                 <img
                                   src="/assets/imgs/hero-4/star-yellow.svg"
-                                  alt="infinia"
+                                  alt="Solution Spire"
                                 />
                               </div>
                               <p className="text-500 mt-2">
@@ -226,30 +226,30 @@ export default function Hero4() {
                               <img
                                 className="rounded-circle"
                                 src="/assets/imgs/hero-4/avatar-1.png"
-                                alt="infinia"
+                                alt="Solution Spire"
                               />
                             </div>
                             <div className="content ms-3">
                               <div className="d-flex">
                                 <img
                                   src="/assets/imgs/hero-4/star-yellow.svg"
-                                  alt="infinia"
+                                  alt="Solution Spire"
                                 />
                                 <img
                                   src="/assets/imgs/hero-4/star-yellow.svg"
-                                  alt="infinia"
+                                  alt="Solution Spire"
                                 />
                                 <img
                                   src="/assets/imgs/hero-4/star-yellow.svg"
-                                  alt="infinia"
+                                  alt="Solution Spire"
                                 />
                                 <img
                                   src="/assets/imgs/hero-4/star-yellow.svg"
-                                  alt="infinia"
+                                  alt="Solution Spire"
                                 />
                                 <img
                                   src="/assets/imgs/hero-4/star-yellow.svg"
-                                  alt="infinia"
+                                  alt="Solution Spire"
                                 />
                               </div>
                               <p className="text-500 mt-2">
@@ -268,30 +268,30 @@ export default function Hero4() {
                               <img
                                 className="rounded-circle"
                                 src="/assets/imgs/hero-4/avatar-1.png"
-                                alt="infinia"
+                                alt="Solution Spire"
                               />
                             </div>
                             <div className="content ms-3">
                               <div className="d-flex">
                                 <img
                                   src="/assets/imgs/hero-4/star-yellow.svg"
-                                  alt="infinia"
+                                  alt="Solution Spire"
                                 />
                                 <img
                                   src="/assets/imgs/hero-4/star-yellow.svg"
-                                  alt="infinia"
+                                  alt="Solution Spire"
                                 />
                                 <img
                                   src="/assets/imgs/hero-4/star-yellow.svg"
-                                  alt="infinia"
+                                  alt="Solution Spire"
                                 />
                                 <img
                                   src="/assets/imgs/hero-4/star-yellow.svg"
-                                  alt="infinia"
+                                  alt="Solution Spire"
                                 />
                                 <img
                                   src="/assets/imgs/hero-4/star-yellow.svg"
-                                  alt="infinia"
+                                  alt="Solution Spire"
                                 />
                               </div>
                               <p className="text-500 mt-2">
@@ -310,7 +310,7 @@ export default function Hero4() {
                   </div>
                 </div>
                 <div className="position-absolute top-0 end-0 z-1 flickering pt-9 pe-4">
-                  <img src="/assets/imgs/hero-4/star-1.svg" alt="infinia" />
+                  <img src="/assets/imgs/hero-4/star-1.svg" alt="Solution Spire" />
                 </div>
               </div>
             </div>
@@ -319,11 +319,11 @@ export default function Hero4() {
             <img
               className="h-100"
               src="/assets/imgs/hero-4/line-bg.png"
-              alt="infinia"
+              alt="Solution Spire"
             />
           </div>
           <div className="position-absolute bg-rotate d-none d-lg-block pb-10 ps-9 mb-8 z-0">
-            <img src="/assets/imgs/hero-4/favicon.svg" alt="infinia" />
+            <img src="/assets/imgs/hero-4/favicon.svg" alt="Solution Spire" />
           </div>
         </div>
       </section>

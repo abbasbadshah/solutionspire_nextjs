@@ -27,7 +27,7 @@ export default function PageFeatures1() {
 						<div className="row">
 							<div className="col-lg-4">
 								<div className="d-flex align-items-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-3 py-1">
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Our Features</span>
 								</div>
 								<h2 className="fw-medium mt-4 lh-sm">Together, we are creating a
@@ -38,13 +38,13 @@ export default function PageFeatures1() {
 							<div className="col-lg-8">
 								<div className="d-flex flex-md-row flex-column align-items-center position-relative ps-lg-8 pt-lg-0 pt-10">
 									<div className="pe-md-3 pb-3 pb-md-0 position-relative z-1" data-aos="fade-zoom-in" data-aos-delay={100}>
-										<img className="rounded-3 border border-3 border-white" src="/assets/imgs/features-1/img-1.png" alt="infinia" />
+										<img className="rounded-3 border border-3 border-white" src="/assets/imgs/features-1/img-1.png" alt="Solution Spire" />
 									</div>
 									<div className="pe-md-3 pb-3 pb-md-0 position-relative z-1" data-aos="fade-zoom-in" data-aos-delay={200}>
-										<img className="rounded-3 border border-3 border-white" src="/assets/imgs/features-1/img-2.png" alt="infinia" />
+										<img className="rounded-3 border border-3 border-white" src="/assets/imgs/features-1/img-2.png" alt="Solution Spire" />
 									</div>
 									<div className="pe-md-3 pb-3 pb-md-0 position-relative z-1" data-aos="fade-zoom-in" data-aos-delay={300}>
-										<img className="rounded-3 border border-3 border-white" src="/assets/imgs/features-1/img-3.png" alt="infinia" />
+										<img className="rounded-3 border border-3 border-white" src="/assets/imgs/features-1/img-3.png" alt="Solution Spire" />
 										<a href="#" onClick={() => setOpen(true)} className="d-inline-flex align-items-center rounded-4 text-nowrap backdrop-filter px-3 py-2 popup-video hover-up position-absolute bottom-0 mb-4 start-50 translate-middle-x">
 											<span className="backdrop-filter me-2 icon-shape icon-md rounded-circle">
 												<svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none">
@@ -58,9 +58,9 @@ export default function PageFeatures1() {
 										<ModalVideo channel='youtube' isOpen={isOpen} videoId="gXFATcwrO-U" onClose={() => setOpen(false)} />
 
 									</div>
-									<img className="position-absolute top-50 start-0 translate-middle-y z-0" src="/assets/imgs/features-1/bg-ellipse.png" alt="infinia" />
-									<img className="position-absolute z-2 star-lg" src="/assets/imgs/features-1/star-lg.png" alt="infinia" />
-									<img className="position-absolute z-2 star-md" src="/assets/imgs/features-1/star-md.png" alt="infinia" />
+									<img className="position-absolute top-50 start-0 translate-middle-y z-0" src="/assets/imgs/features-1/bg-ellipse.png" alt="Solution Spire" />
+									<img className="position-absolute z-2 star-lg" src="/assets/imgs/features-1/star-lg.png" alt="Solution Spire" />
+									<img className="position-absolute z-2 star-md" src="/assets/imgs/features-1/star-md.png" alt="Solution Spire" />
 								</div>
 							</div>
 						</div>
@@ -72,7 +72,7 @@ export default function PageFeatures1() {
 								<div className="feature-item mb-5 mb-lg-0">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/features-1/icon-1.svg" alt="infinia" />
+											<img src="/assets/imgs/features-1/icon-1.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h6>Work organization</h6>
@@ -83,7 +83,7 @@ export default function PageFeatures1() {
 								<div className="feature-item mb-5 mb-lg-0">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/features-1/icon-2.svg" alt="infinia" />
+											<img src="/assets/imgs/features-1/icon-2.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h6>Strategy Development</h6>
@@ -94,7 +94,7 @@ export default function PageFeatures1() {
 								<div className="feature-item mb-5 mb-lg-0">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/features-1/icon-3.svg" alt="infinia" />
+											<img src="/assets/imgs/features-1/icon-3.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h6>Data analytics</h6>
@@ -105,7 +105,7 @@ export default function PageFeatures1() {
 								<div className="feature-item mb-5 mb-lg-0">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/features-1/icon-4.svg" alt="infinia" />
+											<img src="/assets/imgs/features-1/icon-4.svg" alt="Solution Spire" />
 										</div>
 									</div>
 									<h6>Business Intelligence </h6>
@@ -122,13 +122,13 @@ export default function PageFeatures1() {
 							<div className="row align-items-center">
 								<div className="col-lg-6 text-lg-end text-center">
 									<div className="position-relative d-inline-block mb-lg-0 mb-8">
-										<img className="rounded-4" src="/assets/imgs/features-3/img-1.png" alt="infinia" data-aos="fade-zoom-in" data-aos-delay={200} />
+										<img className="rounded-4" src="/assets/imgs/features-3/img-1.png" alt="Solution Spire" data-aos="fade-zoom-in" data-aos-delay={200} />
 										<div className="position-absolute bottom-0 start-0 translate-middle-md-x mb-md-8 backdrop-filter rounded-3 p-md-4 p-3 text-center">
 											<h6>Rate For Us</h6>
 											<div className="d-flex align-items-center justify-content-center py-4">
-												<img src="/assets/imgs/features-3/avatar-1.png" alt="infinia" />
-												<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="infinia" />
-												<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="infinia" />
+												<img src="/assets/imgs/features-3/avatar-1.png" alt="Solution Spire" />
+												<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="Solution Spire" />
+												<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="Solution Spire" />
 											</div>
 											<div className="d-flex align-items-center justify-content-center">
 												<svg xmlns="http://www.w3.org/2000/svg" width={26} height={26} viewBox="0 0 26 26" fill="none">
@@ -202,7 +202,7 @@ export default function PageFeatures1() {
 					<div className="container position-relative z-2">
 						<div className="text-center">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Why We Are The Best</span>
 							</div>
 							<h3 className="ds-3 my-3 fw-regular">Proud projects <span className=" fw-bold">that make <br className="d-none d-lg-inline" /> us stand</span> out</h3>
@@ -295,21 +295,21 @@ export default function PageFeatures1() {
 							</div>
 							<div className="col-lg-6 px-lg-6 mt-lg-0 mt-8">
 								<Link href="#" className="d-flex flex-column flex-md-row align-items-center mb-6 hover-up">
-									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/features-6/img-1.png" alt="infinia" />
+									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/features-6/img-1.png" alt="Solution Spire" />
 									<div className="content mt-md-0 mt-4 ms-5">
 										<h6 className="mb-2">Cloud Migration Services</h6>
 										<p>As the SaaS industry continues to evolve, new trends are shaping the future of software delivery and consumption...</p>
 									</div>
 								</Link>
 								<Link href="#" className="d-flex flex-column flex-md-row align-items-center mb-6 hover-up">
-									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/features-6/img-2.png" alt="infinia" />
+									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/features-6/img-2.png" alt="Solution Spire" />
 									<div className="content mt-md-0 mt-4 ms-5">
 										<h6 className="mb-2">Mobile App Development</h6>
 										<p>As the SaaS industry continues to evolve, new trends are shaping the future of software delivery and consumption...</p>
 									</div>
 								</Link>
 								<Link href="#" className="d-flex flex-column flex-md-row align-items-center mb-6 hover-up">
-									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/features-6/img-3.png" alt="infinia" />
+									<img className="rounded-3 w-100 w-md-auto" src="/assets/imgs/features-6/img-3.png" alt="Solution Spire" />
 									<div className="content mt-md-0 mt-4 ms-5">
 										<h6 className="mb-2">UI/UX Design Teaching</h6>
 										<p>As the SaaS industry continues to evolve, new trends are shaping the future of software delivery and consumption...</p>
@@ -319,7 +319,7 @@ export default function PageFeatures1() {
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/service-2/bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/service-2/bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="rotate-center ellipse-rotate-success position-absolute z-1" />
 					<div className="rotate-center-rev ellipse-rotate-primary position-absolute z-1" />
@@ -331,7 +331,7 @@ export default function PageFeatures1() {
 							<div className="row align-items-center">
 								<div className="col-lg-5">
 									<div className="photo-description position-relative  rounded-4">
-										<img className="rounded-4 border border-2 border-white position-relative z-1" src="/assets/imgs/features-5/img-1.png" alt="infinia" />
+										<img className="rounded-4 border border-2 border-white position-relative z-1" src="/assets/imgs/features-5/img-1.png" alt="Solution Spire" />
 										<div className="box-gradient-1 ms-lg-8 position-absolute bottom-0 start-0 bg-linear-1 rounded-4 z-0" />
 									</div>
 								</div>
@@ -370,12 +370,12 @@ export default function PageFeatures1() {
 								</div>
 								<div className="col-lg-6 offset-lg-1 order-1 order-lg-2 mt-5 text-lg-end text-center">
 									<div className="photo-description position-relative rounded-4 d-inline-block">
-										<img className="rounded-4 border border-2 border-white position-relative z-1" src="/assets/imgs/features-5/img-2.png" alt="infinia" />
+										<img className="rounded-4 border border-2 border-white position-relative z-1" src="/assets/imgs/features-5/img-2.png" alt="Solution Spire" />
 										<div className="position-absolute top-50 start-50 translate-middle z-0">
 											<div className="box-gradient-2 position-relative bg-linear-1 rounded-4 z-0">
 											</div>
 										</div>
-										<img className="position-absolute top-100 start-0 d-none d-md-block translate-middle rounded-4 border border-2 border-white position-relative z-1" src="/assets/imgs/features-5/img-3.png" alt="infinia" data-aos="zoom-in" data-aos-delay={100} />
+										<img className="position-absolute top-100 start-0 d-none d-md-block translate-middle rounded-4 border border-2 border-white position-relative z-1" src="/assets/imgs/features-5/img-3.png" alt="Solution Spire" data-aos="zoom-in" data-aos-delay={100} />
 									</div>
 								</div>
 							</div>
@@ -384,43 +384,43 @@ export default function PageFeatures1() {
 									<p className="text-500">Compatible with all operating systems and browsers in the world</p>
 									<div className="compatible-group bg-white p-5 mt-5 rounded-4 d-md-flex justify-content-between">
 										<div className="compatible hover-up">
-											<img src="/assets/imgs/features-5/icon-1.png" alt="infinia" />
+											<img src="/assets/imgs/features-5/icon-1.png" alt="Solution Spire" />
 											<p className="text-900 mt-3 mb-0">MacOs</p>
 										</div>
 										<div className="compatible hover-up">
-											<img src="/assets/imgs/features-5/icon-2.png" alt="infinia" />
+											<img src="/assets/imgs/features-5/icon-2.png" alt="Solution Spire" />
 											<p className="text-900 mt-3 mb-0">Windows</p>
 										</div>
 										<div className="compatible hover-up">
-											<img src="/assets/imgs/features-5/icon-3.png" alt="infinia" />
+											<img src="/assets/imgs/features-5/icon-3.png" alt="Solution Spire" />
 											<p className="text-900 mt-3 mb-0">Linux</p>
 										</div>
 										<div className="compatible hover-up">
-											<img src="/assets/imgs/features-5/icon-4.png" alt="infinia" />
+											<img src="/assets/imgs/features-5/icon-4.png" alt="Solution Spire" />
 											<p className="text-900 mt-3 mb-0">Android</p>
 										</div>
 										<div className="compatible hover-up">
-											<img src="/assets/imgs/features-5/icon-5.png" alt="infinia" />
+											<img src="/assets/imgs/features-5/icon-5.png" alt="Solution Spire" />
 											<p className="text-900 mt-3 mb-0">iOS</p>
 										</div>
 										<div className="compatible hover-up">
-											<img src="/assets/imgs/features-5/icon-6.png" alt="infinia" />
+											<img src="/assets/imgs/features-5/icon-6.png" alt="Solution Spire" />
 											<p className="text-900 mt-3 mb-0">Firefox</p>
 										</div>
 										<div className="compatible hover-up">
-											<img src="/assets/imgs/features-5/icon-7.png" alt="infinia" />
+											<img src="/assets/imgs/features-5/icon-7.png" alt="Solution Spire" />
 											<p className="text-900 mt-3 mb-0">Chrome</p>
 										</div>
 										<div className="compatible hover-up">
-											<img src="/assets/imgs/features-5/icon-8.png" alt="infinia" />
+											<img src="/assets/imgs/features-5/icon-8.png" alt="Solution Spire" />
 											<p className="text-900 mt-3 mb-0">Safari</p>
 										</div>
 										<div className="compatible hover-up">
-											<img src="/assets/imgs/features-5/icon-9.png" alt="infinia" />
+											<img src="/assets/imgs/features-5/icon-9.png" alt="Solution Spire" />
 											<p className="text-900 mt-3 mb-0">Opera</p>
 										</div>
 										<div className="compatible hover-up">
-											<img src="/assets/imgs/features-5/icon-10.png" alt="infinia" />
+											<img src="/assets/imgs/features-5/icon-10.png" alt="Solution Spire" />
 											<p className="text-900 mt-3 mb-0">Opera</p>
 										</div>
 									</div>
@@ -434,7 +434,7 @@ export default function PageFeatures1() {
 					<div className="container position-relative z-1">
 						<div className="text-center">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Get in Tourch</span>
 							</div>
 							<h3 className="ds-3 mt-3 mb-3">Contact Our Team</h3>
@@ -594,13 +594,13 @@ export default function PageFeatures1() {
 												<svg xmlns="http://www.w3.org/2000/svg" width={20} height={20} viewBox="0 0 20 20" fill="none">
 													<path d="M18.2422 2.96875H1.75781C0.786602 2.96875 0 3.76023 0 4.72656V15.2734C0 16.2455 0.792383 17.0312 1.75781 17.0312H18.2422C19.2053 17.0312 20 16.2488 20 15.2734V4.72656C20 3.76195 19.2165 2.96875 18.2422 2.96875ZM17.996 4.14062C17.6369 4.49785 11.4564 10.6458 11.243 10.8581C10.9109 11.1901 10.4695 11.3729 10 11.3729C9.53047 11.3729 9.08906 11.1901 8.75594 10.857C8.61242 10.7142 2.50012 4.63414 2.00398 4.14062H17.996ZM1.17188 15.0349V4.96582L6.23586 10.0031L1.17188 15.0349ZM2.00473 15.8594L7.06672 10.8296L7.9284 11.6867C8.48176 12.2401 9.21746 12.5448 10 12.5448C10.7825 12.5448 11.5182 12.2401 12.0705 11.6878L12.9333 10.8296L17.9953 15.8594H2.00473ZM18.8281 15.0349L13.7641 10.0031L18.8281 4.96582V15.0349Z" fill="#6B7280" />
 												</svg>
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@infinia.com</Link>
+												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@Solution Spire.com</Link>
 											</div>
 											<div className="d-flex mb-2 mb-5">
 												<svg xmlns="http://www.w3.org/2000/svg" width={20} height={20} viewBox="0 0 20 20" fill="none">
 													<path d="M18.2422 2.96875H1.75781C0.786602 2.96875 0 3.76023 0 4.72656V15.2734C0 16.2455 0.792383 17.0312 1.75781 17.0312H18.2422C19.2053 17.0312 20 16.2488 20 15.2734V4.72656C20 3.76195 19.2165 2.96875 18.2422 2.96875ZM17.996 4.14062C17.6369 4.49785 11.4564 10.6458 11.243 10.8581C10.9109 11.1901 10.4695 11.3729 10 11.3729C9.53047 11.3729 9.08906 11.1901 8.75594 10.857C8.61242 10.7142 2.50012 4.63414 2.00398 4.14062H17.996ZM1.17188 15.0349V4.96582L6.23586 10.0031L1.17188 15.0349ZM2.00473 15.8594L7.06672 10.8296L7.9284 11.6867C8.48176 12.2401 9.21746 12.5448 10 12.5448C10.7825 12.5448 11.5182 12.2401 12.0705 11.6878L12.9333 10.8296L17.9953 15.8594H2.00473ZM18.8281 15.0349L13.7641 10.0031L18.8281 4.96582V15.0349Z" fill="#6B7280" />
 												</svg>
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@infinia.com</Link>
+												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@Solution Spire.com</Link>
 											</div>
 											<h6>For more inquiry</h6>
 											<p className="text-500">Reach out for immediate assistance</p>

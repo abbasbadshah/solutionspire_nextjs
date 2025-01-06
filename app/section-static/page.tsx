@@ -24,7 +24,7 @@ export default function SectionStatic() {
 							</div>
 						</div>
 					</div>
-					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="infinia" />
+					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="Solution Spire" />
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />
 						<div className="bouncing-blobs">
@@ -90,7 +90,7 @@ export default function SectionStatic() {
 						</div>
 					</div>
 					<div className="img-decorate position-absolute top-0 start-0">
-						<img src="/assets/imgs/static-1/img-decorate.png" alt="infinia" />
+						<img src="/assets/imgs/static-1/img-decorate.png" alt="Solution Spire" />
 					</div>
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass bg-transparent" />

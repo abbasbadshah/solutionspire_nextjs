@@ -49,12 +49,12 @@ export default function PageTermsConditions() {
 					<div className="container">
 						<div className="text-center">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Terms and Conditions</span>
 							</div>
 							<h3 className="ds-3 my-3">Terms and Conditions</h3>
 							<p className="fs-5 mb-0">
-								Welcome to Infinia System. These Terms and Conditions ("Terms") govern your use of our website, <br className="d-none d-lg-block" />
+								Welcome to Solution Spire System. These Terms and Conditions ("Terms") govern your use of our website, <br className="d-none d-lg-block" />
 								platform, and services (collectively, "Services"). By accessing or using our Services, you agree to be <br className="d-none d-lg-block" />
 								bound by these Terms. If you do not agree with these Terms, please do not use our Services.
 							</p>
@@ -83,7 +83,7 @@ export default function PageTermsConditions() {
 								</ul>
 								<h4 className="text-primary mt-4">Intellectual Property</h4>
 								<h5 className="my-3">Ownership</h5>
-								<p>All content and materials provided through our Services, including but not limited to text, graphics, logos, images, and software, are the property of Infinia System or our licensors and are protected by intellectual property laws.</p>
+								<p>All content and materials provided through our Services, including but not limited to text, graphics, logos, images, and software, are the property of Solution Spire System or our licensors and are protected by intellectual property laws.</p>
 								<h5 className="mb-3 mt-4">License</h5>
 								<p>We grant you a limited, non-exclusive, non-transferable, and revocable license to access and use our Services for personal and commercial purposes in accordance with these Terms. You may not:</p>
 								<ul>
@@ -107,14 +107,14 @@ export default function PageTermsConditions() {
 								<h5 className="my-3">Disclaimers</h5>
 								<p>Our Services are provided "as is" and "as available" without warranties of any kind, either express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement, and course of dealing or performance.</p>
 								<h5 className="mb-3 mt-4">Limitation of Liability</h5>
-								<p>To the maximum extent permitted by law, Infinia System and its affiliates, officers, directors, employees, and agents shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:</p>
+								<p>To the maximum extent permitted by law, Solution Spire System and its affiliates, officers, directors, employees, and agents shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:</p>
 								<ul>
 									<li>Your use or inability to use our Services.</li>
 									<li>Any unauthorized access to or use of our servers and/or any personal information stored therein.</li>
 									<li>Any interruption or cessation of transmission to or from our Services.</li>
 								</ul>
 								<h5 className="mb-3 mt-4">Indemnification</h5>
-								<p>You agree to defend, indemnify, and hold harmless Infinia System and its affiliates, officers, directors, employees, and agents from and against any and all claims, damages, obligations, losses, liabilities, costs, or debt, and expenses (including but not limited to attorney's fees) arising from:</p>
+								<p>You agree to defend, indemnify, and hold harmless Solution Spire System and its affiliates, officers, directors, employees, and agents from and against any and all claims, damages, obligations, losses, liabilities, costs, or debt, and expenses (including but not limited to attorney's fees) arising from:</p>
 								<ul>
 									<li>Your use of and access to the Services.</li>
 									<li>Your violation of any term of these Terms.</li>
@@ -132,15 +132,15 @@ export default function PageTermsConditions() {
 										<h6>Chat with us</h6>
 										<p className="text-500">The support team is always available 24/7</p>
 										<div className="d-flex mb-2">
-											<img src="/assets/imgs/contact-2/icon-1.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-2/icon-1.svg" alt="Solution Spire" />
 											<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Whatsapp</Link>
 										</div>
 										<div className="d-flex mb-2">
-											<img src="/assets/imgs/contact-2/icon-2.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-2/icon-2.svg" alt="Solution Spire" />
 											<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Viber</Link>
 										</div>
 										<div className="d-flex mb-2 mb-5">
-											<img src="/assets/imgs/contact-2/icon-3.svg" alt="infinia" />
+											<img src="/assets/imgs/contact-2/icon-3.svg" alt="Solution Spire" />
 											<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Messager</Link>
 										</div>
 									</div>
@@ -148,12 +148,12 @@ export default function PageTermsConditions() {
 										<h6>Send us an email</h6>
 										<p className="text-500">Our team will respond promptly to your inquiries</p>
 										<div className="d-flex mb-2">
-											<img src="/assets/imgs/contact-2/icon-4.svg" alt="infinia" />
-											<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@infinia.com</Link>
+											<img src="/assets/imgs/contact-2/icon-4.svg" alt="Solution Spire" />
+											<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@Solution Spire.com</Link>
 										</div>
 										<div className="d-flex mb-2 mb-5">
-											<img src="/assets/imgs/contact-2/icon-4.svg" alt="infinia" />
-											<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@infinia.com</Link>
+											<img src="/assets/imgs/contact-2/icon-4.svg" alt="Solution Spire" />
+											<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@Solution Spire.com</Link>
 										</div>
 									</div>
 								</div>
@@ -169,7 +169,7 @@ export default function PageTermsConditions() {
 							<div className="col-lg-7 mx-lg-auto">
 								<div className="text-center mb-lg-0 mb-5">
 									<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Testimonials</span>
 									</div>
 									<h5 className="ds-5 my-3 fw-regular">
@@ -193,22 +193,22 @@ export default function PageTermsConditions() {
 									<SwiperSlide className="swiper-slide">
 										<div className="bg-neutral-100 card-testimonial-3 p-5 rounded-3 position-relative">
 											<div className="d-flex align-items-center mb-5">
-												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-1.png" alt="infinia" />
+												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-1.png" alt="Solution Spire" />
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">John Anderson</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-1.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-1.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
 											</div>
 											<p className="text-900 border-bottom pb-4 mb-4">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 											<div className="d-flex">
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 												<span className="fs-8 text-600 ms-2">(For services and support)</span>
 											</div>
 											<div className="position-absolute top-0 end-0 m-4">
@@ -229,22 +229,22 @@ export default function PageTermsConditions() {
 									<SwiperSlide className="swiper-slide">
 										<div className="bg-neutral-100 card-testimonial-3 p-5 rounded-3 position-relative">
 											<div className="d-flex align-items-center mb-5">
-												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-3.png" alt="infinia" />
+												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-3.png" alt="Solution Spire" />
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Sarah Thompson</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-2.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-2.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
 											</div>
 											<p className="text-900 border-bottom pb-4 mb-4">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 											<div className="d-flex">
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 												<span className="fs-8 text-600 ms-2">(For services and support)</span>
 											</div>
 											<div className="position-absolute top-0 end-0 m-4">
@@ -265,22 +265,22 @@ export default function PageTermsConditions() {
 									<SwiperSlide className="swiper-slide">
 										<div className="bg-neutral-100 card-testimonial-3 p-5 rounded-3 position-relative">
 											<div className="d-flex align-items-center mb-5">
-												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-4.png" alt="infinia" />
+												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-4.png" alt="Solution Spire" />
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Emily Adams</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-3.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-3.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
 											</div>
 											<p className="text-900 border-bottom pb-4 mb-4">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 											<div className="d-flex">
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 												<span className="fs-8 text-600 ms-2">(For services and support)</span>
 											</div>
 											<div className="position-absolute top-0 end-0 m-4">
@@ -301,22 +301,22 @@ export default function PageTermsConditions() {
 									<SwiperSlide className="swiper-slide">
 										<div className="bg-neutral-100 card-testimonial-3 p-5 rounded-3 position-relative">
 											<div className="d-flex align-items-center mb-5">
-												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-2.png" alt="infinia" />
+												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-2.png" alt="Solution Spire" />
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Automated reports</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-4.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-4.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
 											</div>
 											<p className="text-900 border-bottom pb-4 mb-4">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 											<div className="d-flex">
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 												<span className="fs-8 text-600 ms-2">(For services and support)</span>
 											</div>
 											<div className="position-absolute top-0 end-0 m-4">
@@ -337,22 +337,22 @@ export default function PageTermsConditions() {
 									<SwiperSlide className="swiper-slide">
 										<div className="bg-neutral-100 card-testimonial-3 p-5 rounded-3 position-relative">
 											<div className="d-flex align-items-center mb-5">
-												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-1.png" alt="infinia" />
+												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-1.png" alt="Solution Spire" />
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Funnel optimization</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-1.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-1.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
 											</div>
 											<p className="text-900 border-bottom pb-4 mb-4">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 											<div className="d-flex">
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 												<span className="fs-8 text-600 ms-2">(For services and support)</span>
 											</div>
 											<div className="position-absolute top-0 end-0 m-4">
@@ -373,22 +373,22 @@ export default function PageTermsConditions() {
 									<SwiperSlide className="swiper-slide">
 										<div className="bg-neutral-100 card-testimonial-3 p-5 rounded-3 position-relative">
 											<div className="d-flex align-items-center mb-5">
-												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-3.png" alt="infinia" />
+												<img className="avatar-lg" src="/assets/imgs/testimonial-1/avatar-3.png" alt="Solution Spire" />
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Integrations</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-2.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-2.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
 											</div>
 											<p className="text-900 border-bottom pb-4 mb-4">The team's dedication and expertise have transformed our business. <span className="fw-bold">Their innovative solutions and outstanding support</span> have significantly boosted our productivity and client satisfaction. Allowing us to streamline our processes and focus on what matters most.</p>
 											<div className="d-flex">
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
+												<img src="/assets/imgs/hero-4/star-yellow.svg" alt="Solution Spire" />
 												<span className="fs-8 text-600 ms-2">(For services and support)</span>
 											</div>
 											<div className="position-absolute top-0 end-0 m-4">
@@ -413,7 +413,7 @@ export default function PageTermsConditions() {
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/service-2/bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/service-2/bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="rotate-center ellipse-rotate-success position-absolute z-0" />
 					<div className="rotate-center-rev ellipse-rotate-primary position-absolute z-1" />

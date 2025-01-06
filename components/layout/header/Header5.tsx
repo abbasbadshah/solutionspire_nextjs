@@ -13,12 +13,12 @@ export default function Header5({ scroll, isMobileMenu, handleMobileMenu, isSear
 					<div className="container-fluid py-2 px-8">
 						<div className="d-flex flex-column flex-lg-row justify-content-between align-items-center">
 							<div className="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
-								<a href="mailto:contact@infinia.com" className="pe-4 d-none d-md-flex">
+								<a href="mailto:contact@Solution Spire.com" className="pe-4 d-none d-md-flex">
 									<svg xmlns="http://www.w3.org/2000/svg" width={20} height={21} viewBox="0 0 20 21" fill="none">
 										<path d="M3.9585 6.95834C3.9585 6.03786 4.70469 5.29167 5.62516 5.29167H14.3752C15.2957 5.29167 16.0418 6.03786 16.0418 6.95834V14.0417C16.0418 14.9622 15.2957 15.7083 14.3752 15.7083H5.62516C4.70469 15.7083 3.9585 14.9622 3.9585 14.0417V6.95834Z" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
 										<path d="M4.5835 5.91667L10.0002 10.7083L15.4168 5.91667" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
 									</svg>
-									<span className="text-white ps-1 fs-7">contact@infinia.com</span>
+									<span className="text-white ps-1 fs-7">contact@Solution Spire.com</span>
 								</a>
 								<div className="location d-flex align-items-center">
 									<svg xmlns="http://www.w3.org/2000/svg" width={20} height={21} viewBox="0 0 20 21" fill="none">
@@ -64,8 +64,8 @@ export default function Header5({ scroll, isMobileMenu, handleMobileMenu, isSear
 				<nav className={`navbar navbar-expand-lg navbar-light w-100 border-bottom z-999 ${scroll ? 'navbar-stick' : ''}`} style={{ position: `${scroll? "fixed" : "relative"}`, top: `${scroll? "0" : "auto"}`, bottom: `${scroll? "auto" : "0"}` }}>
 					<div className="container-fluid px-lg-8">
 						<Link className="navbar-brand d-flex main-logo align-items-center" href="/">
-							<img src="assets/imgs/template/favicon.svg" alt="infinia" />
-							<span>Infinia</span>
+							<img src="assets/imgs/template/favicon.svg" alt="Solution Spire" />
+							<span>Solution Spire</span>
 						</Link>
 						<Menu />
 						<div className="d-flex align-items-center pe-5 pe-lg-0 me-5 me-lg-0">

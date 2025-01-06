@@ -36,7 +36,7 @@ export default function PageTeam3() {
 						<div className="row position-relative z-1">
 							<div className="text-center">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">OUR TEAM MEMBERS</span>
 								</div>
 								<h3 className="ds-3 my-3">Meet Our Team</h3>
@@ -48,7 +48,7 @@ export default function PageTeam3() {
 							<div className="col-lg-3 col-md-6 col-sm-6 mb-6">
 								<div className="position-relative z-1">
 									<div className="zoom-img rounded-4">
-										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-1.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-1.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 										<div className="position-relative z-1">
@@ -70,7 +70,7 @@ export default function PageTeam3() {
 							<div className="col-lg-3 col-md-6 col-sm-6 mb-6">
 								<div className="position-relative z-1">
 									<div className="zoom-img rounded-4">
-										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-2.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-2.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 										<div className="position-relative z-1">
@@ -92,7 +92,7 @@ export default function PageTeam3() {
 							<div className="col-lg-3 col-md-6 col-sm-6 mb-6">
 								<div className="position-relative z-1">
 									<div className="zoom-img rounded-4">
-										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-3.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-3.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 										<div className="position-relative z-1">
@@ -114,7 +114,7 @@ export default function PageTeam3() {
 							<div className="col-lg-3 col-md-6 col-sm-6 mb-6">
 								<div className="position-relative z-1">
 									<div className="zoom-img rounded-4">
-										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-4.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-4.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 										<div className="position-relative z-1">
@@ -136,7 +136,7 @@ export default function PageTeam3() {
 							<div className="col-lg-3 col-md-6 col-sm-6 mb-6">
 								<div className="position-relative z-1">
 									<div className="zoom-img rounded-4">
-										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-5.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-5.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 										<div className="position-relative z-1">
@@ -158,7 +158,7 @@ export default function PageTeam3() {
 							<div className="col-lg-3 col-md-6 col-sm-6 mb-6">
 								<div className="position-relative z-1">
 									<div className="zoom-img rounded-4">
-										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-6.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-6.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 										<div className="position-relative z-1">
@@ -180,7 +180,7 @@ export default function PageTeam3() {
 							<div className="col-lg-3 col-md-6 col-sm-6 mb-6">
 								<div className="position-relative z-1">
 									<div className="zoom-img rounded-4">
-										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-7.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-7.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 										<div className="position-relative z-1">
@@ -202,7 +202,7 @@ export default function PageTeam3() {
 							<div className="col-lg-3 col-md-6 col-sm-6 mb-6">
 								<div className="position-relative z-1">
 									<div className="zoom-img rounded-4">
-										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-8.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-7/portrait-8.png" alt="Solution Spire" />
 									</div>
 									<Link href="#" className="card-team text-start rounded-4 position-absolute bottom-0 start-0 end-0 z-1 p-4">
 										<div className="position-relative z-1">
@@ -241,7 +241,7 @@ export default function PageTeam3() {
 					<div className="container position-relative z-1">
 						<div className="text-center">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Our Features</span>
 							</div>
 							<h5 className="ds-3 my-3">+500k Satisfied Customers</h5>
@@ -327,7 +327,7 @@ export default function PageTeam3() {
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">John Anderson</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-1.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-1.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
@@ -339,7 +339,7 @@ export default function PageTeam3() {
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Sarah Thompson</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-2.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-2.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
@@ -351,7 +351,7 @@ export default function PageTeam3() {
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Emily Adams</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-3.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-3.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
@@ -363,7 +363,7 @@ export default function PageTeam3() {
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Automated reports</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-4.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-4.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
@@ -375,7 +375,7 @@ export default function PageTeam3() {
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Funnel optimization</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-1.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-1.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
@@ -387,7 +387,7 @@ export default function PageTeam3() {
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Integrations</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-2.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-2.png" alt="Solution Spire" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
@@ -401,7 +401,7 @@ export default function PageTeam3() {
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/team-1/bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/team-1/bg-line.png" alt="Solution Spire" />
 					</div>
 					<div className="rotate-center ellipse-rotate-success position-absolute z-0" />
 					<div className="rotate-center-rev ellipse-rotate-primary position-absolute z-0" />
