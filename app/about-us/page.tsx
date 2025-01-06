@@ -1,12 +1,12 @@
 "use client";
+import { useForm, SubmitHandler } from "react-hook-form"; // Added SubmitHandler import
 import Layout from "@/components/layout/Layout";
 import Link from "next/link";
-import { useForm } from "react-hook-form";
 import { useState } from "react";
 import CountUp from "react-countup";
 import { Autoplay, Keyboard, Navigation, Pagination } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
-import emailjs from '@emailjs/browser';
+import emailjs from "@emailjs/browser";
 
 interface IFormInputs {
   name: string;
@@ -15,50 +15,54 @@ interface IFormInputs {
   subject: string;
   message: string;
 }
+
 interface ITemplateParams extends IFormInputs {
   year: number;
 }
 
 export default function PageAbout() {
   const [isSubmitting, setIsSubmitting] = useState<boolean>(false);
-  const [submitStatus, setSubmitStatus] = useState<'success' | 'error' | null>(null);
-  
+  const [submitStatus, setSubmitStatus] = useState<"success" | "error" | null>(
+    null
+  );
+
   const {
     register,
     handleSubmit,
     reset,
-    formState: { errors }
+    formState: { errors },
   } = useForm<IFormInputs>();
 
   // Initialize EmailJS
-  emailjs.init("YOUR_PUBLIC_KEY");
+  emailjs.init("z8N894F6_kXoy9V5C");
 
   const onSubmit: SubmitHandler<IFormInputs> = async (data) => {
     setIsSubmitting(true);
     try {
       const templateParams: ITemplateParams = {
         ...data,
-        year: new Date().getFullYear()
+        year: new Date().getFullYear(),
       };
 
+      // Convert templateParams to a plain object that satisfies Record<string, unknown>
+      const formattedParams = { ...templateParams } as Record<string, unknown>;
+
       await emailjs.send(
-        'service_nrg97qc',
-        'template_56iqwoi',
-        templateParams,
-        'z8N894F6_kXoy9V5C'
+        "service_nrg97qc",
+        "template_56iqwoi",
+        formattedParams,
+        "z8N894F6_kXoy9V5C"
       );
 
-      setSubmitStatus('success');
+      setSubmitStatus("success");
       reset();
     } catch (error) {
-      console.error('Error sending email:', error);
-      setSubmitStatus('error');
+      console.error("Error sending email:", error);
+      setSubmitStatus("error");
     } finally {
       setIsSubmitting(false);
     }
   };
-
-
   const swiperOptions = {
     slidesPerView: 1,
     // spaceBetween: 20,
@@ -651,7 +655,10 @@ export default function PageAbout() {
                   data-aos="zoom-in"
                   data-aos-delay={100}
                 >
-                  <img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
+                  <img
+                    src="/assets/imgs/features-1/dots.png"
+                    alt="Solution Spire"
+                  />
                   <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
                     Our Mission
                   </span>
@@ -698,8 +705,8 @@ export default function PageAbout() {
                       </div>
                     </div>
                     <p className="text-500 mt-3">
-                      Solution Spire's platform is intuitive and powerful. The custom
-                      solutions provided have streamlined our workflow.
+                      Solution Spire's platform is intuitive and powerful. The
+                      custom solutions provided have streamlined our workflow.
                     </p>
                   </div>
                   <div className="evaluate-2 ms-2 mt-md-0 mt-5">
@@ -755,7 +762,10 @@ export default function PageAbout() {
                   data-aos="zoom-in"
                   data-aos-delay={100}
                 >
-                  <img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
+                  <img
+                    src="/assets/imgs/features-1/dots.png"
+                    alt="Solution Spire"
+                  />
                   <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
                     Our History
                   </span>
@@ -803,12 +813,12 @@ export default function PageAbout() {
               </div>
               <div className="col-lg-6 offset-lg-1 mt-lg-0 mt-8">
                 <p className="fs-5 text-900 mb-5">
-                  <span className="fw-bold">Solution Spire</span> was founded with a
-                  passion for technology and a desire to make a difference in
-                  the digital world. From our humble beginnings, we have grown
-                  into a reputable and sought-after web development agency,
-                  serving a diverse range of clients across various industries.
-                  Over the years,{" "}
+                  <span className="fw-bold">Solution Spire</span> was founded
+                  with a passion for technology and a desire to make a
+                  difference in the digital world. From our humble beginnings,
+                  we have grown into a reputable and sought-after web
+                  development agency, serving a diverse range of clients across
+                  various industries. Over the years,{" "}
                   <span className="fw-bold">
                     we have successfully delivered countless projects
                   </span>
@@ -860,7 +870,10 @@ export default function PageAbout() {
                 data-aos="zoom-in"
                 data-aos-delay={100}
               >
-                <img src="/assets/imgs/features-1/dots.png" alt="Solution Spire" />
+                <img
+                  src="/assets/imgs/features-1/dots.png"
+                  alt="Solution Spire"
+                />
                 <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">
                   Our Features
                 </span>
