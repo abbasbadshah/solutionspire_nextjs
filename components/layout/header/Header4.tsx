@@ -16,22 +16,42 @@ export default function Header4({
 }: any) {
   const [isSticky, setIsSticky] = useState(false);
   const [lastScroll, setLastScroll] = useState(0);
+  const [currentTheme, setCurrentTheme] = useState("light");
+
+  useEffect(() => {
+    // Initialize theme from localStorage
+    const savedTheme = localStorage?.getItem("theme") || "light";
+    setCurrentTheme(savedTheme);
+
+    // Set up theme change observer
+    const observer = new MutationObserver((mutations) => {
+      mutations.forEach((mutation) => {
+        if (mutation.attributeName === 'data-bs-theme') {
+          const newTheme = document.documentElement.getAttribute('data-bs-theme');
+          setCurrentTheme(newTheme || 'light');
+        }
+      });
+    });
+
+    observer.observe(document.documentElement, {
+      attributes: true,
+      attributeFilter: ['data-bs-theme']
+    });
+
+    return () => observer.disconnect();
+  }, []);
 
   useEffect(() => {
     const handleScroll = () => {
       const currentScroll = window.pageYOffset;
 
-      // Make header sticky when scrolling down and past 100px
       if (currentScroll > 100) {
         if (currentScroll > lastScroll) {
-          // Scrolling down
           setIsSticky(true);
         } else if (currentScroll < lastScroll && currentScroll < 200) {
-          // Scrolling up and near top
           setIsSticky(false);
         }
       } else {
-        // At the top
         setIsSticky(false);
       }
 
@@ -41,6 +61,10 @@ export default function Header4({
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
   }, [lastScroll]);
+
+  const logoSrc = currentTheme === "dark" 
+    ? "assets/imgs/logo/solutionspire-logo-white.png"
+    : "assets/imgs/logo/solutionspire-logo.png";
 
   return (
     <>
@@ -63,7 +87,7 @@ export default function Header4({
             >
               <img
                 className="splogo"
-                src="assets/imgs/logo/solutionspire-logo.png"
+                src={logoSrc}
                 alt="Solution Spire"
               />
             </Link>

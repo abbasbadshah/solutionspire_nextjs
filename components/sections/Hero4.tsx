@@ -57,7 +57,10 @@ export default function Hero4() {
                 </div>
                 <div className="position-absolute start-0 bottom-50 translate-middle-x">
                   <div className="alltuchtopdown">
-                    <img src="/assets/imgs/hero-4/vector-1.svg" alt="Solution Spire" />
+                    <img
+                      src="/assets/imgs/hero-4/vector-1.svg"
+                      alt="Solution Spire"
+                    />
                   </div>
                 </div>
               </div>
@@ -169,11 +172,12 @@ export default function Hero4() {
                                 />
                               </div>
                               <p className="text-500 mt-2">
-                                Access the same project through five different
-                                dynamic <br className="d-md-block d-none" />
-                                views: a kanban board, Gantt chart, spreadsheet,
-                                calendar <br />
-                                or simple task list.
+                                Working with SolutionSpire has been an absolute
+                                game-changer for us! Their team created a
+                                seamless, visually stunning e-commerce platform
+                                that perfectly represents our brand. The process
+                                was smooth, and they delivered on every promise.
+                                Highly recommend their services!
                               </p>
                             </div>
                           </div>
@@ -211,11 +215,11 @@ export default function Hero4() {
                                 />
                               </div>
                               <p className="text-500 mt-2">
-                                Access the same project through five different
-                                dynamic <br className="d-md-block d-none" />
-                                views: a kanban board, Gantt chart, spreadsheet,
-                                calendar <br />
-                                or simple task list.
+                                SolutionSpire turned my small business vision
+                                into a reality with a user-friendly and
+                                professional website. The team was incredibly
+                                responsive, and the delivery was faster than
+                                expected. My customers love it!
                               </p>
                             </div>
                           </div>
@@ -253,11 +257,11 @@ export default function Hero4() {
                                 />
                               </div>
                               <p className="text-500 mt-2">
-                                Access the same project through five different
-                                dynamic <br className="d-md-block d-none" />
-                                views: a kanban board, Gantt chart, spreadsheet,
-                                calendar <br />
-                                or simple task list.
+                                The e-commerce site developed by SolutionSpire
+                                has been a huge success for our brand. Their
+                                attention to detail and dedication to quality is
+                                truly commendable. We’re already seeing
+                                increased engagement!
                               </p>
                             </div>
                           </div>
@@ -295,11 +299,11 @@ export default function Hero4() {
                                 />
                               </div>
                               <p className="text-500 mt-2">
-                                Access the same project through five different
-                                dynamic <br className="d-md-block d-none" />
-                                views: a kanban board, Gantt chart, spreadsheet,
-                                calendar <br />
-                                or simple task list.
+                                From start to finish, the SolutionSpire team was
+                                fantastic to work with. They understood our
+                                requirements perfectly and created a platform
+                                that is both functional and visually appealing.
+                                Highly professional!
                               </p>
                             </div>
                           </div>
@@ -310,7 +314,10 @@ export default function Hero4() {
                   </div>
                 </div>
                 <div className="position-absolute top-0 end-0 z-1 flickering pt-9 pe-4">
-                  <img src="/assets/imgs/hero-4/star-1.svg" alt="Solution Spire" />
+                  <img
+                    src="/assets/imgs/hero-4/star-1.svg"
+                    alt="Solution Spire"
+                  />
                 </div>
               </div>
             </div>

@@ -10,7 +10,7 @@ export default function SectionHowItWork() {
 	return (
 		<>
 
-			<Layout >
+			<Layout headerStyle={4} footerStyle={3}>
 
 
 				<section className="section-page-header py-10 fix position-relative">

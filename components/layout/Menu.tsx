@@ -1,13 +1,11 @@
-import Link from "next/link"
+import Link from "next/link";
 
 export default function Menu() {
-
-	return (
-		<>
-
-			<div className="d-none d-lg-flex">
-				<ul className="navbar-nav mx-auto gap-4 align-items-lg-center">
-					{/* <li className="nav-item dropdown menu-item-has-children">
+  return (
+    <>
+      <div className="d-none d-lg-flex">
+        <ul className="navbar-nav mx-auto gap-4 align-items-lg-center">
+          {/* <li className="nav-item dropdown menu-item-has-children">
 						<Link className="nav-link fw-bold d-flex align-items-center" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
 							Home
 						</Link>
@@ -81,22 +79,42 @@ export default function Menu() {
 							<div className="ellipse-rotate-primary-sm position-absolute top-50 z-0" />
 						</div>
 					</li> */}
-					{/* <li className="nav-item">
+          {/* <li className="nav-item">
 						<Link className="nav-link fw-bold d-flex align-items-center" href="/">Home</Link>
 					</li> */}
-					<li className="nav-item">
-						<Link className="nav-link fw-bold d-flex align-items-center" href="/about-us">About</Link>
-					</li>
-					<li className="nav-item">
-						<Link className="nav-link fw-bold d-flex align-items-center" href="/page-services-1">Services</Link>
-					</li>
-					<li className="nav-item">
-						<Link className="nav-link fw-bold d-flex align-items-center" href="/section-how-it-work">How it work</Link>
-					</li>
-					<li className="nav-item">
-						<Link className="nav-link fw-bold d-flex align-items-center" href="/section-testimonial">Testimonials</Link>
-					</li>
-					{/* <li className="nav-item dropdown has-mega-menu">
+          <li className="nav-item">
+            <Link
+              className="nav-link fw-bold d-flex align-items-center"
+              href="/about-us"
+            >
+              About
+            </Link>
+          </li>
+          <li className="nav-item">
+            <Link
+              className="nav-link fw-bold d-flex align-items-center"
+              href="/services"
+            >
+              Services
+            </Link>
+          </li>
+          <li className="nav-item">
+            <Link
+              className="nav-link fw-bold d-flex align-items-center"
+              href="/how-it-work"
+            >
+              How it work
+            </Link>
+          </li>
+          <li className="nav-item">
+            <Link
+              className="nav-link fw-bold d-flex align-items-center"
+              href="/testimonials"
+            >
+              Testimonials
+            </Link>
+          </li>
+          {/* <li className="nav-item dropdown has-mega-menu">
 						<Link className="nav-link fw-bold d-flex align-items-center" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
 							Pages
 						</Link>
@@ -234,7 +252,7 @@ export default function Menu() {
 							<div className="ellipse-rotate-primary-sm position-absolute top-0 end-0 translate-middle-y z-0" />
 						</div>
 					</li> */}
-					{/* <li className="nav-item dropdown has-mega-menu-2">
+          {/* <li className="nav-item dropdown has-mega-menu-2">
 						<Link className="nav-link fw-bold d-flex align-items-center" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
 							Sections
 						</Link>
@@ -349,7 +367,7 @@ export default function Menu() {
 							<div className="ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0" />
 						</div>
 					</li> */}
-					{/* <li className="nav-item dropdown menu-item-has-children">
+          {/* <li className="nav-item dropdown menu-item-has-children">
 						<Link className="nav-link fw-bold d-flex align-items-center" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
 							Style Guide
 						</Link>
@@ -370,11 +388,16 @@ export default function Menu() {
 							<div className="ellipse-rotate-primary-sm position-absolute bottom-0 end-0 translate-middle z-0" />
 						</div>
 					</li> */}
-					<li className="nav-item">
-						<Link className="nav-link fw-bold d-flex align-items-center" href="/page-contact-1">Contact</Link>
-					</li>
-				</ul>
-			</div>
-		</>
-	)
+          <li className="nav-item">
+            <Link
+              className="nav-link fw-bold d-flex align-items-center"
+              href="/contact-us"
+            >
+              Contact
+            </Link>
+          </li>
+        </ul>
+      </div>
+    </>
+  );
 }

@@ -97,7 +97,7 @@ export default function PageAbout() {
 
   return (
     <>
-      <Layout headerStyle={4}>
+      <Layout headerStyle={4} footerStyle={3}>
         <section className="section-page-header py-10 fix position-relative">
           <div className="container position-relative z-1">
             <div className="text-start">
